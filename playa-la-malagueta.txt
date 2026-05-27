@@ -1,0 +1,142 @@
+你正在用（Next.js开发）
+为一个新景点【 Playa la Malagueta 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+playa-la-malagueta
+西班牙
+安达卢西亚	Playa la Malagueta
+
+
+Playa la Malagueta
+Playa de la Malagueta
+4.4(26,689)
+Public beach
+P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain
++34951926020
+PH8Q+RV Málaga, Spain
+
+https://maps.app.goo.gl/hLbRvdwVPo37TgFq8
+
+Playa de la Malagueta (Málaga)
+4.3(3,993)
+海滩
+Málaga, Spain
+
+https://maps.app.goo.gl/m43V2SVmdYtHLGwe8
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\摩尔多瓦\valley-of-the-mills-park\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+西班牙国家旅游局
+https://www.spain.info/
+安达卢西亚大区政府旅游局
+https://www.andalucia.org/
+马拉加市政府官方旅游局
+https://visita.malaga.eu/es/
+安达卢西亚历史遗产数字档案库
+https://guiadigital.iaph.es/
+国家海滩指南 GIS
+https://sig.mapama.gob.es/geoportal/
+西班牙国家公共数据开放平台
+https://datos.gob.es/es/aplicaciones/guia-de-playas
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/hLbRvdwVPo37TgFq8
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/hLbRvdwVPo37TgFq8
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/hLbRvdwVPo37TgFq8
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/hLbRvdwVPo37TgFq8
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/hLbRvdwVPo37TgFq8
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增西班牙语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+西班牙国家旅游局
+https://www.spain.info/
+安达卢西亚大区政府旅游局
+https://www.andalucia.org/
+马拉加市政府官方旅游局
+https://visita.malaga.eu/es/
+安达卢西亚历史遗产数字档案库
+https://guiadigital.iaph.es/
+国家海滩指南 GIS
+https://sig.mapama.gob.es/geoportal/
+西班牙国家公共数据开放平台
+https://datos.gob.es/es/aplicaciones/guia-de-playas
+
+
+国家级：西班牙国家旅游局（Turespaña）
+
+主管政府部门：西班牙工业与旅游部 (Ministerio de Industria y Turismo)
+
+官方网站：spain.info
+
+数据价值：提供西班牙国家层面的宏观出入境旅游指引、国家旅游品牌形象宣传及核心景点的跨国界背书。
+
+2. 大区级：安达卢西亚大区政府旅游局（Turismo y Deporte de Andalucía）
+
+主管政府部门：安达卢西亚大区政府 (Junta de Andalucía)
+
+官方网站：andalucia.org
+
+数据价值：涵盖整个“阳光海岸 (Costa del Sol)”所在大区的综合资源调度，是了解安达卢西亚南部大区政策、区域级景点目录的官方入口。
+
+3. 市级：马拉加市政府官方旅游局（Área de Turismo）
+
+主管政府部门：马拉加市议会 (Ayuntamiento de Málaga)
+
+官方网站：malagaturismo.com
+
+数据价值：直击 Playa de la Malagueta 的具体市政服务设施状态、本地活动日历、开放时间及交通指引的精确信息源。
+
+4. 专项资源/自然遗产数据库：国家官方海滩指南（Guía de Playas）
+
+主管政府部门：西班牙国家生态转型与人口挑战部 (MITECO)
+
+官方网站：miteco.gob.es/es/costas/servicios/guia-playas.html
+
+数据价值：这是整个西班牙最高标准的海岸线地理、生态与水质数据库。里面收录了 La Malagueta 海滩的精确长度、沙质成分、蓝旗认证状态、急救与无障碍设施等严谨的技术参数。
+
+5. 地方级专业历史遗产数据库：安达卢西亚历史遗产数字档案库（Guía Digital del IAPH）
+
+主管政府部门：安达卢西亚历史遗产研究所 (Instituto Andaluz del Patrimonio Histórico)
+
+官方网站：guiadigital.iaph.es
+
+数据价值：专项收录海滩紧邻的历史保护建筑（例如著名的马拉格塔斗牛场 Plaza de Toros de La Malagueta 及周边历史街区）的官方保护档案、学术级建筑评估报告及不动产遗产编码。
+
+整条链路确保了数据维度的完全覆盖：从国家宣传、大区协同、市级管理，深入到针对沙滩的自然生态参数，以及周边附属建筑的历史遗产定级，全部具备百分之百的政府行政和专业机构背景。
+
+
+
+
