@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "title": "Playa la Malagueta",
+    "description": "Guía completa de Playa la Malagueta en Málaga. Conoce este icono de la costa andaluza, su ubicación, información de visita y consejos de viaje."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Playa la Malagueta",
+    "subtitle": "Playa Pública · Málaga",
+    "rating": "4.4",
+    "reviewCount": "26,689 reseñas",
+    "type": "Playa",
+    "openMaps": "Ver en Google Maps"
+  },
+  "intro": {
+    "title": "Descubre Playa la Malagueta",
+    "description": "La Playa de la Malagueta es una de las playas urbanas más emblemáticas de Málaga, situada en el Paseo Marítimo Pablo Ruiz Picasso. Con sus características toneleras (quioscos de madera), esta playa de arena dorada ofrece un ambiente perfecto para disfrutar del sol y el mar Mediterráneo, siendo un destino favorito tanto para locales como para turistas.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "La playa es accesible durante todo el año y la entrada es gratuita.",
+        "Ideal para disfrutar del sol y el baño en el Mediterráneo.",
+        "Cuenta con toneleras tradicionales y servicios de restauración."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Paseo Marítimo Pablo Ruiz Picasso",
+        "Toneleras tradicionales",
+        "Arena dorada",
+        "Vistas al Mediterráneo"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre Playa la Malagueta",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Antecedentes Históricos",
+        "content": "La Playa de la Malagueta ha sido durante décadas uno de los principales puntos de encuentro de Málaga. Su nombre proviene del barrio de La Malagueta, y se ha convertido en un símbolo de la costa malagueña, siendo pionera en la implantación de servicios de playa urbanos en la ciudad."
+      },
+      {
+        "id": "layout",
+        "title": "Ubicación y Distribución",
+        "content": "La playa se encuentra en el Paseo Marítimo Pablo Ruiz Picasso, en la zona de Málaga-Este. Cuenta con un amplio paseo marítimo ideal para caminar, carril bici, zonas de descanso y una excelente oferta de chiringuitos y restaurantes frente al mar."
+      },
+      {
+        "id": "culture",
+        "title": "Significado Cultural",
+        "content": "Como una de las playas urbanas más populares de la Costa del Sol, la Malagueta es escenario de numerosos eventos veraniegos, actividades deportivas y encuentros sociales, siendo un punto de referencia para la identidad costera de Málaga."
+      },
+      {
+        "id": "facilities",
+        "title": "Servicios e Instalaciones",
+        "content": "La playa cuenta con hamacas y sombrillas, duchas, puesto de salvamento, zonas de restauración en las toneleras, alquiler de bicicletas, y acceso para personas con movilidad reducida. El paseo marítimo ofrece amplias zonas para el ocio y el deporte."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Playa de la Malagueta",
+    "type": "Tipo de Atracción",
+    "typeValue": "Playa Pública",
+    "country": "País",
+    "countryValue": "España",
+    "region": "Comunidad Autónoma",
+    "regionValue": "Andalucía",
+    "city": "Ciudad",
+    "cityValue": "Málaga",
+    "googleRating": "Valoración Google",
+    "googleRatingValue": "4.4 (26,689)",
+    "address": "Dirección",
+    "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "PH8Q+RV Málaga, Spain",
+    "phone": "Teléfono",
+    "phoneValue": "+34 951 92 60 20"
+  },
+  "hours": {
+    "title": "Horario de Visita",
+    "park": "Acceso a la Playa",
+    "parkTime": "Abierto todo el año (24 horas)",
+    "bestTime": "Mejor Época para Visitar",
+    "bestTimeSpring": "Primavera: Temperaturas agradables, ideal para pasear",
+    "bestTimeSummer": "Verano: Baño en el Mediterráneo, ambiente festivo",
+    "bestTimeAutumn": "Otoño: Días cálidos, menos afluencia",
+    "bestTimeWinter": "Invierno: Paseos junto al mar, paisajes tranquilos",
+    "tip": "La playa es accesible las 24 horas del día, aunque los servicios de toneleras y salvamento operan en horario estival."
+  },
+  "tickets": {
+    "title": "Información de Acceso",
+    "park": "Acceso a la Playa",
+    "parkPrice": "Acceso gratuito",
+    "parking": "Estacionamiento",
+    "parkingPrice": "Aparcamientos disponibles en el paseo marítimo (de pago en temporada alta)",
+    "services": "Servicios de Playa",
+    "servicesPrice": "Hamacas y sombrillas de alquiler",
+    "guided": "Instalaciones",
+    "guidedPrice": "Duchas, salvamento, accesible"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "fromCenter": "Desde el Centro de Málaga",
+    "fromCenterDesc": "La playa es accesible a pie desde el centro (aprox. 20 min) o en autobús urbano.",
+    "fromStation": "Desde la Estación de Tren",
+    "fromStationDesc": "Accesible en autobús urbano o a pie desde la estación de María Zambrano.",
+    "fromAirport": "Desde el Aeropuerto",
+    "fromAirportDesc": "Desde el Aeropuerto de Málaga-Costa del Sol, se puede tomar el tren C1 o un taxi hasta el centro.",
+    "publicTransport": "Transporte Público",
+    "publicTransportDesc": "Bien conectado por la red de autobuses urbanos de Málaga, con paradas cercanas.",
+    "walking": "Caminando",
+    "walkingDesc": "Accesible a pie desde múltiples zonas de la ciudad, ideal para pasear por el paseo marítimo.",
+    "driving": "En Coche",
+    "drivingDesc": "Accesible en coche, con opciones de aparcamiento en el paseo marítimo."
+  },
+  "route": {
+    "title": "Ruta Recomendada",
+    "overview": "Disfruta de un agradable paseo por la costa y sus alrededores.",
+    "steps": [
+      "Comienza en el Paseo Marítimo Pablo Ruiz Picasso",
+      "Disfruta de la arena dorada y el mar Mediterráneo",
+      "Visita las toneleras tradicionales",
+      "Pasea por el carril bici junto al mar",
+      "Disfruta de la gastronomía local en los chiringuitos"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores Lugares para Fotografías",
+    "spots": [
+      {
+        "title": "Paseo Marítimo",
+        "description": "El paseo marítimo ofrece excelentes oportunidades para fotografía de paisaje, especialmente durante el amanecer o el atardecer.",
+        "location": "Frente a la playa",
+        "image": "/gallery/playa-la-malagueta (1).jpg"
+      },
+      {
+        "title": "Toneleras",
+        "description": "Las características toneleras (quioscos de madera) ofrecen un marco perfecto para fotografías de verano.",
+        "location": "En la playa",
+        "image": "/gallery/playa-la-malagueta (3).jpg"
+      },
+      {
+        "title": "Vistas al Mediterráneo",
+        "description": "Las aguas cristalinas del Mediterráneo crean un marco natural perfecto para fotos de playa.",
+        "location": "En toda la playa",
+        "image": "/gallery/playa-la-malagueta (5).jpg"
+      },
+      {
+        "title": "Atardecer en la Playa",
+        "description": "El atardecer sobre el Mediterráneo ofrece colores espectaculares para fotografía de paisaje.",
+        "location": "Toda la costa",
+        "image": "/gallery/playa-la-malagueta (6).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Vistas de Playa la Malagueta",
+    "captions": [
+      "Vista de la playa",
+      "Paseo marítimo",
+      "Toneleras tradicionales",
+      "Arena dorada",
+      "Agua cristalina",
+      "Atardecer mediterráneo",
+      "Vistas panorámicas",
+      "Día de sol en la playa",
+      "Paseo junto al mar",
+      "Gente disfrutando",
+      "Vistas del Mediterráneo",
+      "Chiringuitos",
+      "Deportes de playa",
+      "Relax junto al mar"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver Todas las Fotos",
+    "showLess": "Mostrar Menos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "Las reseñas de visitantes pueden consultarse a través de Google Maps.",
+    "moreReviews": "Ver más reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "Una playa urbana excepcional. Siempre viene a relajarse y pasear. Es un lugar maravilloso para familias y amigos."
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "El lugar perfecto para disfrutar del sol y el mar. El paseo marítimo es espectacular y las toneleras muy acogedoras."
+      },
+      {
+        "name": "Antonio R.",
+        "rating": 4,
+        "date": "2026-05-10",
+        "text": "Una playa bonita y bien situada. Ideal para paseos de tarde o mañana. La recomiendo calóricamente a todos los que visiten Málaga."
+      },
+      {
+        "name": "María S.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Siendo amante del mar, me impresionó profundamente la calidad del agua y el ambiente relajado de esta playa. Un verdadero rincón de paz."
+      },
+      {
+        "name": "José L.",
+        "rating": 5,
+        "date": "2025-11-12",
+        "text": "Excelente lugar para paseos familiares. El paseo marítimo está muy bien cuidado y el ambiente es muy relajante."
+      },
+      {
+        "name": "Carmen T.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Comparada con otras playas, esta ofrece un refugio tranquilo cerca del centro. La sensación de paz y el mar hacen que sea uno de mis lugares favoritos."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Playa la Malagueta",
+    "brandSubtitle": "Playa · Málaga",
+    "rights": "© 2026 Playa la Malagueta Asociación Independiente de Turismo · Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos e Información Oficial",
+    "officialLinks": {
+      "spainTourism": "Spain.info - Turismo Oficial de España",
+      "andalusiaTourism": "Turismo de Andalucía",
+      "malagaTourism": "Turismo de Málaga",
+      "andalusiaHeritage": "Archivo Digital del Patrimonio de Andalucía",
+      "beachGuide": "Guía de Playas GIS",
+      "openData": "Plataforma de Datos Abiertos"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Recopilación de Información",
+        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para brindarle una mejor experiencia de usuario. Esta información no contiene su identidad personal."
+      },
+      {
+        "title": "Uso de Cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de las páginas. Puede gestionar sus preferencias en cualquier momento a través de la opción de Configuración de Cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y Protección de Datos",
+        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con sus datos de navegación a ninguna organización comercial de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Contenido y Uso del Sitio Web",
+        "content": "Este sitio web proporciona información de viaje, transporte e historia sobre Playa la Malagueta. Todo el contenido es solo para referencia. Los horarios de apertura reales e información de entradas de las atracciones pueden cambiar en cualquier momento, consulte los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "Los textos, imágenes y diseños de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede usar el contenido del sitio web para fines comerciales lucrativos."
+      },
+      {
+        "title": "Descargo de Responsabilidad",
+        "content": "Hacemos todo lo posible para garantizar la precisión y puntualidad de la información, pero no nos hacemos responsables legalmente por cualquier retraso en el viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Gestione sus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Requeridas para la funcionalidad básica del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Nos ayudan a entender el comportamiento de los visitantes y mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizadas para seguimiento entre sitios y entrega de anuncios personalizados."
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre Playa la Malagueta",
+    "text": "La Playa de la Malagueta es una playa urbana emblemática en Málaga, España, siendo un ejemplo perfecto de combinación entre naturaleza y ocio urbano en la costa andaluza. El área es gestionada conjuntamente para la protección ambiental y las operaciones diarias por el Ayuntamiento de Málaga y los departamentos relacionados de turismo y medio ambiente."
+  }
+}

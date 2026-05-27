@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "title": "Playa la Malagueta",
+    "description": "Complete guide to Playa la Malagueta in Málaga. Learn about this iconic Andalusian beach, its location, visiting information, and travel tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Playa la Malagueta",
+    "subtitle": "Public Beach · Málaga",
+    "rating": "4.4",
+    "reviewCount": "26,689 reviews",
+    "type": "Beach",
+    "openMaps": "View on Google Maps"
+  },
+  "intro": {
+    "title": "Discover Playa la Malagueta",
+    "description": "Playa de la Malagueta is one of the most iconic urban beaches in Málaga, located on the Paseo Marítimo Pablo Ruiz Picasso. With its characteristic toneleras (wooden kiosks), this golden sand beach offers a perfect environment to enjoy the sun and the Mediterranean Sea, being a favorite destination for both locals and tourists.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The beach is accessible year-round and admission is free.",
+        "Ideal for enjoying the sun and swimming in the Mediterranean.",
+        "Features traditional toneleras and dining services."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Paseo Marítimo Pablo Ruiz Picasso",
+        "Traditional toneleras",
+        "Golden sand",
+        "Mediterranean views"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Playa la Malagueta",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+          "content": "Playa de la Malagueta has been for decades one of the main meeting points in Málaga. Its name comes from the La Malagueta neighborhood, and it has become a symbol of the Málaga coast, being a pioneer in implementing urban beach services in the city."
+      },
+      {
+        "id": "layout",
+        "title": "Location & Layout",
+        "content": "The beach is located on the Paseo Marítimo Pablo Ruiz Picasso, in the Málaga-Este area. It features a wide maritime promenade ideal for walking, bike lane, rest areas, and an excellent offer of chiringuitos and restaurants facing the sea."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "As one of the most popular urban beaches on the Costa del Sol, La Malagueta is the scene of numerous summer events, sports activities, and social gatherings, being a reference point for Málaga's coastal identity."
+      },
+      {
+        "id": "facilities",
+        "title": "Services & Facilities",
+        "content": "The beach features sun loungers and umbrellas, showers, lifeguard post, dining areas in the toneleras, bicycle rental, and access for people with reduced mobility. The promenade offers ample areas for leisure and sports."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Playa de la Malagueta",
+    "type": "Attraction Type",
+    "typeValue": "Public Beach",
+    "country": "Country",
+    "countryValue": "Spain",
+    "region": "Autonomous Community",
+    "regionValue": "Andalusia",
+    "city": "City",
+    "cityValue": "Málaga",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.4 (26,689)",
+    "address": "Address",
+    "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "PH8Q+RV Málaga, Spain",
+    "phone": "Phone",
+    "phoneValue": "+34 951 92 60 20"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Beach Access",
+    "parkTime": "Open year-round (24 hours a day)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant temperatures, ideal for walking",
+    "bestTimeSummer": "Summer: Mediterranean swimming, festive atmosphere",
+    "bestTimeAutumn": "Autumn: Warm days, fewer crowds",
+    "bestTimeWinter": "Winter: Seaside walks, tranquil landscapes",
+    "tip": "The beach is accessible 24 hours a day, although tonelera services and lifeguards operate during the summer season."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Beach Access",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "Parking available on the promenade (paid during high season)",
+    "services": "Beach Services",
+    "servicesPrice": "Sun loungers and umbrellas for rent",
+    "guided": "Facilities",
+    "guidedPrice": "Showers, lifeguards, accessible"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Málaga Center",
+    "fromCenterDesc": "The beach is accessible on foot from the center (approx. 20 min) or by urban bus.",
+    "fromStation": "From Train Station",
+    "fromStationDesc": "Accessible by urban bus or on foot from María Zambrano station.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "From Málaga-Costa del Sol Airport, you can take the C1 train or a taxi to the center.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Well connected by Málaga urban bus network, with stops nearby.",
+    "walking": "Walking",
+    "walkingDesc": "Accessible on foot from multiple areas of the city, ideal for walking along the promenade.",
+    "driving": "Driving",
+    "drivingDesc": "Accessible by car, with parking options on the promenade."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Enjoy a pleasant walk along the coast and its surroundings.",
+    "steps": [
+      "Start at Paseo Marítimo Pablo Ruiz Picasso",
+      "Enjoy the golden sand and Mediterranean Sea",
+      "Visit the traditional toneleras",
+      "Walk along the bike lane by the sea",
+      "Enjoy local gastronomy at the chiringuitos"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Paseo Marítimo",
+        "description": "The promenade offers excellent landscape photography opportunities, especially during sunrise or sunset.",
+        "location": "Beachfront",
+        "image": "/gallery/playa-la-malagueta (1).jpg"
+      },
+      {
+        "title": "Toneleras",
+        "description": "The characteristic toneleras (wooden kiosks) offer a perfect frame for summer photography.",
+        "location": "On the beach",
+        "image": "/gallery/playa-la-malagueta (3).jpg"
+      },
+      {
+        "title": "Mediterranean Views",
+        "description": "The crystal-clear waters of the Mediterranean create a perfect natural frame for beach photos.",
+        "location": "Throughout the beach",
+        "image": "/gallery/playa-la-malagueta (5).jpg"
+      },
+      {
+        "title": "Beach Sunset",
+        "description": "The sunset over the Mediterranean offers spectacular colors for landscape photography.",
+        "location": "Entire coast",
+        "image": "/gallery/playa-la-malagueta (6).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Scenic Views of Playa la Malagueta",
+    "captions": [
+      "Beach view",
+      "Seaside promenade",
+      "Traditional toneleras",
+      "Golden sand",
+      "Crystal clear water",
+      "Mediterranean sunset",
+      "Panoramic views",
+      "Sunny beach day",
+      "Walk by the sea",
+      "People enjoying",
+      "Mediterranean views",
+      "Chiringuitos",
+      "Beach sports",
+      "Relax by the sea"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "An exceptional urban beach. I always come here to relax and walk. It's a wonderful place for families and friends."
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "The perfect place to enjoy the sun and sea. The promenade is spectacular and the toneleras very cozy."
+      },
+      {
+        "name": "Antonio R.",
+        "rating": 4,
+        "date": "2026-05-10",
+        "text": "A beautiful and well-located beach. Ideal for evening or morning walks. I warmly recommend it to everyone visiting Málaga."
+      },
+      {
+        "name": "María S.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Being a sea lover, I was deeply impressed by the water quality and relaxed atmosphere of this beach. A true corner of peace."
+      },
+      {
+        "name": "José L.",
+        "rating": 5,
+        "date": "2025-11-12",
+        "text": "Excellent place for family walks. The promenade is very well maintained and the atmosphere is very relaxing."
+      },
+      {
+        "name": "Carmen T.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Compared to other beaches, this one offers a quiet refuge near the center. The feeling of peace and the sea make it one of my favorite places."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Playa la Malagueta",
+    "brandSubtitle": "Beach · Málaga",
+    "rights": "© 2026 Playa la Malagueta Independent Tourism Research Association · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "spainTourism": "Spain.info - Spain's Official Tourism Website",
+      "andalusiaTourism": "Andalusia Tourism",
+      "malagaTourism": "Málaga Tourism",
+      "andalusiaHeritage": "Andalusian Historical Heritage Digital Archive",
+      "beachGuide": "National Beach Guide GIS",
+      "openData": "Spanish National Open Data Platform"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about Playa la Malagueta. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Playa la Malagueta",
+    "text": "Playa de la Malagueta is an iconic urban beach in Málaga, Spain, being a perfect example of combining nature with urban leisure on the Andalusian coast. The area is jointly managed for environmental protection and daily operations by the Málaga City Council and related tourism and environmental departments."
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "title": "马拉盖塔海滩 (Playa la Malagueta)",
+    "description": "马拉盖塔海滩的完整旅游指南。了解这座安达卢西亚标志性的海滩景点、位置和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "马拉盖塔海滩",
+    "subtitle": "公共海滩 · 马拉加",
+    "rating": "4.4",
+    "reviewCount": "26,689 条评价",
+    "type": "海滩",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "intro": {
+    "title": "探索马拉盖塔海滩",
+    "description": "马拉盖塔海滩（Playa de la Malagueta）是马拉加最具标志性的城市海滩之一，位于巴勃罗·毕加索海滨大道（Paseo Marítimo Pablo Ruiz Picasso）。以其独特的 toneleras（木制凉亭）而闻名，这片金色沙滩为游客提供了享受阳光和地中海的完美环境，是当地人和游客都喜爱的目的地。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "海滩全年开放，入场免费。",
+        "非常适合享受阳光和地中海游泳。",
+        "设有传统的 toneleras 和餐饮服务。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "巴勃罗·毕加索海滨大道",
+        "传统 toneleras 凉亭",
+        "金色沙滩",
+        "地中海景观"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于马拉盖塔海滩",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "马拉盖塔海滩几十年来一直是马拉加的主要聚会点之一。其名称来源于马拉盖塔社区，已成为马拉加海岸的象征，是该市城市海滩服务实施的先驱。"
+      },
+      {
+        "id": "layout",
+        "title": "地理位置与布局",
+        "content": "海滩位于马拉加东部（Málaga-Este）的巴勃罗·毕加索海滨大道上。拥有宽敞的海滨大道，非常适合散步、自行车道、休息区，以及面对大海的绝佳 chiringuitos（海滩餐厅）和餐馆。"
+      },
+      {
+        "id": "culture",
+        "title": "文化意义",
+        "content": "作为太阳海岸最受欢迎的城市海滩之一，马拉盖塔是众多夏季活动、体育活动和社交聚会的场所，是马拉加海岸身份认同的参考点。"
+      },
+      {
+        "id": "facilities",
+        "title": "服务与设施",
+        "content": "海滩设有躺椅和遮阳伞、淋浴、救生员岗位、toneleras 餐饮区、自行车租赁，以及残疾人通道。海滨大道提供充足的休闲和运动区域。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Playa de la Malagueta",
+    "type": "景点类型",
+    "typeValue": "公共海滩",
+    "country": "国家",
+    "countryValue": "西班牙",
+    "region": "自治区",
+    "regionValue": "安达卢西亚",
+    "city": "城市",
+    "cityValue": "马拉加",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.4 (26,689)",
+    "address": "地址",
+    "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "PH8Q+RV Málaga, Spain",
+    "phone": "电话",
+    "phoneValue": "+34 951 92 60 20"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "海滩开放",
+    "parkTime": "全年开放（24小时）",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，适合散步",
+    "bestTimeSummer": "夏季：地中海游泳，节日氛围",
+    "bestTimeAutumn": "秋季：温暖的日子，游客较少",
+    "bestTimeWinter": "冬季：海滨散步，宁静的景观",
+    "tip": "海滩全天24小时开放，但 toneleras 服务和救生员在夏季运营。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "海滩进入",
+    "parkPrice": "免费入场",
+    "parking": "停车",
+    "parkingPrice": "海滨大道设有停车场（旺季收费）",
+    "services": "海滩服务",
+    "servicesPrice": "躺椅和遮阳伞可租赁",
+    "guided": "设施",
+    "guidedPrice": "淋浴、救生员、无障碍通道"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从马拉加市中心",
+    "fromCenterDesc": "从市中心可步行到达（约20分钟）或乘坐城市公交车。",
+    "fromStation": "从火车站",
+    "fromStationDesc": "可从玛丽亚·赞布拉诺（María Zambrano）火车站乘坐城市公交车或步行到达。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "从马拉加-太阳海岸机场，可乘坐C1火车或出租车前往市中心。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "马拉加城市公交网络连接良好，附近有站点。",
+    "walking": "步行",
+    "walkingDesc": "可从城市多个区域步行到达，非常适合在海滨大道散步。",
+    "driving": "自驾",
+    "drivingDesc": "可驾车到达，海滨大道设有停车选项。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "享受沿海岸和周边的愉快散步。",
+    "steps": [
+      "从巴勃罗·毕加索海滨大道开始",
+      "享受金色沙滩和地中海",
+      "参观传统的 toneleras 凉亭",
+      "沿着海边的自行车道散步",
+      "在海滩餐厅品尝当地美食"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "海滨大道",
+        "description": "海滨大道提供绝佳的风景摄影机会，尤其是在日出或日落时分。",
+        "location": "海滩前",
+        "image": "/gallery/playa-la-malagueta (1).jpg"
+      },
+      {
+        "title": "Toneleras 凉亭",
+        "description": "特色的 toneleras（木制凉亭）为夏季摄影提供了完美的框架。",
+        "location": "海滩上",
+        "image": "/gallery/playa-la-malagueta (3).jpg"
+      },
+      {
+        "title": "地中海景观",
+        "description": "地中海的清澈海水为海滩照片创造了完美的自然框架。",
+        "location": "整个海滩",
+        "image": "/gallery/playa-la-malagueta (5).jpg"
+      },
+      {
+        "title": "海滩日落",
+        "description": "地中海上的日落为风景摄影提供了壮观的色彩。",
+        "location": "整个海岸",
+        "image": "/gallery/playa-la-malagueta (6).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "马拉盖塔海滩美景",
+    "captions": [
+      "海滩景观",
+      "海滨大道",
+      "传统 toneleras",
+      "金色沙滩",
+      "清澈海水",
+      "地中海日落",
+      "全景视野",
+      "阳光海滩日",
+      "海边散步",
+      "人们享受时光",
+      "地中海景观",
+      "海滩餐厅",
+      "海滩运动",
+      "海边休闲"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "一个特殊的城市海滩。我总是来这里放松和散步。这是家人和朋友聚会的美好地方。"
+      },
+      {
+        "name": "Laura G.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "享受阳光和大海的完美场所。海滨大道令人叹为观止，toneleras 非常舒适。"
+      },
+      {
+        "name": "Antonio R.",
+        "rating": 4,
+        "date": "2026-05-10",
+        "text": "一个美丽且位置优越的海滩。非常适合傍晚或清晨散步。我热烈推荐给所有访问马拉加的人。"
+      },
+      {
+        "name": "María S.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "作为一个海洋爱好者，我对这个海滩的水质和轻松的氛围印象深刻。一个真正的宁静角落。"
+      },
+      {
+        "name": "José L.",
+        "rating": 5,
+        "date": "2025-11-12",
+        "text": "非常适合家庭散步。海滨大道维护得非常好，氛围非常轻松。"
+      },
+      {
+        "name": "Carmen T.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "与其他海滩相比，这个海滩在市中心附近提供了一个安静的避难所。宁静感和大海使它成为我最喜欢的地方之一。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "马拉盖塔海滩",
+    "brandSubtitle": "海滩 · 马拉加",
+    "rights": "© 2026 马拉盖塔海滩独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "spainTourism": "西班牙国家旅游局",
+      "andalusiaTourism": "安达卢西亚大区政府旅游局",
+      "malagaTourism": "马拉加市政府官方旅游局",
+      "andalusiaHeritage": "安达卢西亚历史遗产数字档案库",
+      "beachGuide": "国家海滩指南 GIS",
+      "openData": "西班牙国家公共数据开放平台"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的身份特征。"
+      },
+      {
+        "title": "Cookie 的使用",
+        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+      },
+      {
+        "title": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "网站内容与使用",
+        "content": "本网站提供有关马拉盖塔海滩的旅游、交通及历史信息。所有内容仅供参考，景点的实际开放时间和票务信息可能随时更改，请以官方发布为准。"
+      },
+      {
+        "title": "知识产权说明",
+        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+      },
+      {
+        "title": "免责声明",
+        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "必要的Cookie",
+      "description": "基本网站功能所需，无法关闭。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访客行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨网站跟踪和个性化广告展示。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于马拉盖塔海滩",
+    "text": "马拉盖塔海滩（Playa de la Malagueta）是西班牙马拉加的一个标志性城市海滩，是安达卢西亚海岸自然与城市休闲完美结合的典范。该区域由马拉加市政府及相关旅游和环境管理部门共同进行生态保护与日常管理。"
+  }
+}
