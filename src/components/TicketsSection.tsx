@@ -64,7 +64,7 @@ export default function TicketsSection() {
           </div>
         </div>
 
-        {/* Guided Tour */}
+        {/* Guided Tour / Facilities */}
         <div
           className="mt-6 rounded-xl p-5 flex items-start gap-4"
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
@@ -74,9 +74,15 @@ export default function TicketsSection() {
             <line x1="12" y1="16" x2="12" y2="12"/>
             <line x1="12" y1="8" x2="12.01" y2="8"/>
           </svg>
-          <div>
-            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('guided')}</p>
-            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('guidedPrice')}</p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full">
+            <div>
+              <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('services')}</p>
+              <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('servicesPrice')}</p>
+            </div>
+            <div>
+              <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('guided')}</p>
+              <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('guidedPrice')}</p>
+            </div>
           </div>
         </div>
       </div>

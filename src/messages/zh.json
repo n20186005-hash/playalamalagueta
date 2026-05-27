@@ -16,7 +16,7 @@
     "rating": "4.4",
     "reviewCount": "26,689 条评价",
     "type": "海滩",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在 Google Maps 查看"
   },
   "intro": {
     "title": "探索马拉盖塔海滩",
@@ -81,9 +81,7 @@
     "address": "地址",
     "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
     "plusCode": "Plus Code",
-    "plusCodeValue": "PH8Q+RV Málaga, Spain",
-    "phone": "电话",
-    "phoneValue": "+34 951 92 60 20"
+    "plusCodeValue": "PH8Q+RV Málaga, Spain"
   },
   "hours": {
     "title": "开放时间",
@@ -181,14 +179,14 @@
       "海滩运动",
       "海边休闲"
     ],
-    "viewAll": "在Google地图上查看位置",
+    "viewAll": "在 Google Maps 查看",
     "showAll": "显示完整照片",
     "showLess": "收起照片"
   },
   "reviews": {
     "title": "游客评价",
     "declaration": "评价信息可通过Google地图查看。",
-    "moreReviews": "在Google地图上查看更多评价",
+    "moreReviews": "在 Google Maps 查看",
     "items": [
       {
         "name": "Carlos M.",
@@ -231,7 +229,8 @@
   "mapSection": {
     "title": "地图位置",
     "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在 Google Maps 查看",
+    "mapUrl": "https://maps.app.goo.gl/hLbRvdwVPo37TgFq8"
   },
   "footer": {
     "brandName": "马拉盖塔海滩",

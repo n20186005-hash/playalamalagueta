@@ -81,9 +81,7 @@
     "address": "Address",
     "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
     "plusCode": "Plus Code",
-    "plusCodeValue": "PH8Q+RV Málaga, Spain",
-    "phone": "Phone",
-    "phoneValue": "+34 951 92 60 20"
+    "plusCodeValue": "PH8Q+RV Málaga, Spain"
   },
   "hours": {
     "title": "Visiting Hours",
@@ -231,7 +229,8 @@
   "mapSection": {
     "title": "Map Location",
     "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "mapUrl": "https://maps.app.goo.gl/hLbRvdwVPo37TgFq8"
   },
   "footer": {
     "brandName": "Playa la Malagueta",

@@ -15,12 +15,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://rosevalleyparkchisinau.com';
+  const baseUrl = 'https://playalamalagueta.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const roUrl = `${baseUrl}/ro`;
-  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : roUrl;
+  const esUrl = `${baseUrl}/es`;
+  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : esUrl;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -31,7 +31,7 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'ro': roUrl,
+        'es': esUrl,
         'x-default': enUrl,
       },
     },
@@ -39,8 +39,8 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Rose Valley Park",
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'ro_RO',
+      siteName: "Playa la Malagueta",
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'es_ES',
       type: 'website',
     },
   };
@@ -65,8 +65,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           dangerouslySetInnerHTML={{
             __html: `

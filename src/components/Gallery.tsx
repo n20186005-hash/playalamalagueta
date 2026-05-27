@@ -22,6 +22,7 @@ const photos = [
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const mapT = useTranslations('mapSection');
   const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
@@ -127,7 +128,7 @@ export default function Gallery() {
                 </button>
               )}
               <a
-                href="https://maps.app.goo.gl/hLbRvdwVPo37TgFq8"
+                href={mapT('mapUrl')}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"
