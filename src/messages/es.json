@@ -11,56 +11,77 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Playa la Malagueta",
-    "subtitle": "Playa Pública · Málaga",
+    "title": "Playa de la Malagueta (Málaga)",
+    "subtitle": "Playa Pública · Málaga · Andalucía",
     "rating": "4.4",
-    "reviewCount": "26,689 reseñas",
+    "reviewCount": "27,768 reseñas",
     "type": "Playa",
     "openMaps": "Ver en Google Maps"
   },
   "intro": {
-    "title": "Descubre Playa la Malagueta",
-    "description": "La Playa de la Malagueta es una de las playas urbanas más emblemáticas de Málaga, situada en el Paseo Marítimo Pablo Ruiz Picasso. Con sus características toneleras (quioscos de madera), esta playa de arena dorada ofrece un ambiente perfecto para disfrutar del sol y el mar Mediterráneo, siendo un destino favorito tanto para locales como para turistas.",
+    "title": "Descubre Playa de la Malagueta",
+    "entityEquivalence": "Bienvenido a <strong>Playa de la Malagueta</strong>, reconocida universalmente como la <strong>Playa la Malagueta</strong> por excelencia. Situada en pleno corazón de <strong>Málaga</strong>, <strong>Andalucía</strong>, <strong>España</strong>, este destino constituye uno de los principales ejes turísticos y de encuentro para visitantes y lugareños de la región.",
+    "description": "La Playa de la Malagueta es una de las playas urbanas más emblemáticas de Málaga, situada en el Paseo Marítimo Pablo Ruiz Picasso. Con sus características toneleras (quioscos de madera tradicionales), esta playa de arena dorada ofrece un ambiente perfecto para disfrutar del sol y el mar Mediterráneo, siendo un destino favorito tanto para locales como para turistas. Cuenta con duchas públicas, zona infantil de juegos, alquiler de hamacas y sombrillas, puesto de salvamento y acceso adaptado.",
+    "breadcrumb": {
+      "title": "Jerarquía Geográfica",
+      "items": [
+        "Playa de la Malagueta",
+        "Málaga",
+        "Andalucía",
+        "España"
+      ]
+    },
+    "nearby": {
+      "title": "Entorno y Lugares Cercanos",
+      "description": "Al visitar <strong>Playa de la Malagueta</strong>, los visitantes pueden explorar con facilidad los hitos históricos y puntos de interés de los alrededores, incluyendo la <strong>Plaza de Toros de La Malagueta</strong> y el emblemático <strong>Paseo Marítimo Pablo Ruiz Picasso</strong>, así como el Puerto de Málaga y el centro histórico a pocos minutos a pie.",
+      "items": [
+        "Plaza de Toros de La Malagueta",
+        "Paseo Marítimo Pablo Ruiz Picasso",
+        "Puerto de Málaga",
+        "Centro Histórico de Málaga"
+      ]
+    },
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
         "La playa es accesible durante todo el año y la entrada es gratuita.",
         "Ideal para disfrutar del sol y el baño en el Mediterráneo.",
-        "Cuenta con toneleras tradicionales y servicios de restauración."
+        "Cuenta con toneleras tradicionales y servicios de restauración.",
+        "Se recomienda llegar temprano en temporada alta para encontrar aparcamiento."
       ]
     },
     "alsoKnownAs": {
-      "title": "Destacados",
+      "title": "Atributos Destacados",
       "items": [
         "Paseo Marítimo Pablo Ruiz Picasso",
-        "Toneleras tradicionales",
-        "Arena dorada",
-        "Vistas al Mediterráneo"
+        "Toneleras tradicionales de madera",
+        "Arena dorada y aguas cristalinas",
+        "Vistas panorámicas al Mediterráneo"
       ]
     }
   },
   "knowledge": {
-    "title": "Sobre Playa la Malagueta",
+    "title": "Sobre Playa de la Malagueta",
     "sections": [
       {
         "id": "history",
-        "title": "Antecedentes Históricos",
-        "content": "La Playa de la Malagueta ha sido durante décadas uno de los principales puntos de encuentro de Málaga. Su nombre proviene del barrio de La Malagueta, y se ha convertido en un símbolo de la costa malagueña, siendo pionera en la implantación de servicios de playa urbanos en la ciudad."
+        "title": "Historia y Significado de Playa de la Malagueta",
+        "content": "La Playa de la Malagueta ha sido durante décadas uno de los principales puntos de encuentro de Málaga. Su nombre proviene del barrio de La Malagueta, y se ha convertido en un símbolo viviente de la costa malagueña, siendo pionera en la implantación de servicios de playa urbanos en la ciudad y referente de la cultura veraniega andaluza."
       },
       {
         "id": "layout",
-        "title": "Ubicación y Distribución",
-        "content": "La playa se encuentra en el Paseo Marítimo Pablo Ruiz Picasso, en la zona de Málaga-Este. Cuenta con un amplio paseo marítimo ideal para caminar, carril bici, zonas de descanso y una excelente oferta de chiringuitos y restaurantes frente al mar."
+        "title": "Ubicación y Cómo Visitar Playa la Malagueta en Málaga",
+        "content": "La playa se encuentra en el Paseo Marítimo Pablo Ruiz Picasso, en la zona de Málaga-Este, código postal 29016. Cuenta con un amplio paseo marítimo peatonal ideal para caminar, carril bici segregado, zonas de descanso y una excelente oferta de chiringuitos y restaurantes frente al mar Mediterráneo."
       },
       {
         "id": "culture",
-        "title": "Significado Cultural",
-        "content": "Como una de las playas urbanas más populares de la Costa del Sol, la Malagueta es escenario de numerosos eventos veraniegos, actividades deportivas y encuentros sociales, siendo un punto de referencia para la identidad costera de Málaga."
+        "title": "Hitos y Atractivos del Entorno de Playa la Malagueta",
+        "content": "Como una de las playas urbanas más populares de la Costa del Sol, La Malagueta es escenario de numerosos eventos veraniegos, actividades deportivas y encuentros sociales, siendo un punto de referencia irrenunciable para la identidad costera de Málaga. En sus inmediaciones se encuentran la Plaza de Toros de La Malagueta, el Puerto de Málaga y los museos del centro histórico."
       },
       {
         "id": "facilities",
-        "title": "Servicios e Instalaciones",
-        "content": "La playa cuenta con hamacas y sombrillas, duchas, puesto de salvamento, zonas de restauración en las toneleras, alquiler de bicicletas, y acceso para personas con movilidad reducida. El paseo marítimo ofrece amplias zonas para el ocio y el deporte."
+        "title": "Servicios, Instalaciones y Atención al Visitante",
+        "content": "La playa cuenta con servicio de alquiler de hamacas y sombrillas, duchas públicas y vestuarios, puesto de salvamento y socorrismo, zonas de restauración en las toneleras, alquiler de bicicletas, parque infantil y acceso para personas con movilidad reducida. El paseo marítimo ofrece amplias zonas para el ocio, el deporte y el descanso con bancos y zonas verdes."
       }
     ]
   },
@@ -77,11 +98,13 @@
     "city": "Ciudad",
     "cityValue": "Málaga",
     "googleRating": "Valoración Google",
-    "googleRatingValue": "4.4 (26,689)",
+    "googleRatingValue": "4.4 (27,768)",
     "address": "Dirección",
-    "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, España",
     "plusCode": "Plus Code",
-    "plusCodeValue": "PH8Q+RV Málaga, Spain"
+    "plusCodeValue": "PH8Q+RV Málaga, España",
+    "telephone": "Teléfono de Contacto",
+    "telephoneValue": "+34 951 926 020"
   },
   "hours": {
     "title": "Horario de Visita",
@@ -227,10 +250,15 @@
     ]
   },
   "mapSection": {
-    "title": "Ubicación en el Mapa",
-    "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
-    "openMaps": "Ver en Google Maps",
-    "mapUrl": "https://maps.app.goo.gl/hLbRvdwVPo37TgFq8"
+    "title": "Ubicación y Mapa de Playa la Malagueta en Málaga",
+    "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, España · Coordenadas: 36.7176651, -4.4082141",
+    "openMaps": "Abrir en Google Maps",
+    "mapUrl": "https://maps.app.goo.gl/hLbRvdwVPo37TgFq8",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22753.88782945414!2d-4.4082141!3d36.7176651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72f7e8c598bacf%3A0x803b7c8f64e1ef37!2sPlaya%20de%20la%20Malagueta!5e1!3m2!1ses!2ses!4v1787902992444",
+    "officialLinksTitle": "Fuentes Oficiales y Turismo",
+    "officialLinksDescription": "Para obtener información oficial actualizada y datos de turismo regional, consulte los portales oficiales de Málaga, Andalucía y España:",
+    "malagaTourismText": "Ayuntamiento de Málaga · Portal Oficial de Turismo",
+    "malagaTourismUrl": "https://visita.malaga.eu/"
   },
   "footer": {
     "brandName": "Playa la Malagueta",
@@ -306,7 +334,25 @@
     "saved": "¡Preferencias guardadas!"
   },
   "officialManagement": {
-    "title": "Sobre Playa la Malagueta",
+    "title": "Sobre Playa de la Malagueta",
     "text": "La Playa de la Malagueta es una playa urbana emblemática en Málaga, España, siendo un ejemplo perfecto de combinación entre naturaleza y ocio urbano en la costa andaluza. El área es gestionada conjuntamente para la protección ambiental y las operaciones diarias por el Ayuntamiento de Málaga y los departamentos relacionados de turismo y medio ambiente."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre Playa de la Malagueta",
+    "subtitle": "Respuestas a las consultas más habituales de los visitantes",
+    "items": [
+      {
+        "question": "¿Dónde se encuentra Playa de la Malagueta?",
+        "answer": "Playa de la Malagueta se encuentra en Málaga, Andalucía, España, concretamente en el P.º Marítimo Pablo Ruiz Picasso, en la zona de Málaga-Este, código postal 29016. Sus coordenadas geográficas son latitud 36.7176651, longitud -4.4082141."
+      },
+      {
+        "question": "¿Es gratuita la visita a Playa la Malagueta?",
+        "answer": "Sí, Playa de la Malagueta es un espacio público de titularidad municipal y su acceso es completamente gratuito durante los 365 días del año. Los servicios adicionales como alquiler de hamacas, sombrillas o restauración en las toneleras sí son de pago."
+      },
+      {
+        "question": "¿Qué servicios e instalaciones ofrece Playa de la Malagueta?",
+        "answer": "Playa de la Malagueta ofrece una amplia gama de servicios: duchas públicas y vestuarios, parque infantil, alquiler de hamacas y sombrillas, puesto de salvamento y socorrismo (en temporada estival), acceso para personas con movilidad reducida, zonas de restauración en las tradicionales toneleras de madera, alquiler de bicicletas, y un amplio paseo marítimo peatonal con carril bici."
+      }
+    ]
   }
 }

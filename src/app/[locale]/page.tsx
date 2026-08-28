@@ -11,6 +11,7 @@ import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
+import FAQ from '@/components/FAQ';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
@@ -37,6 +38,7 @@ export default async function HomePage({
         <PhotoSpotsSection />
         <Gallery />
         <Reviews />
+        <FAQ />
         <MapEmbed />
       </main>
       <Footer />

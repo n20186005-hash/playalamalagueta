@@ -47,7 +47,7 @@ function PhotoSpotCard({ title, description, image, location, index }: { title: 
         style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}
       >
         {image ? (
-          <img src={image} alt={title} className="w-full h-full object-cover transition-transform hover:scale-105" loading="lazy" />
+          <img src={image} alt={`${title} near Playa de la Malagueta - ${location || 'Málaga, Spain'}`} className="w-full h-full object-cover transition-transform hover:scale-105" loading="lazy" />
         ) : (
           <div className="text-center">
             <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" className="mx-auto mb-2 opacity-50">

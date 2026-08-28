@@ -11,56 +11,77 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Playa la Malagueta",
-    "subtitle": "Public Beach · Málaga",
+    "title": "Playa de la Malagueta (Málaga)",
+    "subtitle": "Public Beach · Málaga · Andalucía",
     "rating": "4.4",
-    "reviewCount": "26,689 reviews",
+    "reviewCount": "27,768 reviews",
     "type": "Beach",
     "openMaps": "View on Google Maps"
   },
   "intro": {
-    "title": "Discover Playa la Malagueta",
-    "description": "Playa de la Malagueta is one of the most iconic urban beaches in Málaga, located on the Paseo Marítimo Pablo Ruiz Picasso. With its characteristic toneleras (wooden kiosks), this golden sand beach offers a perfect environment to enjoy the sun and the Mediterranean Sea, being a favorite destination for both locals and tourists.",
+    "title": "About Playa de la Malagueta",
+    "entityEquivalence": "Welcome to <strong>Playa de la Malagueta</strong>, widely recognized as the central <strong>Playa la Malagueta</strong>. Located in the heart of <strong>Málaga</strong>, <strong>Andalucía</strong>, <strong>Spain</strong>, this destination serves as a primary hub for travelers visiting the Costa del Sol region.",
+    "description": "Playa de la Malagueta is one of the most iconic urban beaches in Málaga, located on the Paseo Marítimo Pablo Ruiz Picasso. With its characteristic toneleras (traditional wooden kiosks), this golden sand beach offers a perfect environment to enjoy the sun and the Mediterranean Sea, being a favorite destination for both locals and tourists. Public showers, children's playground, sun loungers and umbrella rental, lifeguard service, and wheelchair access are all available.",
+    "breadcrumb": {
+      "title": "Geographic Hierarchy",
+      "items": [
+        "Playa de la Malagueta",
+        "Málaga",
+        "Andalucía",
+        "Spain"
+      ]
+    },
+    "nearby": {
+      "title": "Landmarks & Attractions Around Playa la Malagueta",
+      "description": "When visiting <strong>Playa de la Malagueta</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including the iconic <strong>Plaza de Toros de La Malagueta</strong> and the renowned <strong>Paseo Marítimo Pablo Ruiz Picasso</strong>, as well as the Port of Málaga and the Málaga Old Town within walking distance.",
+      "items": [
+        "Plaza de Toros de La Malagueta",
+        "Paseo Marítimo Pablo Ruiz Picasso",
+        "Port of Málaga (Puerto de Málaga)",
+        "Málaga Historic City Centre"
+      ]
+    },
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
         "The beach is accessible year-round and admission is free.",
         "Ideal for enjoying the sun and swimming in the Mediterranean.",
-        "Features traditional toneleras and dining services."
+        "Features traditional toneleras and authentic chiringuito dining.",
+        "Arrive early during peak season for parking availability."
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Signature Features",
       "items": [
-        "Paseo Marítimo Pablo Ruiz Picasso",
-        "Traditional toneleras",
-        "Golden sand",
-        "Mediterranean views"
+        "Paseo Marítimo Pablo Ruiz Picasso promenade",
+        "Traditional wooden toneleras",
+        "Golden sand & crystal clear waters",
+        "Panoramic Mediterranean views"
       ]
     }
   },
   "knowledge": {
-    "title": "About Playa la Malagueta",
+    "title": "About Playa de la Malagueta",
     "sections": [
       {
         "id": "history",
-        "title": "Historical Background",
-          "content": "Playa de la Malagueta has been for decades one of the main meeting points in Málaga. Its name comes from the La Malagueta neighborhood, and it has become a symbol of the Málaga coast, being a pioneer in implementing urban beach services in the city."
+        "title": "History & Significance of Playa de la Malagueta",
+        "content": "Playa de la Malagueta has been for decades one of the main civic meeting points in Málaga. Its name derives from the historic La Malagueta neighborhood, and it has become a living symbol of the Málaga coastline, pioneering urban beach services in the city and defining the Andalusian summer coastal culture."
       },
       {
         "id": "layout",
-        "title": "Location & Layout",
-        "content": "The beach is located on the Paseo Marítimo Pablo Ruiz Picasso, in the Málaga-Este area. It features a wide maritime promenade ideal for walking, bike lane, rest areas, and an excellent offer of chiringuitos and restaurants facing the sea."
+        "title": "Location & How to Visit Playa la Malagueta in Málaga",
+        "content": "The beach is located on the Paseo Marítimo Pablo Ruiz Picasso, in the Málaga-Este district, postal code 29016. It features a wide pedestrian promenade ideal for strolling, a segregated bicycle lane, shaded rest areas, and an excellent array of chiringuitos and seafood restaurants facing the Mediterranean Sea."
       },
       {
         "id": "culture",
-        "title": "Cultural Significance",
-        "content": "As one of the most popular urban beaches on the Costa del Sol, La Malagueta is the scene of numerous summer events, sports activities, and social gatherings, being a reference point for Málaga's coastal identity."
+        "title": "Landmarks & Attractions Around Playa la Malagueta",
+        "content": "As one of the most popular urban beaches on the Costa del Sol, La Malagueta hosts numerous summer events, sports activities, and community gatherings, serving as a reference point for Málaga's coastal identity. In its immediate vicinity stand the Plaza de Toros de La Malagueta, the Port of Málaga, and the museum district of the historic city centre."
       },
       {
         "id": "facilities",
-        "title": "Services & Facilities",
-        "content": "The beach features sun loungers and umbrellas, showers, lifeguard post, dining areas in the toneleras, bicycle rental, and access for people with reduced mobility. The promenade offers ample areas for leisure and sports."
+        "title": "Services, Facilities & Visitor Amenities",
+        "content": "The beach features sun loungers and beach umbrellas for rent, public showers and changing rooms, seasonal lifeguard and rescue post, dining areas within the traditional toneleras, bicycle rental service, children's playground, and accessible ramps for people with reduced mobility. The promenade provides ample zones for leisure, outdoor exercise, and shaded rest benches."
       }
     ]
   },
@@ -71,17 +92,19 @@
     "type": "Attraction Type",
     "typeValue": "Public Beach",
     "country": "Country",
-    "countryValue": "Spain",
+    "countryValue": "Spain (España)",
     "region": "Autonomous Community",
-    "regionValue": "Andalusia",
+    "regionValue": "Andalusia (Andalucía)",
     "city": "City",
     "cityValue": "Málaga",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (26,689)",
+    "googleRatingValue": "4.4 (27,768)",
     "address": "Address",
-    "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
+    "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, España",
     "plusCode": "Plus Code",
-    "plusCodeValue": "PH8Q+RV Málaga, Spain"
+    "plusCodeValue": "PH8Q+RV Málaga, España",
+    "telephone": "Contact Phone",
+    "telephoneValue": "+34 951 926 020"
   },
   "hours": {
     "title": "Visiting Hours",
@@ -227,10 +250,15 @@
     ]
   },
   "mapSection": {
-    "title": "Map Location",
-    "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, Spain",
-    "openMaps": "View on Google Maps",
-    "mapUrl": "https://maps.app.goo.gl/hLbRvdwVPo37TgFq8"
+    "title": "Location & Map of Playa la Malagueta in Málaga",
+    "subtitle": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, España · Coordinates: 36.7176651, -4.4082141",
+    "openMaps": "Open in Google Maps",
+    "mapUrl": "https://maps.app.goo.gl/hLbRvdwVPo37TgFq8",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22753.88782945414!2d-4.4082141!3d36.7176651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72f7e8c598bacf%3A0x803b7c8f64e1ef37!2sPlaya%20de%20la%20Malagueta!5e1!3m2!1sen!2sUS!4v1787902992444",
+    "officialLinksTitle": "Official Tourism & Authoritative Resources",
+    "officialLinksDescription": "For the latest official updates and regional tourism information, please visit the official portals below:",
+    "malagaTourismText": "Málaga City Council · Official Tourism Portal",
+    "malagaTourismUrl": "https://visita.malaga.eu/"
   },
   "footer": {
     "brandName": "Playa la Malagueta",
@@ -306,7 +334,25 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Playa la Malagueta",
-    "text": "Playa de la Malagueta is an iconic urban beach in Málaga, Spain, being a perfect example of combining nature with urban leisure on the Andalusian coast. The area is jointly managed for environmental protection and daily operations by the Málaga City Council and related tourism and environmental departments."
+    "title": "About Playa de la Malagueta",
+    "text": "Playa de la Malagueta is an iconic urban beach in Málaga, Andalucía, Spain, representing a paradigm of how Mediterranean coastal ecosystems integrate with contemporary city leisure. The site is co-managed under a tripartite framework between the Málaga City Council (Ayuntamiento de Málaga), the Regional Ministry of Environment of Andalucía, and the Costa del Sol Tourist Board for ecological conservation, sanitary maintenance, and daily operational oversight."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions about Playa de la Malagueta",
+    "subtitle": "Authoritative answers to the most common visitor inquiries",
+    "items": [
+      {
+        "question": "Where is Playa de la Malagueta located?",
+        "answer": "Playa de la Malagueta is located in Málaga, Andalucía, Spain, specifically at P.º Marítimo Pablo Ruiz Picasso in the Málaga-Este district, postal code 29016. Its geographic coordinates are latitude 36.7176651 N, longitude 4.4082141 W."
+      },
+      {
+        "question": "Is Playa la Malagueta free to visit?",
+        "answer": "Yes. Playa de la Malagueta is a municipal public beach and is completely free to access 365 days a year, 24 hours a day. Value-added services such as sun lounger rental, beach umbrellas, and tonelera dining are paid commercial offerings available at visitor discretion."
+      },
+      {
+        "question": "What visitor facilities does Playa de la Malagueta provide?",
+        "answer": "Playa de la Malagueta is equipped with a comprehensive suite of amenities: public showers and changing rooms, a children's playground, seasonal sun lounger and umbrella rental, professional lifeguard coverage during summer months, wheelchair accessible ramps, traditional wooden toneleras, public bicycle docking stations, and a fully segregated pedestrian promenade with bicycle lane, rest benches, and landscaped green belts."
+      }
+    ]
   }
 }

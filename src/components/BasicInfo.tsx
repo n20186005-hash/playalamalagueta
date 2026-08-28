@@ -20,8 +20,12 @@ export default function BasicInfo() {
           <InfoCard title={t('officialName')} value={t('officialNameValue')} />
           <InfoCard title={t('type')} value={t('typeValue')} />
           <InfoCard title={t('googleRating')} value={t('googleRatingValue')} />
+          <InfoCard title={t('country')} value={t('countryValue')} />
+          <InfoCard title={t('region')} value={t('regionValue')} />
+          <InfoCard title={t('city')} value={t('cityValue')} />
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
-          <div className="md:col-span-2 lg:col-span-2">
+          <InfoCard title={t('telephone')} value={t('telephoneValue')} linkHref="tel:+34951926020" />
+          <div className="md:col-span-2 lg:col-span-3">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>
         </div>
@@ -30,14 +34,24 @@ export default function BasicInfo() {
   );
 }
 
-function InfoCard({ title, value }: { title: string; value: string }) {
+function InfoCard({ title, value, linkHref }: { title: string; value: string; linkHref?: string }) {
   return (
     <div
       className="rounded-xl p-5"
       style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
     >
       <p className="text-sm mb-1" style={{ color: 'var(--text-muted)' }}>{title}</p>
-      <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{value}</p>
+      {linkHref ? (
+        <a
+          href={linkHref}
+          className="font-medium hover:underline block"
+          style={{ color: 'var(--text-primary)' }}
+        >
+          {value}
+        </a>
+      ) : (
+        <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{value}</p>
+      )}
     </div>
   );
 }

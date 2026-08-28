@@ -10,8 +10,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/playa-la-malagueta (1).jpg"
-          alt="Playa la Malagueta"
+          alt="Playa de la Malagueta - Main view in Málaga, Andalucía, Spain"
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
