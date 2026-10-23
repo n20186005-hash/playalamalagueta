@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "马拉盖塔海滩 (Playa la Malagueta)",
-    "description": "马拉盖塔海滩的完整旅游指南。了解这座安达卢西亚标志性的海滩景点、位置和游览信息。"
+    "description": "Playa la Malagueta（马拉盖塔海滩）实用指南：如何到达、躺椅与遮阳伞租赁、淋浴与设施、在海滩餐吧用餐，以及周边景点。"
   },
   "header": {
     "home": "首页",
@@ -14,14 +14,14 @@
     "title": "Playa de la Malagueta（马拉加）",
     "subtitle": "公共海滩 · 马拉加 · 安达卢西亚",
     "rating": "4.4",
-    "reviewCount": "27,768 条评价",
+    "reviewCount": "28,264 条评价",
     "type": "海滩",
     "openMaps": "在 Google Maps 查看"
   },
   "intro": {
     "title": "关于 Playa de la Malagueta",
     "entityEquivalence": "欢迎来到<strong>Playa de la Malagueta</strong>，在日常语境中通称为<strong>Playa la Malagueta（马拉盖塔海滩）</strong>。海滩坐落于<strong>西班牙</strong>安达卢西亚自治区<strong>马拉加</strong>市的核心滨海地带，是到访该地区游客的核心目的地与城市生活中心。",
-    "description": "Playa de la Malagueta（马拉盖塔海滩）是马拉加最具标志性的城市海滩之一，位于Paseo Marítimo Pablo Ruiz Picasso（巴勃罗·毕加索海滨大道）。以其独特的 toneleras（传统木制凉亭）而闻名，这片金色沙滩为游客提供了享受阳光和地中海的完美环境，是当地人和游客共同喜爱的目的地。海滩设有公共淋浴室、儿童游乐场、躺椅和遮阳伞租赁、救生员服务及无障碍通道。",
+    "description": "Playa de la Malagueta（马拉盖塔海滩）是马拉加最具标志性的城市海滩之一，位于 Paseo Marítimo Pablo Ruiz Picasso（巴勃罗·毕加索海滨大道），紧邻市中心。这片金色沙滩为游客提供了亲近阳光与地中海的便利去处，是当地人和游客共同喜爱的目的地。海滩设有公共淋浴室、儿童游乐场、躺椅和遮阳伞租赁、救生员服务及无障碍通道。",
     "breadcrumb": {
       "title": "地理归属层级",
       "items": [
@@ -46,7 +46,7 @@
       "items": [
         "海滩全年开放，入场免费。",
         "非常适合享受阳光和地中海游泳。",
-        "设有传统 toneleras 木制凉亭和餐饮服务。",
+        "设有海滩餐吧（chiringuitos）与餐饮服务。",
         "旺季建议提早抵达以寻找停车位。"
       ]
     },
@@ -54,8 +54,8 @@
       "title": "核心特色",
       "items": [
         "巴勃罗·毕加索海滨大道",
-        "传统木制 toneleras 凉亭",
-        "金色沙滩与清澈海水",
+        "海滩餐吧（chiringuitos）",
+        "金色沙滩与地中海",
         "地中海全景视野"
       ]
     }
@@ -71,7 +71,7 @@
       {
         "id": "layout",
         "title": "位置与如何前往马拉加的 Playa la Malagueta",
-        "content": "海滩位于 Paseo Marítimo Pablo Ruiz Picasso，地处马拉加东部（Málaga-Este），邮编29016。拥有宽敞的步行海滨大道、独立自行车道、休息区，以及面朝地中海的优质 chiringuitos（海滨餐厅）和餐饮选择。"
+        "content": "海滩位于 Paseo Marítimo Pablo Ruiz Picasso，地处马拉加东部（Málaga-Este），邮编29016。拥有宽敞的步行海滨大道、独立自行车道、休息区，以及面朝地中海的优质 chiringuitos（海滩餐吧）和餐饮选择。"
       },
       {
         "id": "culture",
@@ -81,7 +81,7 @@
       {
         "id": "facilities",
         "title": "游客服务、设施与无障碍通道",
-        "content": "海滩提供躺椅和遮阳伞租赁、公共淋浴室与更衣室、救生员与救援岗位、toneleras 餐饮区、自行车租赁、儿童游乐场及无障碍通道。海滨大道设有宽阔的休闲运动区、长椅和绿化空间，全年向公众开放。"
+        "content": "海滩提供躺椅和遮阳伞租赁、公共淋浴室与更衣室、救生员与救援岗位、chiringuitos（海滩餐吧）餐饮区、自行车租赁、儿童游乐场及无障碍通道。海滨大道设有宽阔的休闲运动区、长椅和绿化空间，全年向公众开放。"
       }
     ]
   },
@@ -98,7 +98,7 @@
     "city": "城市",
     "cityValue": "马拉加（Málaga）",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.4 (27,768)",
+    "googleRatingValue": "4.4 (28,264)",
     "address": "地址",
     "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, España",
     "plusCode": "Plus Code",
@@ -115,7 +115,7 @@
     "bestTimeSummer": "夏季：地中海游泳，节日氛围",
     "bestTimeAutumn": "秋季：温暖的日子，游客较少",
     "bestTimeWinter": "冬季：海滨散步，宁静的景观",
-    "tip": "海滩全天24小时开放，但 toneleras 服务和救生员在夏季运营。"
+    "tip": "海滩全天24小时开放，但 chiringuitos（海滩餐吧）服务和救生员在夏季运营。"
   },
   "tickets": {
     "title": "门票信息",
@@ -149,9 +149,9 @@
     "steps": [
       "从巴勃罗·毕加索海滨大道开始",
       "享受金色沙滩和地中海",
-      "参观传统的 toneleras 凉亭",
+      "在海滩餐吧（chiringuitos）享用当地美食",
       "沿着海边的自行车道散步",
-      "在海滩餐厅品尝当地美食"
+      "探索附近的马拉盖塔斗牛场"
     ]
   },
   "photoSpots": {
@@ -164,14 +164,14 @@
         "image": "/gallery/playa-la-malagueta (1).jpg"
       },
       {
-        "title": "Toneleras 凉亭",
-        "description": "特色的 toneleras（木制凉亭）为夏季摄影提供了完美的框架。",
+        "title": "海滩餐吧（Chiringuitos）",
+        "description": "海滩餐吧（chiringuitos）为夏季与美食摄影提供了自然的取景框。",
         "location": "海滩上",
         "image": "/gallery/playa-la-malagueta (3).jpg"
       },
       {
         "title": "地中海景观",
-        "description": "地中海的清澈海水为海滩照片创造了完美的自然框架。",
+        "description": "地中海海水为海滩照片提供了自然背景。",
         "location": "整个海滩",
         "image": "/gallery/playa-la-malagueta (5).jpg"
       },
@@ -189,16 +189,16 @@
     "captions": [
       "海滩景观",
       "海滨大道",
-      "传统 toneleras",
+      "海滩餐吧（chiringuitos）",
       "金色沙滩",
-      "清澈海水",
+      "地中海海水",
       "地中海日落",
       "全景视野",
       "阳光海滩日",
       "海边散步",
       "人们享受时光",
       "地中海景观",
-      "海滩餐厅",
+      "海滩餐吧",
       "海滩运动",
       "海边休闲"
     ],
@@ -210,44 +210,7 @@
     "title": "游客评价",
     "declaration": "评价信息可通过Google地图查看。",
     "moreReviews": "在 Google Maps 查看",
-    "items": [
-      {
-        "name": "Carlos M.",
-        "rating": 5,
-        "date": "2026-04-15",
-        "text": "一个特殊的城市海滩。我总是来这里放松和散步。这是家人和朋友聚会的美好地方。"
-      },
-      {
-        "name": "Laura G.",
-        "rating": 5,
-        "date": "2026-03-20",
-        "text": "享受阳光和大海的完美场所。海滨大道令人叹为观止，toneleras 非常舒适。"
-      },
-      {
-        "name": "Antonio R.",
-        "rating": 4,
-        "date": "2026-05-10",
-        "text": "一个美丽且位置优越的海滩。非常适合傍晚或清晨散步。我热烈推荐给所有访问马拉加的人。"
-      },
-      {
-        "name": "María S.",
-        "rating": 5,
-        "date": "2026-02-28",
-        "text": "作为一个海洋爱好者，我对这个海滩的水质和轻松的氛围印象深刻。一个真正的宁静角落。"
-      },
-      {
-        "name": "José L.",
-        "rating": 5,
-        "date": "2025-11-12",
-        "text": "非常适合家庭散步。海滨大道维护得非常好，氛围非常轻松。"
-      },
-      {
-        "name": "Carmen T.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "与其他海滩相比，这个海滩在市中心附近提供了一个安静的避难所。宁静感和大海使它成为我最喜欢的地方之一。"
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "Playa la Malagueta（马拉盖塔海滩）位置与地图",
@@ -263,7 +226,7 @@
   "footer": {
     "brandName": "马拉盖塔海滩",
     "brandSubtitle": "海滩 · 马拉加",
-    "rights": "© 2026 马拉盖塔海滩独立旅游研究协会 · 保留所有权利。",
+    "rights": "© 2026 马拉盖塔海滩独立游客指南 · 保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
@@ -335,7 +298,7 @@
   },
   "officialManagement": {
     "title": "关于 Playa de la Malagueta（马拉盖塔海滩）",
-    "text": "Playa de la Malagueta（马拉盖塔海滩）是西班牙安达卢西亚自治区马拉加市的标志性城市海滩，是地中海沿岸自然景观与都市休闲空间完美融合的典范。该区域由马拉加市政府联合旅游、环境与海岸管理部门共同负责生态养护、卫生保洁与日常运营。"
+    "text": "本网站是 Playa de la Malagueta（马拉盖塔海滩）的独立游客指南。该海滩是西班牙安达卢西亚自治区马拉加市的公共城市海滩，由马拉加市政府维护。有关官方服务、季节性救生员安排与最新设施信息，请以马拉加市旅游门户为准。"
   },
   "faq": {
     "title": "Playa de la Malagueta（马拉盖塔海滩）常见问题",
@@ -347,11 +310,11 @@
       },
       {
         "question": "游览 Playa la Malagueta（马拉盖塔海滩）是否需要门票？",
-        "answer": "Playa de la Malagueta 是西班牙市政公共海滩，全年365天免费开放，无需购买门票。躺椅、遮阳伞、toneleras 餐饮等增值服务为商业收费项目，可按需选择。"
+        "answer": "Playa de la Malagueta 是西班牙市政公共海滩，全年365天免费开放，无需购买门票。躺椅、遮阳伞、chiringuitos（海滩餐吧）餐饮等增值服务为商业收费项目，可按需选择。"
       },
       {
         "question": "Playa de la Malagueta（马拉盖塔海滩）提供哪些游客设施？",
-        "answer": "海滩配备全套公共服务设施：公共淋浴室与更衣室、儿童游乐场、躺椅与遮阳伞租赁、夏季救生员值守、残疾人无障碍通道、传统木制 toneleras 餐饮亭、公共自行车租赁点；海滨大道设有宽阔步行道、专用自行车道、休憩长椅与绿化带。"
+        "answer": "海滩配备全套公共服务设施：公共淋浴室与更衣室、儿童游乐场、躺椅与遮阳伞租赁、夏季救生员值守、残疾人无障碍通道、chiringuitos（海滩餐吧）餐饮区、公共自行车租赁点；海滨大道设有宽阔步行道、专用自行车道、休憩长椅与绿化带。"
       }
     ]
   }

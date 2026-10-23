@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Playa la Malagueta",
-    "description": "Complete guide to Playa la Malagueta in Málaga. Learn about this iconic Andalusian beach, its location, visiting information, and travel tips."
+    "description": "Practical guide to Playa la Malagueta in Málaga: how to get here, sunbeds and umbrellas, showers and facilities, where to eat at the chiringuitos, and what to see nearby."
   },
   "header": {
     "home": "Home",
@@ -14,14 +14,14 @@
     "title": "Playa de la Malagueta (Málaga)",
     "subtitle": "Public Beach · Málaga · Andalucía",
     "rating": "4.4",
-    "reviewCount": "27,768 reviews",
+    "reviewCount": "28,264 reviews",
     "type": "Beach",
     "openMaps": "View on Google Maps"
   },
   "intro": {
     "title": "About Playa de la Malagueta",
-    "entityEquivalence": "Welcome to <strong>Playa de la Malagueta</strong>, widely recognized as the central <strong>Playa la Malagueta</strong>. Located in the heart of <strong>Málaga</strong>, <strong>Andalucía</strong>, <strong>Spain</strong>, this destination serves as a primary hub for travelers visiting the Costa del Sol region.",
-    "description": "Playa de la Malagueta is one of the most iconic urban beaches in Málaga, located on the Paseo Marítimo Pablo Ruiz Picasso. With its characteristic toneleras (traditional wooden kiosks), this golden sand beach offers a perfect environment to enjoy the sun and the Mediterranean Sea, being a favorite destination for both locals and tourists. Public showers, children's playground, sun loungers and umbrella rental, lifeguard service, and wheelchair access are all available.",
+    "entityEquivalence": "Welcome to <strong>Playa de la Malagueta</strong>, widely recognized as the central <strong>Playa la Malagueta</strong>. Located in the heart of <strong>Málaga</strong>, <strong>Andalucía</strong>, <strong>Spain</strong>, this destination serves as a primary hub for travellers visiting the Costa del Sol region.",
+    "description": "Playa de la Malagueta is one of the most iconic urban beaches in Málaga, located on the Paseo Marítimo Pablo Ruiz Picasso. This golden-sand beach sits close to the city centre and offers an easy place to enjoy the sun and the Mediterranean Sea, being a favourite destination for both locals and visitors. Public showers, a children's playground, sun lounger and umbrella rental, lifeguard service, and wheelchair access are all available.",
     "breadcrumb": {
       "title": "Geographic Hierarchy",
       "items": [
@@ -46,7 +46,7 @@
       "items": [
         "The beach is accessible year-round and admission is free.",
         "Ideal for enjoying the sun and swimming in the Mediterranean.",
-        "Features traditional toneleras and authentic chiringuito dining.",
+        "Features beach chiringuitos and authentic dining.",
         "Arrive early during peak season for parking availability."
       ]
     },
@@ -54,9 +54,9 @@
       "title": "Signature Features",
       "items": [
         "Paseo Marítimo Pablo Ruiz Picasso promenade",
-        "Traditional wooden toneleras",
-        "Golden sand & crystal clear waters",
-        "Panoramic Mediterranean views"
+        "Beachfront chiringuitos",
+        "Golden sand & Mediterranean sea",
+        "Panoramic sea views"
       ]
     }
   },
@@ -66,7 +66,7 @@
       {
         "id": "history",
         "title": "History & Significance of Playa de la Malagueta",
-        "content": "Playa de la Malagueta has been for decades one of the main civic meeting points in Málaga. Its name derives from the historic La Malagueta neighborhood, and it has become a living symbol of the Málaga coastline, pioneering urban beach services in the city and defining the Andalusian summer coastal culture."
+        "content": "Playa de la Malagueta has been for decades one of the main civic meeting points in Málaga. Its name derives from the historic La Malagueta neighbourhood, and it has become a living symbol of the Málaga coastline, pioneering urban beach services in the city and defining the Andalusian summer coastal culture."
       },
       {
         "id": "layout",
@@ -81,7 +81,7 @@
       {
         "id": "facilities",
         "title": "Services, Facilities & Visitor Amenities",
-        "content": "The beach features sun loungers and beach umbrellas for rent, public showers and changing rooms, seasonal lifeguard and rescue post, dining areas within the traditional toneleras, bicycle rental service, children's playground, and accessible ramps for people with reduced mobility. The promenade provides ample zones for leisure, outdoor exercise, and shaded rest benches."
+        "content": "The beach features sun loungers and beach umbrellas for rent, public showers and changing rooms, seasonal lifeguard and rescue post, dining at the beach chiringuitos, a children's playground, and accessible ramps for people with reduced mobility. The promenade provides ample zones for leisure, outdoor exercise, and shaded rest benches."
       }
     ]
   },
@@ -98,7 +98,7 @@
     "city": "City",
     "cityValue": "Málaga",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (27,768)",
+    "googleRatingValue": "4.4 (28,264)",
     "address": "Address",
     "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, España",
     "plusCode": "Plus Code",
@@ -115,7 +115,7 @@
     "bestTimeSummer": "Summer: Mediterranean swimming, festive atmosphere",
     "bestTimeAutumn": "Autumn: Warm days, fewer crowds",
     "bestTimeWinter": "Winter: Seaside walks, tranquil landscapes",
-    "tip": "The beach is accessible 24 hours a day, although tonelera services and lifeguards operate during the summer season."
+    "tip": "The beach is accessible 24 hours a day, although chiringuito services and lifeguards operate during the summer season."
   },
   "tickets": {
     "title": "Admission Information",
@@ -149,9 +149,9 @@
     "steps": [
       "Start at Paseo Marítimo Pablo Ruiz Picasso",
       "Enjoy the golden sand and Mediterranean Sea",
-      "Visit the traditional toneleras",
+      "Enjoy local food at the chiringuitos",
       "Walk along the bike lane by the sea",
-      "Enjoy local gastronomy at the chiringuitos"
+      "Explore the nearby Plaza de Toros de La Malagueta"
     ]
   },
   "photoSpots": {
@@ -164,14 +164,14 @@
         "image": "/gallery/playa-la-malagueta (1).jpg"
       },
       {
-        "title": "Toneleras",
-        "description": "The characteristic toneleras (wooden kiosks) offer a perfect frame for summer photography.",
+        "title": "Chiringuitos",
+        "description": "The beach chiringuitos (restaurants) make a natural frame for summer and food photography.",
         "location": "On the beach",
         "image": "/gallery/playa-la-malagueta (3).jpg"
       },
       {
         "title": "Mediterranean Views",
-        "description": "The crystal-clear waters of the Mediterranean create a perfect natural frame for beach photos.",
+        "description": "The Mediterranean waters create a natural backdrop for beach photography.",
         "location": "Throughout the beach",
         "image": "/gallery/playa-la-malagueta (5).jpg"
       },
@@ -189,9 +189,9 @@
     "captions": [
       "Beach view",
       "Seaside promenade",
-      "Traditional toneleras",
+      "Beach chiringuitos",
       "Golden sand",
-      "Crystal clear water",
+      "Mediterranean water",
       "Mediterranean sunset",
       "Panoramic views",
       "Sunny beach day",
@@ -210,44 +210,7 @@
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps.",
     "moreReviews": "View more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Carlos M.",
-        "rating": 5,
-        "date": "2026-04-15",
-        "text": "An exceptional urban beach. I always come here to relax and walk. It's a wonderful place for families and friends."
-      },
-      {
-        "name": "Laura G.",
-        "rating": 5,
-        "date": "2026-03-20",
-        "text": "The perfect place to enjoy the sun and sea. The promenade is spectacular and the toneleras very cozy."
-      },
-      {
-        "name": "Antonio R.",
-        "rating": 4,
-        "date": "2026-05-10",
-        "text": "A beautiful and well-located beach. Ideal for evening or morning walks. I warmly recommend it to everyone visiting Málaga."
-      },
-      {
-        "name": "María S.",
-        "rating": 5,
-        "date": "2026-02-28",
-        "text": "Being a sea lover, I was deeply impressed by the water quality and relaxed atmosphere of this beach. A true corner of peace."
-      },
-      {
-        "name": "José L.",
-        "rating": 5,
-        "date": "2025-11-12",
-        "text": "Excellent place for family walks. The promenade is very well maintained and the atmosphere is very relaxing."
-      },
-      {
-        "name": "Carmen T.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Compared to other beaches, this one offers a quiet refuge near the center. The feeling of peace and the sea make it one of my favorite places."
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "Location & Map of Playa la Malagueta in Málaga",
@@ -263,7 +226,7 @@
   "footer": {
     "brandName": "Playa la Malagueta",
     "brandSubtitle": "Beach · Málaga",
-    "rights": "© 2026 Playa la Malagueta Independent Tourism Research Association · All Rights Reserved.",
+    "rights": "© 2026 Playa la Malagueta Independent Visitor Guide · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -335,7 +298,7 @@
   },
   "officialManagement": {
     "title": "About Playa de la Malagueta",
-    "text": "Playa de la Malagueta is an iconic urban beach in Málaga, Andalucía, Spain, representing a paradigm of how Mediterranean coastal ecosystems integrate with contemporary city leisure. The site is co-managed under a tripartite framework between the Málaga City Council (Ayuntamiento de Málaga), the Regional Ministry of Environment of Andalucía, and the Costa del Sol Tourist Board for ecological conservation, sanitary maintenance, and daily operational oversight."
+    "text": "This website is an independent visitor guide to Playa de la Malagueta, a public urban beach in Málaga, Andalucía, Spain. The beach is maintained by the Ayuntamiento de Málaga. For official services, seasonal lifeguard schedules, and current facilities, please refer to the Málaga tourism portal."
   },
   "faq": {
     "title": "Frequently Asked Questions about Playa de la Malagueta",
@@ -347,11 +310,11 @@
       },
       {
         "question": "Is Playa la Malagueta free to visit?",
-        "answer": "Yes. Playa de la Malagueta is a municipal public beach and is completely free to access 365 days a year, 24 hours a day. Value-added services such as sun lounger rental, beach umbrellas, and tonelera dining are paid commercial offerings available at visitor discretion."
+        "answer": "Yes. Playa de la Malagueta is a municipal public beach and is completely free to access 365 days a year, 24 hours a day. Additional services such as sun lounger rental, beach umbrellas, or chiringuito dining are paid commercial offerings available at the visitor's discretion."
       },
       {
         "question": "What visitor facilities does Playa de la Malagueta provide?",
-        "answer": "Playa de la Malagueta is equipped with a comprehensive suite of amenities: public showers and changing rooms, a children's playground, seasonal sun lounger and umbrella rental, professional lifeguard coverage during summer months, wheelchair accessible ramps, traditional wooden toneleras, public bicycle docking stations, and a fully segregated pedestrian promenade with bicycle lane, rest benches, and landscaped green belts."
+        "answer": "Playa de la Malagueta is equipped with a comprehensive suite of amenities: public showers and changing rooms, a children's playground, seasonal sun lounger and umbrella rental, professional lifeguard coverage during summer months, wheelchair accessible ramps, beach chiringuitos (restaurants), and a fully segregated pedestrian promenade with bicycle lane, rest benches, and landscaped green belts."
       }
     ]
   }

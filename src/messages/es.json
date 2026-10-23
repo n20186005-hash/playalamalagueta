@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Playa la Malagueta",
-    "description": "Guía completa de Playa la Malagueta en Málaga. Conoce este icono de la costa andaluza, su ubicación, información de visita y consejos de viaje."
+    "description": "Guía práctica de Playa la Malagueta en Málaga: cómo llegar, alquiler de hamacas y sombrillas, duchas y servicios, dónde comer en los chiringuitos y qué ver cerca."
   },
   "header": {
     "home": "Inicio",
@@ -14,14 +14,14 @@
     "title": "Playa de la Malagueta (Málaga)",
     "subtitle": "Playa Pública · Málaga · Andalucía",
     "rating": "4.4",
-    "reviewCount": "27,768 reseñas",
+    "reviewCount": "28,264 reseñas",
     "type": "Playa",
     "openMaps": "Ver en Google Maps"
   },
   "intro": {
     "title": "Descubre Playa de la Malagueta",
     "entityEquivalence": "Bienvenido a <strong>Playa de la Malagueta</strong>, reconocida universalmente como la <strong>Playa la Malagueta</strong> por excelencia. Situada en pleno corazón de <strong>Málaga</strong>, <strong>Andalucía</strong>, <strong>España</strong>, este destino constituye uno de los principales ejes turísticos y de encuentro para visitantes y lugareños de la región.",
-    "description": "La Playa de la Malagueta es una de las playas urbanas más emblemáticas de Málaga, situada en el Paseo Marítimo Pablo Ruiz Picasso. Con sus características toneleras (quioscos de madera tradicionales), esta playa de arena dorada ofrece un ambiente perfecto para disfrutar del sol y el mar Mediterráneo, siendo un destino favorito tanto para locales como para turistas. Cuenta con duchas públicas, zona infantil de juegos, alquiler de hamacas y sombrillas, puesto de salvamento y acceso adaptado.",
+    "description": "La Playa de la Malagueta es una de las playas urbanas más emblemáticas de Málaga, situada en el Paseo Marítimo Pablo Ruiz Picasso. Esta playa de arena dorada, muy cerca del centro, ofrece un lugar cómodo para disfrutar del sol y del mar Mediterráneo, siendo un destino favorito tanto para locales como para visitantes. Cuenta con duchas públicas, zona infantil de juegos, alquiler de hamacas y sombrillas, puesto de salvamento y acceso adaptado.",
     "breadcrumb": {
       "title": "Jerarquía Geográfica",
       "items": [
@@ -46,7 +46,7 @@
       "items": [
         "La playa es accesible durante todo el año y la entrada es gratuita.",
         "Ideal para disfrutar del sol y el baño en el Mediterráneo.",
-        "Cuenta con toneleras tradicionales y servicios de restauración.",
+        "Cuenta con chiringuitos de playa y restauración.",
         "Se recomienda llegar temprano en temporada alta para encontrar aparcamiento."
       ]
     },
@@ -54,8 +54,8 @@
       "title": "Atributos Destacados",
       "items": [
         "Paseo Marítimo Pablo Ruiz Picasso",
-        "Toneleras tradicionales de madera",
-        "Arena dorada y aguas cristalinas",
+        "Chiringuitos de playa",
+        "Arena dorada y mar Mediterráneo",
         "Vistas panorámicas al Mediterráneo"
       ]
     }
@@ -81,7 +81,7 @@
       {
         "id": "facilities",
         "title": "Servicios, Instalaciones y Atención al Visitante",
-        "content": "La playa cuenta con servicio de alquiler de hamacas y sombrillas, duchas públicas y vestuarios, puesto de salvamento y socorrismo, zonas de restauración en las toneleras, alquiler de bicicletas, parque infantil y acceso para personas con movilidad reducida. El paseo marítimo ofrece amplias zonas para el ocio, el deporte y el descanso con bancos y zonas verdes."
+        "content": "La playa cuenta con servicio de alquiler de hamacas y sombrillas, duchas públicas y vestuarios, puesto de salvamento y socorrismo, zonas de restauración en los chiringuitos de playa, alquiler de bicicletas, parque infantil y acceso para personas con movilidad reducida. El paseo marítimo ofrece amplias zonas para el ocio, el deporte y el descanso con bancos y zonas verdes."
       }
     ]
   },
@@ -98,7 +98,7 @@
     "city": "Ciudad",
     "cityValue": "Málaga",
     "googleRating": "Valoración Google",
-    "googleRatingValue": "4.4 (27,768)",
+    "googleRatingValue": "4.4 (28,264)",
     "address": "Dirección",
     "addressValue": "P.º Marítimo Pablo Ruiz Picasso, Málaga-Este, 29016 Málaga, España",
     "plusCode": "Plus Code",
@@ -115,7 +115,7 @@
     "bestTimeSummer": "Verano: Baño en el Mediterráneo, ambiente festivo",
     "bestTimeAutumn": "Otoño: Días cálidos, menos afluencia",
     "bestTimeWinter": "Invierno: Paseos junto al mar, paisajes tranquilos",
-    "tip": "La playa es accesible las 24 horas del día, aunque los servicios de toneleras y salvamento operan en horario estival."
+    "tip": "La playa es accesible las 24 horas del día, aunque los servicios de los chiringuitos y el salvamento operan en horario estival."
   },
   "tickets": {
     "title": "Información de Acceso",
@@ -149,9 +149,9 @@
     "steps": [
       "Comienza en el Paseo Marítimo Pablo Ruiz Picasso",
       "Disfruta de la arena dorada y el mar Mediterráneo",
-      "Visita las toneleras tradicionales",
+      "Disfruta de la gastronomía en los chiringuitos",
       "Pasea por el carril bici junto al mar",
-      "Disfruta de la gastronomía local en los chiringuitos"
+      "Explora la cercana Plaza de Toros de La Malagueta"
     ]
   },
   "photoSpots": {
@@ -164,14 +164,14 @@
         "image": "/gallery/playa-la-malagueta (1).jpg"
       },
       {
-        "title": "Toneleras",
-        "description": "Las características toneleras (quioscos de madera) ofrecen un marco perfecto para fotografías de verano.",
+        "title": "Chiringuitos",
+        "description": "Los chiringuitos de la playa (restaurantes) ofrecen un marco natural para fotografía de verano y gastronomía.",
         "location": "En la playa",
         "image": "/gallery/playa-la-malagueta (3).jpg"
       },
       {
         "title": "Vistas al Mediterráneo",
-        "description": "Las aguas cristalinas del Mediterráneo crean un marco natural perfecto para fotos de playa.",
+        "description": "Las aguas del Mediterráneo crean un fondo natural para fotos de playa.",
         "location": "En toda la playa",
         "image": "/gallery/playa-la-malagueta (5).jpg"
       },
@@ -189,9 +189,9 @@
     "captions": [
       "Vista de la playa",
       "Paseo marítimo",
-      "Toneleras tradicionales",
+      "Chiringuitos de playa",
       "Arena dorada",
-      "Agua cristalina",
+      "Agua del Mediterráneo",
       "Atardecer mediterráneo",
       "Vistas panorámicas",
       "Día de sol en la playa",
@@ -210,44 +210,7 @@
     "title": "Reseñas de Visitantes",
     "declaration": "Las reseñas de visitantes pueden consultarse a través de Google Maps.",
     "moreReviews": "Ver más reseñas en Google Maps",
-    "items": [
-      {
-        "name": "Carlos M.",
-        "rating": 5,
-        "date": "2026-04-15",
-        "text": "Una playa urbana excepcional. Siempre viene a relajarse y pasear. Es un lugar maravilloso para familias y amigos."
-      },
-      {
-        "name": "Laura G.",
-        "rating": 5,
-        "date": "2026-03-20",
-        "text": "El lugar perfecto para disfrutar del sol y el mar. El paseo marítimo es espectacular y las toneleras muy acogedoras."
-      },
-      {
-        "name": "Antonio R.",
-        "rating": 4,
-        "date": "2026-05-10",
-        "text": "Una playa bonita y bien situada. Ideal para paseos de tarde o mañana. La recomiendo calóricamente a todos los que visiten Málaga."
-      },
-      {
-        "name": "María S.",
-        "rating": 5,
-        "date": "2026-02-28",
-        "text": "Siendo amante del mar, me impresionó profundamente la calidad del agua y el ambiente relajado de esta playa. Un verdadero rincón de paz."
-      },
-      {
-        "name": "José L.",
-        "rating": 5,
-        "date": "2025-11-12",
-        "text": "Excelente lugar para paseos familiares. El paseo marítimo está muy bien cuidado y el ambiente es muy relajante."
-      },
-      {
-        "name": "Carmen T.",
-        "rating": 5,
-        "date": "2025-09-05",
-        "text": "Comparada con otras playas, esta ofrece un refugio tranquilo cerca del centro. La sensación de paz y el mar hacen que sea uno de mis lugares favoritos."
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "Ubicación y Mapa de Playa la Malagueta en Málaga",
@@ -263,7 +226,7 @@
   "footer": {
     "brandName": "Playa la Malagueta",
     "brandSubtitle": "Playa · Málaga",
-    "rights": "© 2026 Playa la Malagueta Asociación Independiente de Turismo · Todos los derechos reservados.",
+    "rights": "© 2026 Playa la Malagueta Guía de Visitante Independiente · Todos los derechos reservados.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies",
@@ -335,7 +298,7 @@
   },
   "officialManagement": {
     "title": "Sobre Playa de la Malagueta",
-    "text": "La Playa de la Malagueta es una playa urbana emblemática en Málaga, España, siendo un ejemplo perfecto de combinación entre naturaleza y ocio urbano en la costa andaluza. El área es gestionada conjuntamente para la protección ambiental y las operaciones diarias por el Ayuntamiento de Málaga y los departamentos relacionados de turismo y medio ambiente."
+    "text": "Este sitio web es una guía de visitante independiente de Playa de la Malagueta, una playa urbana pública de Málaga, Andalucía, España. La playa es gestionada por el Ayuntamiento de Málaga. Para servicios oficiales, horarios de salvamento por temporada e instalaciones actuales, consulte el portal de turismo de Málaga."
   },
   "faq": {
     "title": "Preguntas Frecuentes sobre Playa de la Malagueta",
@@ -347,11 +310,11 @@
       },
       {
         "question": "¿Es gratuita la visita a Playa la Malagueta?",
-        "answer": "Sí, Playa de la Malagueta es un espacio público de titularidad municipal y su acceso es completamente gratuito durante los 365 días del año. Los servicios adicionales como alquiler de hamacas, sombrillas o restauración en las toneleras sí son de pago."
+        "answer": "Sí, Playa de la Malagueta es un espacio público de titularidad municipal y su acceso es completamente gratuito durante los 365 días del año. Los servicios adicionales como alquiler de hamacas, sombrillas o restauración en los chiringuitos sí son de pago."
       },
       {
         "question": "¿Qué servicios e instalaciones ofrece Playa de la Malagueta?",
-        "answer": "Playa de la Malagueta ofrece una amplia gama de servicios: duchas públicas y vestuarios, parque infantil, alquiler de hamacas y sombrillas, puesto de salvamento y socorrismo (en temporada estival), acceso para personas con movilidad reducida, zonas de restauración en las tradicionales toneleras de madera, alquiler de bicicletas, y un amplio paseo marítimo peatonal con carril bici."
+        "answer": "Playa de la Malagueta ofrece una amplia gama de servicios: duchas públicas y vestuarios, parque infantil, alquiler de hamacas y sombrillas, puesto de salvamento y socorrismo (en temporada estival), acceso para personas con movilidad reducida, zonas de restauración en los chiringuitos de playa, alquiler de bicicletas, y un amplio paseo marítimo peatonal con carril bici."
       }
     ]
   }

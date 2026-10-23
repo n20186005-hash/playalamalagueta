@@ -13,6 +13,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FAQ from '@/components/FAQ';
 import MapEmbed from '@/components/MapEmbed';
+import TopicLinks from '@/components/TopicLinks';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -22,6 +23,7 @@ export default async function HomePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const localeKey = (locale === 'zh' || locale === 'en' || locale === 'es') ? (locale as 'en' | 'es' | 'zh') : 'en';
 
   return (
     <>
@@ -39,6 +41,7 @@ export default async function HomePage({
         <Gallery />
         <Reviews />
         <FAQ />
+        <TopicLinks locale={localeKey} />
         <MapEmbed />
       </main>
       <Footer />

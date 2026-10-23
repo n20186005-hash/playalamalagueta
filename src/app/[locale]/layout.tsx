@@ -26,27 +26,27 @@ export function generateStaticParams() {
 }
 
 const TITLES = {
-  es: 'Playa de la Malagueta (Málaga) - Guía del Visitante y Ubicación',
-  en: 'Playa de la Malagueta (Málaga) - Visitor Guide & Location',
-  zh: 'Playa de la Malagueta（马拉加）- 游客指南与位置',
+  es: 'Playa de la Malagueta: cómo llegar, hamacas y dónde comer',
+  en: 'Malagueta Beach, Málaga: Sunbeds, Food & Getting Here',
+  zh: 'Playa de la Malagueta（马拉盖塔海滩）：交通、躺椅与餐饮指南',
 };
 
 const DESCRIPTIONS = {
-  es: 'Descubre Playa de la Malagueta, la playa urbana emblemática en Málaga, Andalucía, España. Consulta el mapa de ubicación, horarios, servicios, lugares cercanos como la Plaza de Toros de La Malagueta y consejos de viaje.',
-  en: 'Discover Playa de la Malagueta, the iconic urban beach in Málaga, Andalucía, Spain. View location map, opening details, nearby Plaza de Toros de La Malagueta, Paseo Marítimo Pablo Ruiz Picasso, and travel tips.',
-  zh: '探索Playa de la Malagueta（马拉盖塔海滩）——西班牙安达卢西亚马拉加的标志性城市海滩。查看位置地图、开放信息、周边地标如马拉盖塔斗牛场、巴勃罗·毕加索海滨大道及旅行贴士。',
+  es: 'Guía práctica de Playa de la Malagueta en Málaga: cómo llegar desde el centro, el aeropuerto o el puerto de cruceros, alquiler de hamacas y sombrillas, duchas y servicios, dónde comer en los chiringuitos y qué ver cerca, como la Plaza de Toros y Muelle Uno.',
+  en: 'Practical guide to Malagueta Beach in Málaga: how to get here from the centre, airport or cruise port, sunbed and umbrella rental, showers and facilities, where to eat at the chiringuitos, and what to see nearby such as the bullring and Muelle Uno.',
+  zh: 'Playa de la Malagueta（马拉盖塔海滩）实用指南：如何从市中心、机场或邮轮港到达，躺椅与遮阳伞租赁，淋浴与设施，在海滩餐吧用餐，以及周边如斗牛场与 Muelle Uno 的景点。',
 };
 
 const OG_TITLES = {
-  es: 'Playa de la Malagueta - Guía de Viaje a Málaga',
-  en: 'Playa de la Malagueta - Málaga Travel Guide',
-  zh: 'Playa de la Malagueta（马拉盖塔海滩）- 马拉加旅行指南',
+  es: 'Playa de la Malagueta - Guía de playa en Málaga',
+  en: 'Malagueta Beach - Málaga Beach Guide',
+  zh: 'Playa de la Malagueta（马拉盖塔海滩）- 马拉加海滩指南',
 };
 
 const OG_DESCRIPTIONS = {
-  es: 'Guía oficial de visita a Playa de la Malagueta en Málaga, Andalucía, España.',
-  en: 'Official visitor guide to Playa de la Malagueta in Málaga, Andalucía, Spain.',
-  zh: '西班牙安达卢西亚马拉加Playa de la Malagueta（马拉盖塔海滩）官方游览指南。',
+  es: 'Guía independiente de visita a Playa de la Malagueta en Málaga, Andalucía, España.',
+  en: 'Independent visitor guide to Malagueta Beach in Málaga, Andalucía, Spain.',
+  zh: '西班牙安达卢西亚马拉加 Playa de la Malagueta（马拉盖塔海滩）独立游览指南。',
 };
 
 export async function generateMetadata({
@@ -112,7 +112,7 @@ const FAQ_ENTITIES = {
     },
     {
       name: '¿Qué servicios ofrece Playa de la Malagueta?',
-      text: 'Playa de la Malagueta cuenta con duchas, duchas, alquiler de hamacas y sombrillas, salvamento, zonas infantiles, acceso para personas con movilidad reducida y restauración en las tradicionales toneleras.',
+      text: 'Playa de la Malagueta cuenta con aseos, duchas, alquiler de hamacas y sombrillas, servicio de salvamento (en temporada estival), zonas infantiles, acceso para personas con movilidad reducida y restauración en los chiringuitos de la playa.',
     },
   ],
   en: [
@@ -126,7 +126,7 @@ const FAQ_ENTITIES = {
     },
     {
       name: 'What facilities does Playa de la Malagueta offer?',
-      text: 'Playa de la Malagueta features showers, children\'s playground, sun loungers and umbrella rental, lifeguard services, accessible access for people with reduced mobility, and dining at the traditional toneleras (wooden kiosks).',
+      text: 'Playa de la Malagueta features public toilets, showers, sun lounger and umbrella rental, lifeguard service (in the summer season), children\'s play areas, accessible access for people with reduced mobility, and dining at the beach chiringuitos.',
     },
   ],
   zh: [
@@ -140,7 +140,7 @@ const FAQ_ENTITIES = {
     },
     {
       name: 'Playa de la Malagueta（马拉盖塔海滩）提供哪些设施？',
-      text: 'Playa de la Malagueta设有淋浴室、儿童游乐场、躺椅和遮阳伞租赁、救生员服务、无障碍通道，以及传统toneleras木制凉亭餐饮区。',
+      text: 'Playa de la Malagueta设有公共厕所、淋浴室、躺椅和遮阳伞租赁、救生员服务（夏季）、儿童游乐区、无障碍通道，以及海滩餐吧（chiringuitos）餐饮服务。',
     },
   ],
 };
@@ -238,7 +238,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale === 'zh' ? 'zh-CN' : locale === 'es' ? 'es-ES' : 'en'} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href={selfUrl} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
