@@ -1,7 +1,8 @@
 'use client';
 
 import { useLocale } from 'next-intl';
-import { useRouter, usePathname, routing, type Locale } from '@/i18n/routing';
+import { usePathname } from 'next/navigation';
+import { routing } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
 const labels: Record<string, string> = {
@@ -12,7 +13,6 @@ const labels: Record<string, string> = {
 
 export default function LanguageToggle() {
   const locale = useLocale();
-  const router = useRouter();
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
@@ -27,15 +27,6 @@ export default function LanguageToggle() {
     return () => document.removeEventListener('mousedown', handleClick);
   }, []);
 
-  function switchLocale(next: Locale) {
-    setOpen(false);
-    
-    if (next === locale) return;
-
-    // Use next-intl router to properly switch locale
-    router.push(pathname, { locale: next });
-  }
-
   return (
     <div ref={ref} className="relative">
       <button
@@ -45,7 +36,8 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={locale === 'zh' ? '切换语言' : locale === 'es' ? 'Cambiar idioma' : 'Switch language'}
+        aria-expanded={open}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -64,10 +56,14 @@ export default function LanguageToggle() {
           style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
         >
           {routing.locales.map((loc) => (
-            <button
+            <a
               key={loc}
-              onClick={() => switchLocale(loc)}
-              className="w-full text-left px-4 py-[0.625rem] text-sm transition-colors"
+              href={`/${loc}${pathname.replace(/^\/(en|es|zh)(?=\/|$)/, '')}`}
+              hrefLang={loc}
+              lang={loc}
+              aria-current={loc === locale ? 'page' : undefined}
+              onClick={() => setOpen(false)}
+              className="block w-full text-left px-4 py-[0.625rem] text-sm transition-colors"
               style={{
                 color: loc === locale ? 'var(--accent)' : 'var(--text-primary)',
                 fontWeight: loc === locale ? 600 : 400,
@@ -77,7 +73,7 @@ export default function LanguageToggle() {
               onMouseLeave={(e) => (e.currentTarget.style.background = 'transparent')}
             >
               {labels[loc]}
-            </button>
+            </a>
           ))}
         </div>
       )}

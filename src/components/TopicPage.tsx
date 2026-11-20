@@ -1,5 +1,6 @@
 import { BASE_URL, CATEGORY_LABELS, type Locale, type TopicEntry, type TopicLocaleContent } from '@/lib/topic-types';
 import { getTopic, topicContent } from '@/lib/topics';
+import { nearbyText } from '@/lib/nearby/directory';
 import TopicFaq from './TopicFaq';
 
 type Props = {
@@ -120,7 +121,7 @@ export default function TopicPage({ locale, slug, entry, content }: Props) {
               </a>
             </li>
             <li aria-hidden="true">/</li>
-            <li>{categoryLabel}</li>
+            <li><a className="underline" href={`/${locale}/nearby`}>{nearbyText[locale].directory}</a></li>
             <li aria-hidden="true">/</li>
             <li style={{ color: 'var(--text-secondary)' }}>{content.title}</li>
           </ol>

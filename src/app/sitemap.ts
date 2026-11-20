@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next';
 import { TOPIC_SLUGS } from '@/lib/topics';
 
+import { places } from '@/lib/nearby/directory';
+
 const BASE_URL = 'https://playalamalagueta.com';
 const LOCALES = ['zh', 'en', 'es'] as const;
 const LEGAL = ['privacy-policy', 'terms-of-service', 'cookie-settings'];
@@ -33,7 +35,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       });
     }
 
-    // 40 topic pages
+    for (const path of ['/nearby', ...places.map(({ slug }) => `/nearby/${slug}`)]) {
+      entries.push({ url: `${BASE_URL}/${locale}${path}`, alternates: { languages: languageAlternates(path) } });
+    }
+
+    // Existing topic pages
     for (const slug of TOPIC_SLUGS) {
       entries.push({
         url: `${BASE_URL}/${locale}/${slug}`,

@@ -297,8 +297,10 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Playa de la Malagueta",
-    "text": "This website is an independent visitor guide to Playa de la Malagueta, a public urban beach in Málaga, Andalucía, Spain. The beach is maintained by the Ayuntamiento de Málaga. For official services, seasonal lifeguard schedules, and current facilities, please refer to the Málaga tourism portal."
+    "title": "Public beach and municipal services",
+    "text": "La Malagueta is a public urban beach. Málaga City Council publishes its facilities and manages municipal beach services, including seasonal lifeguarding. An 1887 sea-bathing proposal in the Port of Málaga archive documents the area’s long history of seaside recreation. Check the city’s current notices before relying on a seasonal service.",
+    "source": "Málaga City Council beach information",
+    "archive": "1887 sea-bathing plan"
   },
   "faq": {
     "title": "Frequently Asked Questions about Playa de la Malagueta",

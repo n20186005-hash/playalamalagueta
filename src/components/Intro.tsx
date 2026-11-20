@@ -1,7 +1,10 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+import { cityBeach, nearbyText, isLocale } from '@/lib/nearby/directory';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const locale = useLocale();
+  const language = isLocale(locale) ? locale : 'en';
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
   const visitGuideItems: string[] = messages?.intro?.visitGuide?.items || [];
@@ -19,6 +22,18 @@ export default function Intro() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
+
+        {/* Official Management Section */}
+        <div className="mb-10 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
+          <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+            {tOff('title')}
+          </h2>
+          <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
+            {tOff('text')}
+          </div>
+          <a className="mt-3 inline-block underline underline-offset-4" href={cityBeach}>{tOff('source')}</a>
+          <a className="ml-4 mt-3 inline-block underline underline-offset-4" href="https://ws205.juntadeandalucia.es/institutodeestadisticaycartografia/cartoteca/mapa/ieca1988099339">{tOff('archive')}</a>
+        </div>
 
         {/* Entity Equivalence Statement (首段等位声明) */}
         <div
@@ -134,17 +149,10 @@ export default function Intro() {
               </span>
             ))}
           </div>
+          <a className="mt-4 inline-block font-semibold underline underline-offset-4" href={`/${language}/nearby`}>{nearbyText[language].directory}</a>
         </div>
 
-        {/* Official Management Section */}
-        <div className="p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
-          <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-            {tOff('title')}
-          </h2>
-          <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
-            {tOff('text')}
-          </div>
-        </div>
+
       </div>
     </section>
   );

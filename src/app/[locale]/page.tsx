@@ -13,6 +13,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FAQ from '@/components/FAQ';
 import MapEmbed from '@/components/MapEmbed';
+import NearbyDirectory from '@/components/NearbyDirectory';
 import TopicLinks from '@/components/TopicLinks';
 import Footer from '@/components/Footer';
 
@@ -31,6 +32,7 @@ export default async function HomePage({
       <main>
         <Hero />
         <Intro />
+        <NearbyDirectory locale={localeKey} compact />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />

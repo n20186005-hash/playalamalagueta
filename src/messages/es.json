@@ -297,8 +297,10 @@
     "saved": "¡Preferencias guardadas!"
   },
   "officialManagement": {
-    "title": "Sobre Playa de la Malagueta",
-    "text": "Este sitio web es una guía de visitante independiente de Playa de la Malagueta, una playa urbana pública de Málaga, Andalucía, España. La playa es gestionada por el Ayuntamiento de Málaga. Para servicios oficiales, horarios de salvamento por temporada e instalaciones actuales, consulte el portal de turismo de Málaga."
+    "title": "Playa pública y servicios municipales",
+    "text": "La Malagueta es una playa urbana pública. El Ayuntamiento de Málaga publica sus instalaciones y gestiona los servicios municipales, incluido el salvamento de temporada. Un proyecto de baños de mar de 1887, conservado en el Archivo del Puerto de Málaga, documenta la historia del ocio en esta costa. Consulta los avisos municipales antes de contar con un servicio de temporada.",
+    "source": "Ficha de la playa del Ayuntamiento de Málaga",
+    "archive": "Proyecto de baños de mar de 1887"
   },
   "faq": {
     "title": "Preguntas Frecuentes sobre Playa de la Malagueta",
