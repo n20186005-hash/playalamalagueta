@@ -10,6 +10,8 @@ export type Place = {
   source: string;
   manager: Localized | null;
   mapName?: string;
+  address?: string;
+  duration?: Localized;
   title: Localized;
   history: Localized;
   observation: Localized;

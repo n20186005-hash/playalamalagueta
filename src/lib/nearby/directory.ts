@@ -4,12 +4,13 @@ import { coast } from './east-west';
 import { landmarks } from './landmarks';
 import { museums } from './museums';
 import { streets } from './streets';
+import { secondRound } from './second-round';
 import type { Area } from './types';
 
-export const places = [...landmarks, ...streets, ...museums, ...coast];
+export const places = [...landmarks, ...streets, ...museums, ...coast, ...secondRound];
 export const getPlace = (slug: string) => places.find((place) => place.slug === slug);
 
-export const checkedOn = '2026-11-20';
+export const checkedOn = '2026-11-23';
 export const cityBeach = 'https://www.malaga.eu/la-ciudad/playas/la-malagueta/index.html';
 export const cityBus = 'https://emtsam.org/blog/';
 export const beachMaps = 'https://maps.app.goo.gl/hLbRvdwVPo37TgFq8';

@@ -34,10 +34,10 @@ export default function Header({ solid = false }: { solid?: boolean }) {
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+          {(['nearby', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
-              href={`${logoHref}#${section}`}
+              href={section === 'nearby' ? `${logoHref}/nearby` : `${logoHref}#${section}`}
               className="text-sm font-medium transition-colors"
               style={{ color: opaque ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
