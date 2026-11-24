@@ -45,9 +45,9 @@ export default async function NearbyPlace({ params }: Props) {
     zh: `到访${title}前需要确认哪些信息？`,
   };
   const labels = {
-    en: { about: 'About', address: 'Address or approach', duration: 'Suggested visit', mapTitle: 'Map of', reviews: 'Find recent visitor reviews on Google Maps', photoCredit: 'Photograph and attribution' },
-    es: { about: 'Acerca de', address: 'Dirección o acceso', duration: 'Tiempo sugerido', mapTitle: 'Mapa de', reviews: 'Buscar reseñas recientes en Google Maps', photoCredit: 'Fotografía y créditos' },
-    zh: { about: '关于', address: '地址或入口', duration: '建议停留', mapTitle: '地图', reviews: '在 Google 地图查看近期游客评价', photoCredit: '照片与署名' },
+    en: { about: 'About', address: 'Address or approach', duration: 'Suggested visit', mapTitle: 'Map of', reviews: 'Find recent visitor reviews on Google Maps', photoCredit: 'Photograph and attribution', furtherReading: 'Further reading' },
+    es: { about: 'Acerca de', address: 'Dirección o acceso', duration: 'Tiempo sugerido', mapTitle: 'Mapa de', reviews: 'Buscar reseñas recientes en Google Maps', photoCredit: 'Fotografía y créditos', furtherReading: 'Más información' },
+    zh: { about: '关于', address: '地址或入口', duration: '建议停留', mapTitle: '地图', reviews: '在 Google 地图查看近期游客评价', photoCredit: '照片与署名', furtherReading: '延伸阅读' },
   }[locale];
   const photo = photos[slug];
   const faq = [
@@ -92,7 +92,7 @@ export default async function NearbyPlace({ params }: Props) {
         <article className="section-padding mx-auto max-w-4xl space-y-10 text-[var(--text-secondary)]">
           <section className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-secondary)] p-5 sm:p-7">
             <h2 className="font-display text-2xl font-semibold text-[var(--text-primary)]">{locale === 'zh' ? `${labels.about}${title}` : `${labels.about} ${title}`}</h2>
-            <p className="mt-3 leading-relaxed">{place.history[locale]}</p>
+            <p className="mt-3 leading-relaxed">{place.historyDetail?.[locale] ?? place.history[locale]}</p>
             <h3 className="mb-2 mt-4 font-semibold text-[var(--text-primary)]">{t.manager}</h3>
             <p>{place.manager?.[locale] ?? t.unverified}</p>
           </section>
@@ -153,6 +153,9 @@ export default async function NearbyPlace({ params }: Props) {
           <section>
             <h2 className="font-display text-2xl font-semibold text-[var(--text-primary)]">{t.source}</h2>
             <p className="mt-3"><a className="underline" href={place.source}>{t.primary}</a></p>
+            {place.furtherReading && (
+              <p className="mt-2"><a className="underline" href={place.furtherReading}>{labels.furtherReading}</a></p>
+            )}
             <p className="mt-2 text-sm">{t.checked} <time dateTime={checkedOn}>{checkedOn}</time></p>
           </section>
           <section>

@@ -14,6 +14,8 @@ export type Place = {
   duration?: Localized;
   title: Localized;
   history: Localized;
+  historyDetail?: Localized;
+  furtherReading?: string;
   observation: Localized;
   route: Localized;
   access: Localized;
