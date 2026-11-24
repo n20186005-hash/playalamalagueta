@@ -4,7 +4,8 @@ import { nearbyText } from '@/lib/nearby/directory';
 import TopicFaq from './TopicFaq';
 import TravelHero from './TravelHero';
 import { photos } from '@/lib/nearby/photos';
-import { mapsFor } from '@/lib/nearby/directory';
+import { getPlace, mapsFor } from '@/lib/nearby/directory';
+import fieldNotes from '@/lib/topic-field-notes.json';
 
 type Props = {
   locale: Locale;
@@ -17,6 +18,13 @@ const SITE_NAME = 'Playa la Malagueta';
 
 export default function TopicPage({ locale, slug, entry, content }: Props) {
   const localeKey = locale;
+  const note = fieldNotes[slug as keyof typeof fieldNotes];
+  const stop = note && getPlace(note.place);
+  const stopLabels = {
+    en: { plan: 'Planning this visit', stop: 'A nearby stop', guide: 'Walking directions and visitor information', map: 'Map of this stop' },
+    es: { plan: 'Cómo organizar la visita', stop: 'Una parada cercana', guide: 'Recorrido a pie e información de visita', map: 'Mapa de esta parada' },
+    zh: { plan: '具体怎么安排', stop: '可搭配的周边景点', guide: '步行路线与参观详情', map: '查看此站地图' },
+  }[locale];
   const categoryLabel = CATEGORY_LABELS[entry.category][localeKey];
   const homeUrl = `${BASE_URL}/${locale}`;
   const topicUrl = `${BASE_URL}/${locale}/${slug}`;
@@ -167,6 +175,23 @@ export default function TopicPage({ locale, slug, entry, content }: Props) {
             ))}
           </div>
         </section>
+
+        {note && stop && (
+          <section className="section-padding pt-0" id="visit-plan">
+            <div className="max-w-4xl mx-auto px-4 sm:px-6">
+              <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-4">{stopLabels.plan}</h2>
+              <p className="leading-relaxed mb-8">{note[locale]}</p>
+              <aside aria-label={stopLabels.stop} className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-secondary)] p-5">
+                <h3 className="font-display text-xl font-semibold">{stopLabels.stop} · {stop.title[locale]}</h3>
+                <p className="leading-relaxed my-3">{stop[note.detail as 'route' | 'observation' | 'access'][locale]}</p>
+                <div className="flex flex-wrap gap-x-6 gap-y-2 text-sm underline">
+                  <a href={`/${locale}/nearby/${stop.slug}`}>{stopLabels.guide}</a>
+                  <a href={mapsFor(stop.mapName ?? stop.name)}>{stopLabels.map}</a>
+                </div>
+              </aside>
+            </div>
+          </section>
+        )}
 
         {/* FAQ */}
         <section className="section-padding pt-0" style={{ background: 'var(--bg-secondary)' }}>

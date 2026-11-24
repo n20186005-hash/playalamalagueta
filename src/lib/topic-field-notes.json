@@ -1,0 +1,282 @@
+{
+  "budget-food": {
+    "place": "mercado-atarazanas",
+    "detail": "access",
+    "en": "At Atarazanas, first decide whether you want groceries or a cooked lunch. Fruit and bread travel to the beach; a hot portion of fried fish is better shared at the counter. Ask whether the price is for a tapa, half portion or full portion before comparing two menus. From the market return via Alameda Principal and the park rather than carrying lunch uphill through the old town.",
+    "es": "En Atarazanas, decide si compras para llevar o si vas a comer allí. La fruta y el pan aguantan el paseo a la playa; una fritura caliente se disfruta más compartida en la barra. Pregunta si el precio corresponde a tapa, media ración o ración. Para volver con la compra, enlaza Alameda Principal y el parque sin subir por el casco antiguo.",
+    "zh": "在阿塔拉萨纳斯市场先决定是买野餐食材，还是当场吃热午饭。面包和水果适合带去海边，刚出锅的炸鱼更适合在柜台分食。看价目要问清是小碟、半份还是整份，再比较两家菜单。提着食物回海滩可走林荫主干道和公园，不必绕进老城坡道。"
+  },
+  "best-time-to-visit": {
+    "place": "jardines-pedro-luis-alonso",
+    "detail": "observation",
+    "en": "Plan by activity as well as month. If you want photographs of the formal gardens, start beside City Hall before the beach session; for a long evening walk, save the port frontage for the way back. Out of the main bathing season, choose an outing that still works without a lounger or swim: gardens, promenade and a meal inland.",
+    "es": "Elige la hora según lo que quieras hacer. Para fotografiar los jardines geométricos, empieza junto al Ayuntamiento antes de bajar a la arena; si buscas un paseo largo al atardecer, reserva el puerto para el regreso. Fuera de la temporada principal de baño, combina jardines, paseo y una comida hacia el interior aunque no haya hamacas disponibles.",
+    "zh": "想拍市政厅旁的几何花园，可先走花园、再去海滩；想把傍晚留给长距离散步，则把港边放到回程。淡季安排行程时，可以花园、滨海步道和内街午餐为主，即使现场没有躺椅、当天也不下水，整日仍有可看的内容。"
+  },
+  "with-kids": {
+    "place": "palmeral-de-las-sorpresas",
+    "detail": "observation",
+    "en": "Use the port pergola as the family meeting point before anyone heads onto the sand. With a buggy, stay on the paved promenade until you have found a usable beach access and identified the return ramp. If the children tire, choose one short harbour stop under the pergola instead of adding Gibralfaro and its uphill return.",
+    "es": "Fijad la pérgola del puerto como punto de reunión antes de separaros en la arena. Con carrito, seguid por el paseo pavimentado hasta encontrar un acceso practicable y reconoced la rampa para la vuelta. Si los pequeños se cansan, haced una sola parada en el puerto bajo la pérgola y guardad la subida a Gibralfaro para otro día.",
+    "zh": "一家人到海边先约好港口长廊为集合点，再分头去沙滩。推婴儿车时先留在硬质步道，找到可通行的入口并认清回程坡道，再靠近沙地。孩子走累了，回港口看一段廊架就能结束；上希布拉尔法罗山可另排一天。"
+  },
+  "evening-for-couples": {
+    "place": "mirador-gibralfaro",
+    "detail": "observation",
+    "en": "Decide whether dinner or the overlook is the fixed appointment. For a reserved table near the port, photograph the city from the waterfront and keep the return on the level. If the hill is the main event, make the climb in daylight, identify the descent before dusk and book dinner only after allowing for the full return.",
+    "es": "Decidid qué marca el horario: la reserva de cena o el mirador. Si tenéis mesa en el puerto, buscad la vista de la ciudad desde el muelle y volved por el llano. Si queréis subir, hacedlo con luz, identificad el descenso antes del anochecer y dejad margen para regresar antes de cenar.",
+    "zh": "先决定晚上的固定项目是订位晚餐还是登高看城。若港口餐厅已订位，从码头拍城市轮廓、沿平路回餐厅较稳妥。若山顶观景才是重点，趁天亮上山、提前认清下山路线，再按完整返程所需时间订晚餐。"
+  },
+  "rainy-day": {
+    "place": "museo-malaga-aduana",
+    "detail": "access",
+    "en": "Choose one indoor collection before leaving the seafront. At the old Customs Palace you can spend a short weather break with paintings or archaeology, without committing to both. If the showers ease, cross to Calle Alcazabilla to see the Roman Theatre from street level; if they persist, stay in the galleries and skip the exposed return along the quay.",
+    "es": "Elige una colección bajo techo antes de salir de la costa. En la antigua Aduana puedes dedicar una pausa a la pintura o a la arqueología sin recorrer ambas. Si escampa, acércate a calle Alcazabilla para ver el Teatro Romano desde la calle. Si sigue lloviendo, alarga la visita y evita la vuelta por el muelle expuesto.",
+    "zh": "出海滩前先选一个室内主题。旧海关宫内有美术和考古展，短雨天只选一组，不必赶两处。如果雨停，走到阿尔卡萨维利亚街，从街边看古罗马剧场；如果仍下雨，就把时间留给展厅，避开无遮蔽的码头回程。"
+  },
+  "breakfast-and-coffee": {
+    "place": "plaza-de-la-marina",
+    "detail": "route",
+    "en": "Going to the beach early? Buy breakfast on the city side of Plaza de la Marina before walking east under the port pergola. For a second coffee with a harbour view, continue to Muelle Uno. Check whether the displayed price applies at the counter or on the terrace before choosing a table with luggage.",
+    "es": "Si vas temprano a la playa, desayuna en el lado urbano de la Plaza de la Marina y sigue hacia el este bajo la pérgola del puerto. Para un segundo café con vistas, continúa a Muelle Uno. Si llevas maletas, comprueba antes si la tarifa de la barra coincide con la de la terraza.",
+    "zh": "早晨去海滩，可以先在滨海广场靠市区一侧吃早餐，再沿港口长廊向东走。想在港边喝第二杯咖啡，可以继续到一号码头。拖着行李挑座位时，先确认柜台和露台是否同价，再决定要不要坐下。"
+  },
+  "ice-cream": {
+    "place": "calle-larios",
+    "detail": "route",
+    "en": "For a cone that will survive the walk, buy it where you plan to eat it. In the centre, choose your flavour on or near Calle Larios and take a short stroll toward Plaza de la Constitución. If you want to sit looking at the boats instead, wait until Muelle Uno. Ask about the scoop and cone separately when comparing sizes.",
+    "es": "Compra el helado donde vayas a tomarlo. En el centro, elige sabor por calle Larios y pasea un tramo hasta la Plaza de la Constitución. Si prefieres sentarte frente a los barcos, espera a Muelle Uno. Al comparar tamaños, pregunta cuántas bolas incluye cada cucurucho.",
+    "zh": "冰淇淋最好在准备吃的地方买。逛老城时，可以在拉里奥斯街附近挑口味，边走边吃到宪法广场；想坐着看船，就等到一号码头再买。看不同分量的标价时，要问甜筒里实际包含几球。"
+  },
+  "drinks-and-terraces": {
+    "place": "capilla-del-puerto",
+    "detail": "observation",
+    "en": "A port terrace and a sea-facing terrace have different views. Use the little port chapel as a landmark for tables facing the marina; walk towards the lighthouse and round to the beach for the open coast. Before ordering a round, check whether table service or the particular terrace carries a different menu price.",
+    "es": "Una terraza del puerto mira al recinto de los barcos; otra frente a la playa se abre al mar. Usa la pequeña capilla como referencia para las mesas de la marina. Para ver la costa abierta, camina hacia la Farola y gira a la playa. Comprueba la carta de terraza antes de pedir la ronda.",
+    "zh": "想看停泊的船，在港口小教堂一带找面向游艇港的露台；想看开阔海岸，则顺着灯塔方向走，再转到沙滩侧。全桌点饮料前看露台菜单，确认座位服务的价格和柜台是否一致。"
+  },
+  "muelle-uno-restaurants": {
+    "place": "palmeral-de-las-sorpresas",
+    "detail": "route",
+    "en": "When arranging a group meal, say which side of the quay you mean. Walk under the Palmeral from Plaza de la Marina, pass the colourful cube and choose a meeting point on the restaurant frontage before anyone sits down. Compare the menu at the entrance, including the unit for fish, while there is still time to switch terraces.",
+    "es": "Para comer en grupo, concretad en qué lado del muelle os encontraréis. Desde Plaza de la Marina, pasad bajo el Palmeral, rebasad el cubo de colores y elegid un punto frente a los restaurantes antes de sentaros. Comparad las cartas de entrada, incluida la unidad de precio del pescado, mientras todavía podáis cambiar de terraza.",
+    "zh": "多人约饭要说清码头哪一段。可从滨海广场沿港口长廊出发，经过彩色立方体后，在餐厅沿线约一个明确集合点再入座。先看入口菜单，特别是鱼价按份还是按重量，想换露台时就不必重新召集大家。"
+  },
+  "half-day-itinerary": {
+    "place": "teatro-romano-malaga",
+    "detail": "observation",
+    "en": "Use a single turnaround point to keep half a day manageable. From the beach go by the port and park to Calle Alcazabilla, read the line of the Roman seating from the street, then return to the water. If you buy a ticket for the adjacent Alcazaba, give it the time you would otherwise spend on a second museum or a hill walk.",
+    "es": "Para medio día, fija un punto de vuelta. Desde la playa ve por el puerto y el parque a calle Alcazabilla, observa la curva de las gradas desde la calle y regresa al mar. Si compras entrada para la Alcazaba contigua, dedícale el tiempo reservado para otro museo o para subir al monte.",
+    "zh": "半日游只设一个折返点。从海滩经港口和公园走到阿尔卡萨维利亚街，从街边看古罗马剧场坐席的弧线，再回海边。如果临场决定购票进旁边宫堡，就把原准备去第二家博物馆或登山的时段留给宫堡。"
+  },
+  "one-day-itinerary": {
+    "place": "alcazaba-malaga",
+    "detail": "route",
+    "en": "Put any timed visit first. Enter the Alcazaba from the Roman Theatre side, return to the lower streets for lunch and walk through the park to the beach. Keep the final block flexible: stay on the sand if the sea is inviting or follow the quay to Muelle Uno. Treat Gibralfaro as a separate climb when setting your return time.",
+    "es": "Coloca primero la visita con hora reservada. Entra en la Alcazaba por el lado del Teatro Romano, baja a comer y cruza el parque hasta la playa. Deja el último tramo abierto: quédate en la arena o recorre el muelle hasta Muelle Uno. Al calcular la vuelta, cuenta Gibralfaro como una subida independiente.",
+    "zh": "有预约时段的参观排在最前。由古罗马剧场一侧进宫堡，下到低处街区吃午饭，再穿公园去海滩。下午最后一段留给海况和体力决定：留在沙滩，或沿码头走到一号码头。若还想上希布拉尔法罗城堡，要另算一次爬坡和返程。"
+  },
+  "getting-here": {
+    "place": "fuente-tres-gracias",
+    "detail": "route",
+    "en": "For the sand rather than the port shops, use Plaza del General Torrijos as a reference. Recognise the Three Graces fountain, use the crossings and head down Paseo de Reding towards the beach neighbourhood. For an entirely waterfront approach from the centre, take Muelle Uno instead and round the lighthouse side.",
+    "es": "Para llegar a la arena, toma como referencia la plaza del General Torrijos. Identifica la fuente de las Tres Gracias, usa los pasos señalizados y sigue por el paseo de Reding hacia el barrio de la playa. Si prefieres llegar siempre junto al agua desde el centro, elige Muelle Uno y rodea el lado de la Farola.",
+    "zh": "想直达沙滩，可用托里霍斯将军广场定位。认出美惠三女神喷泉后走人行横道，沿雷丁大道进入海滩街区。若更想全程看水，从市中心可改走一号码头，绕过灯塔一侧到海滩。"
+  },
+  "airport-to-malagueta": {
+    "place": "alameda-principal",
+    "detail": "route",
+    "en": "The airport train does not deposit you on the beach. At Málaga Centro-Alameda, decide whether to continue through Alameda Principal and Paseo del Parque on foot or change to surface transport. With luggage, save the hotel entrance rather than a pin in the sand. For the return, allow a separate margin to locate the platform.",
+    "es": "El tren del aeropuerto no llega a la arena. En Málaga Centro-Alameda decide si continuar a pie por Alameda Principal y el Paseo del Parque o pasar al transporte de superficie. Con equipaje, guarda la entrada del alojamiento. Para la vuelta, deja margen para localizar el andén.",
+    "zh": "机场列车不能直达沙滩。在市中心阿拉梅达站下车后，决定沿林荫主干道、公园大道步行，还是改乘地面交通。有行李时把住宿大门存为目的地，不要把图钉放在沙上。返程要另留找站台的时间。"
+  },
+  "train-station-to-malagueta": {
+    "place": "puente-tetuan",
+    "detail": "route",
+    "en": "Leaving María Zambrano with light luggage, orient towards the city centre and Puente de Tetuán before following Alameda Principal east. The beach lies beyond the park and port. If your return train has reserved seats, save the station entrance and carriage details before you set out; do not plan the last leg from an unnamed stretch of sand.",
+    "es": "Al salir de María Zambrano con poco equipaje, oriéntate hacia el centro y el Puente de Tetuán antes de seguir al este por Alameda Principal. La playa queda más allá del parque y el puerto. Para un tren de vuelta con reserva, guarda la entrada de la estación y el coche antes de salir. Fija un punto concreto de salida de la playa.",
+    "zh": "在玛丽亚·桑布拉诺车站带轻便行李出发，可先向市中心和得土安桥走，再沿林荫主干道向东。海滩在公园和港口以外。回程若是对号列车，提前存好车站入口和车厢信息，也给沙滩返程设定一个具体起点。"
+  },
+  "cruise-port-to-malagueta": {
+    "place": "capilla-del-puerto",
+    "detail": "route",
+    "en": "Photograph the terminal name and record the ship’s all-aboard time before leaving the controlled area. The port chapel is a landmark on the public Muelle Uno walk, not the cruise boarding gate. Follow the terminal’s pedestrian or shuttle instructions both ways and turn back at the lighthouse if the return transfer would otherwise be tight.",
+    "es": "Antes de salir de la zona controlada, fotografía el nombre de la terminal y anota la hora límite del barco. La capilla del puerto identifica el paseo público de Muelle Uno, no la puerta de embarque. Sigue las indicaciones peatonales o de lanzadera de tu terminal en ambos sentidos y regresa desde la Farola si el traslado queda justo.",
+    "zh": "离开管制区前拍下码头名称，记好船方要求的最晚登船时间。港口小教堂只是公共步道上的地标，和邮轮登船口不同。往返都遵循自己航站楼的步行或接驳指示，若回程时间紧，到灯塔就折返。"
+  },
+  "parking": {
+    "place": "plaza-de-la-marina",
+    "detail": "route",
+    "en": "Before pulling into a city-centre garage, compare the signed height limit and daily maximum with the length of your beach stop. Plaza de la Marina works as a walking starting point via the port pergola. Take a photo of the pedestrian exit and floor number; the vehicle ramp is a poor meeting point after dark.",
+    "es": "Antes de entrar en un aparcamiento del centro, contrasta la altura máxima y el tope diario anunciados con la duración de la visita. Desde Plaza de la Marina puedes caminar por la pérgola del puerto. Fotografía la salida peatonal y la planta: la rampa de coches resulta poco práctica para reencontrarse al anochecer.",
+    "zh": "入市区停车库前看限高和当天封顶价，按实际停留时间比较。滨海广场可作步行起点，沿港口长廊去海边。拍下所在楼层和人行出口，晚归时约在人行门口集合，比约在车道坡口容易找。"
+  },
+  "sunbeds-and-umbrellas": {
+    "place": "hospital-noble",
+    "detail": "observation",
+    "en": "Choose the area before paying: if the group needs frequent trips to the promenade, walk the route from the proposed lounger to the nearest marked exit. Ask whether the quoted price covers one or two beds, the parasol and leaving for lunch. Identify the attendant’s section; equipment on another stretch can have different terms.",
+    "es": "Antes de pagar, recorre el trayecto desde la hamaca propuesta hasta la salida señalizada si vais a subir a menudo al paseo. Pregunta si el precio incluye una o dos hamacas, la sombrilla y la posibilidad de ausentarte para comer. Identifica el sector del encargado: otro tramo puede tener condiciones distintas.",
+    "zh": "租躺椅前先选位置。如果同伴要经常往返步道，先从那张椅子走到最近的标示出口。问清报价含一张还是两张椅子、遮阳伞包不包括、离开吃饭还能否保留。记住服务员负责的区域，不同沙滩段的条件可能不同。"
+  },
+  "facilities": {
+    "place": "hospital-noble",
+    "detail": "route",
+    "en": "Make a facilities check on the promenade before carrying bags onto the sand. Locate the nearest signed toilet and access board, then choose a meeting point visible from both the water and promenade. If the service you need is closed, move to another signed access while still on firm ground rather than carrying everything along the shoreline.",
+    "es": "Antes de bajar con las bolsas, localiza en el paseo el aseo señalizado y el panel de acceso. Escoge un punto que se vea desde el agua y desde el paseo. Si el servicio que necesitas está cerrado, busca otro acceso por el pavimento firme antes de cargarlo todo por la orilla.",
+    "zh": "带着行李下沙滩前，沿步道找到标示的厕所和入口信息牌，再约一个从水边和步道都看得到的集合点。如果所需设施关闭，趁还在硬质铺装上前往另一个标示入口，省去沿沙地搬运物品。"
+  },
+  "accessibility": {
+    "place": "jardines-pedro-luis-alonso",
+    "detail": "route",
+    "en": "Check three separate links: vehicle drop-off to promenade, promenade to sand, and the final section to the water. A paved promenade alone tells you little about the last two. Ask the city or on-site team about the current accessible bathing point and assistance. For a paved alternative, use the lower City Hall gardens and avoid the terraced Puerta Oscura climb.",
+    "es": "Comprueba tres tramos: bajada del vehículo al paseo, paseo a la arena y último tramo hasta el agua. Que el paseo esté pavimentado no resuelve los demás. Consulta con el Ayuntamiento o con el personal el punto de baño accesible y la asistencia disponible. Como alternativa pavimentada, usa los jardines bajos del Ayuntamiento y evita las terrazas de Puerta Oscura.",
+    "zh": "分三段核对：下车点到步道、步道到沙地、沙地到水边。滨海步道有铺装，仅能说明第一部分。出发前向市政府或现场人员查当日无障碍浴场位置和可用协助。若改走硬质路线，可选市政厅旁的低处花园，避开暗门花园的台阶。"
+  },
+  "promenade-walk": {
+    "place": "palmeral-de-las-sorpresas",
+    "detail": "observation",
+    "en": "Start with your back to the city at Plaza de la Marina, turn east along the pergola and use the Pompidou cube for the change from Muelle Dos to Muelle Uno. Walk towards La Farola, then look for the public route to the beach side. If you need to shorten the outing, turn at the cube; the lighthouse adds an out-and-back section.",
+    "es": "Desde Plaza de la Marina, con la ciudad a la espalda, gira al este bajo la pérgola. El cubo del Pompidou señala el paso de Muelle Dos a Muelle Uno. Sigue hacia la Farola y busca el paso público al lado de la playa. Para acortar el paseo, da la vuelta en el cubo y ahorra el tramo de ida y vuelta al faro.",
+    "zh": "由滨海广场背向市区，沿廊架向东走。蓬皮杜彩色立方体是二号码头转入一号码头的地标。继续朝灯塔走，再找公共通道转向海滩。想缩短路线，可在立方体折返，省去走到灯塔再绕出的那一段。"
+  },
+  "photo-spots": {
+    "place": "mirador-gibralfaro",
+    "detail": "observation",
+    "en": "Choose the shot before choosing the walk. For boats, city façades and the cathedral behind them, stay on Muelle Uno and change position along the quay. For the shape of the port and the bullring below, head to the Gibralfaro overlook. A higher viewpoint requires its own return plan; the lighthouse does not give public access to an equivalent tower view.",
+    "es": "Elige el encuadre antes del recorrido. Para barcos con fachadas y la catedral detrás, cambia de posición por Muelle Uno. Para leer la forma del puerto y la plaza de toros desde arriba, ve al mirador de Gibralfaro. Calcula el regreso desde la ladera; no cuentes con subir a la Farola para una vista equivalente.",
+    "zh": "先想好想拍什么。要让帆船、老城立面和教堂同框，留在一号码头沿岸横移机位；要看清港池轮廓和下方斗牛场，应去希布拉尔法罗观景台。登高后另算返程，不要把灯塔当成可以随意上塔的替代机位。"
+  },
+  "boat-trips": {
+    "place": "capilla-del-puerto",
+    "detail": "observation",
+    "en": "A booking marked “Puerto de Málaga” is not a boarding location. Ask for the exact pontoon, operator and meeting time, then walk the public quay past the port chapel to identify the departure sign. Check where passengers disembark before arranging dinner. If the sailing is cancelled, the same quay remains a walking route to La Farola.",
+    "es": "Una reserva que dice «Puerto de Málaga» no identifica el embarque. Pide el pantalán, el operador y la hora de encuentro. Recorre el muelle público junto a la capilla hasta encontrar el cartel de salida. Comprueba dónde desembarcarás antes de reservar la cena. Si se cancela la navegación, puedes continuar a pie hasta la Farola.",
+    "zh": "预订单只写“马拉加港”还不足以找到船。确认登船浮桥、经营者和集合时间，再经过港口小教堂沿公共码头找出发标牌。订晚餐前还要问清下船地点。如果航程取消，原码头本身就能步行到灯塔。"
+  },
+  "beach-safety": {
+    "place": "palmeral-de-las-sorpresas",
+    "detail": "observation",
+    "en": "Read the notice and flag at the stretch where you intend to enter, then identify the supervised area with the on-site team. If bathing is restricted, keep the group on land and use the paved harbour walk as a replacement. Do not move to an unstaffed section simply because a warning is less visible there.",
+    "es": "Consulta el aviso y la bandera en el tramo donde pensáis entrar y localiza con el personal la zona vigilada. Si hay restricciones de baño, mantén al grupo en tierra y cambia al paseo pavimentado del puerto. Evita desplazarte a una zona sin personal solo porque allí se vea menos la advertencia.",
+    "zh": "在准备下水的那一段看现场公告和旗帜，并向工作人员确认受监管范围。当日限制游泳时，全组留在岸上，可改走铺装的港口长廊。不要只是因为另一段看不清警示，就转去无人值守的区域下水。"
+  },
+  "restaurants": {
+    "place": "mercado-atarazanas",
+    "detail": "observation",
+    "en": "For a mixed group, settle the meal format before picking a street. The beach suits a long seated lunch; at the market, people can choose separate portions and regroup outside. Head inland before ordering if several diners want different dishes. For a whole fish, ask the weight and the estimated total for the table before it goes to the grill.",
+    "es": "Si el grupo es variado, acordad primero el tipo de comida. La playa permite una sobremesa larga; en el mercado cada uno puede escoger su ración y reuniros fuera. Id hacia el interior antes de pedir si queréis platos distintos. Para un pescado entero, preguntad el peso y el total aproximado antes de que pase a la parrilla.",
+    "zh": "同行者口味差异大时先选用餐形式。想坐下来慢慢吃，可选海滩餐厅；想各挑不同份量，可去市场分头购买、再到外面会合。点整条鱼之前，先问重量和整桌预计总价，再让厨房开烤。"
+  },
+  "chiringuitos": {
+    "place": "playa-banos-del-carmen",
+    "detail": "observation",
+    "en": "Decide whether lunch is a stop on the walk or the point of the day. Eat on La Malagueta for the short route back to the centre. For an east-coast outing, pass La Caleta toward Baños del Carmen before choosing a table. Confirm kitchen hours and the price of a portion on the menu; an open drinks terrace may not yet be serving hot food.",
+    "es": "Decide si el almuerzo es una parada o el motivo de la salida. Come en La Malagueta para volver pronto al centro. Para un paseo hacia levante, pasa La Caleta hacia Baños del Carmen antes de elegir mesa. Confirma el horario de cocina y el precio de la ración: que la terraza sirva bebidas no significa que ya haya platos calientes.",
+    "zh": "午饭是顺路停一下，还是一天的重点？想迅速回市中心，就留在马拉盖塔；想沿东海岸散步，可过卡莱塔向卡门浴场走，再选餐桌。看菜单上的份量和厨房供应时间，露台已经卖饮料不等于热菜已经开火。"
+  },
+  "espetos": {
+    "place": "playa-el-palo",
+    "detail": "observation",
+    "en": "To see the technique, choose a public spot with a view of the grill rather than standing beside the cook. Look at how the sardines are threaded and angled towards the embers. Ask how many skewers a portion contains before ordering for a group. If the grill at your beach stop is cold, compare another seafront kitchen in Pedregalejo or El Palo.",
+    "es": "Para observar la técnica, sitúate en un punto público desde donde se vea la barca y deja trabajar al espetero. Fíjate en cómo ensarta las sardinas y las inclina hacia las brasas. Pregunta cuántos espetos incluye la ración para el grupo. Si no han encendido el fuego, compara con otro local del paseo de Pedregalejo o El Palo.",
+    "zh": "想看烤沙丁鱼的过程，可在不挡厨师的公共位置观察：鱼怎样穿上签，鱼身和炭火之间如何倾斜。多人点餐先问一份含几串。若所到海滩还没生火，可继续沿佩德雷加莱霍或埃尔帕洛海边找已开炉的厨房。"
+  },
+  "seafood-and-fried-fish": {
+    "place": "mercado-atarazanas",
+    "detail": "observation",
+    "en": "A mixed fried platter is ordered differently from whole grilled fish. Ask what the fritura contains, whether a half portion is available and how many people the kitchen expects it to serve. Compare like with like at the market stalls. For fish priced by weight, request the weight of the selected piece and a total before agreeing.",
+    "es": "Una fritura surtida se pide de forma distinta a un pescado entero a la brasa. Pregunta qué incluye, si sirven media ración y para cuántas personas calculan la fuente. Compara porciones equivalentes entre puestos. Si el pescado lleva precio al peso, pide que te indiquen el peso de la pieza y su importe total.",
+    "zh": "什锦炸鱼拼盘和整条烤鱼的点法不同。先问炸物包含哪些鱼、能否点半份、厨房估计一盘够几人。逛市场时比较相同分量。整鱼若按重量计价，先确认选中那条的重量和总价。"
+  },
+  "el-cachalote": {
+    "place": "playa-banos-del-carmen",
+    "detail": "route",
+    "en": "Save the restaurant’s own location before setting out along the promenade; Baños del Carmen is a separate landmark farther east. If walking in a group, have everyone meet at the restaurant entrance before choosing a table. Confirm that the grill is operating and whether the fish on offer is priced per portion or by weight.",
+    "es": "Guarda la ubicación concreta del restaurante antes de salir por el paseo; Baños del Carmen es otro punto de referencia más al este. Si vais en grupo, quedaos en la entrada antes de elegir mesa. Confirma si está funcionando la parrilla y si el pescado ofrecido se cobra por ración o al peso.",
+    "zh": "沿海滨步道出发前保存餐厅本身的定位；更东面的卡门浴场是另一个地标。多人同行可先在餐厅门口会合，再挑餐桌。点菜时问清烤炉是否开火，以及当天供应的鱼是按份还是按重量收取。"
+  },
+  "malagueta-vs-caleta": {
+    "place": "hospital-noble",
+    "detail": "route",
+    "en": "Both beaches can fit into one outward walk. Start at the port end for Malagueta, follow the Pablo Ruiz Picasso promenade east and compare the stretches before unpacking. Travelling light makes it easy to change your mind. With bags or a fixed appointment in the centre, pick the western stretch and use the same meeting point for the return.",
+    "es": "Puedes comparar ambas playas en un solo paseo de ida. Empieza por el extremo del puerto en La Malagueta, sigue al este por el paseo de Pablo Ruiz Picasso y compara los tramos antes de instalarte. Si llevas bolsas o debes volver al centro a una hora fija, quédate en el sector occidental y acuerda el mismo punto para el regreso.",
+    "zh": "两处海滩可在同一段去程里比较。从港口一端进入马拉盖塔，沿巴勃罗·鲁伊斯·毕加索滨海步道向东，先看两段海岸再铺浴巾。轻装时方便换地方；有行李或市中心有预约，就选西侧，并约好从同一入口回程。"
+  },
+  "malagueta-vs-pedregalejo": {
+    "place": "playa-el-palo",
+    "detail": "route",
+    "en": "Choose Malagueta if you plan to walk back to the old town after a short swim. Choose Pedregalejo when the small coves and a seafront meal are the outing. For a longer eastbound trip, continue toward El Palo once lunch is over; find your return stop on the city-bound side before stretching the walk farther.",
+    "es": "La Malagueta conviene si quieres volver andando al casco antiguo tras un baño corto. Escoge Pedregalejo si la salida gira en torno a las pequeñas ensenadas y una comida junto al mar. Tras comer puedes seguir hacia El Palo; identifica la parada de vuelta en sentido centro antes de prolongar el paseo.",
+    "zh": "短暂停留后要步行回老城，选马拉盖塔；一天的重点是看小海湾、坐海边吃饭，选佩德雷加莱霍。午饭后想继续向东，可接到埃尔帕洛；再延长步程前，先找到开往市中心方向的回程站。"
+  },
+  "beaches-near-malaga-centre": {
+    "place": "playa-san-andres",
+    "detail": "route",
+    "en": "Use the port as the dividing line. Malagueta and La Caleta are east of it; San Andrés is on the western seafront and suits a day combined with Huelin. Choose one side for a short outing rather than trying to walk across the working port. Go round the city-facing edge when connecting east and west.",
+    "es": "Toma el puerto como divisoria. La Malagueta y La Caleta quedan al este; San Andrés está en el frente oeste y combina bien con Huelin. Para una salida breve elige un solo lado. Si enlazas ambos, rodea el puerto por su borde urbano en lugar de intentar atravesar la zona de trabajo.",
+    "zh": "用港口当分界：马拉盖塔和卡莱塔在东，圣安德烈斯海滩在西，适合与韦林街区同游。短程只挑一侧即可；若要东西连走，应沿港口面向市区的外围绕行，不要试图穿过作业区。"
+  },
+  "muelle-uno": {
+    "place": "capilla-del-puerto",
+    "detail": "observation",
+    "en": "Walk from the Pompidou cube towards the lighthouse and look back after reaching the little port chapel. The chapel gives the line of modern shopfronts a different scale; behind it, look across the basin for the old city skyline. Return along the same public quay for restaurants or continue round toward the beach if your next stop is the sand.",
+    "es": "Camina desde el cubo del Pompidou hacia la Farola y vuelve la vista al llegar a la pequeña capilla. Su escala contrasta con la hilera moderna de locales; al otro lado de la dársena aparece el perfil histórico de la ciudad. Regresa por el muelle público para comer o sigue hacia la playa si quieres terminar en la arena.",
+    "zh": "从蓬皮杜彩色立方体朝灯塔走，到了港口小教堂再转身回望。小教堂与现代商铺的尺度不同，隔着港池还可以看老城天际线。若要吃饭，沿同一段公共码头回走；若下一站是沙滩，继续向灯塔侧绕行。"
+  },
+  "centre-pompidou": {
+    "place": "palmeral-de-las-sorpresas",
+    "detail": "route",
+    "en": "The coloured cube marks the museum from a distance. Once there, look for the signed entrance to the galleries below the quay rather than treating the cube itself as the exhibition. Decide on your return before buying a timed ticket: west along the pergola for the centre or east by Muelle Uno for the beach.",
+    "es": "El cubo de colores permite localizar el museo desde lejos. Allí busca el acceso señalizado a las salas bajo el nivel del muelle; el cubo es la referencia exterior. Antes de comprar una entrada con hora, decide la salida: hacia el oeste bajo la pérgola para el centro, o por Muelle Uno hacia la playa.",
+    "zh": "远处可凭彩色立方体认出美术馆。到场后找通往码头下方展厅的正式入口，立方体是外部地标。购买限时入场票之前先想好散场方向：向西沿长廊回市中心，或沿一号码头向东接海滩。"
+  },
+  "la-farola": {
+    "place": "capilla-del-puerto",
+    "detail": "observation",
+    "en": "Approach from Muelle Uno so you can compare the sheltered marina with the open beach coast beyond the lighthouse. Stop on the signed public pavement for the photograph and leave the operational areas clear. Returning by the chapel keeps the city skyline ahead of you; turning to the sand gives a different view of the coast.",
+    "es": "Llega desde Muelle Uno para comparar la marina resguardada con la costa abierta al otro lado del faro. Fotografía desde el pavimento público señalizado dejando libres las zonas operativas. Al volver por la capilla tendrás delante el perfil de la ciudad; al girar hacia la arena verás otra cara del litoral.",
+    "zh": "从一号码头走来，能先看避风港池，再看到灯塔另一侧的开敞海岸。拍照留在标示的公共铺装路面，给港口作业区留出空间。经小教堂回程，老城轮廓在前方；转向沙滩则能换一个角度观察海岸。"
+  },
+  "malagueta-bullring": {
+    "place": "mirador-gibralfaro",
+    "detail": "observation",
+    "en": "From the street, follow a short arc of the outer wall to see how the arena fits among the blocks near Paseo de Reding. Interior access depends on the event or visit programme. If your goal is to see the full ring, the Gibralfaro overlook gives a better geometric view; allow separate time for the uphill approach.",
+    "es": "Desde la calle, sigue un tramo de la curva exterior para ver cómo la plaza encaja entre las manzanas del paseo de Reding. El interior depende del programa de actos o visitas. Si buscas apreciar el anillo completo, el mirador de Gibralfaro ofrece una lectura mejor; reserva tiempo para la subida.",
+    "zh": "在雷丁大道附近沿斗牛场外墙的弧线走一段，可看出圆形建筑怎样嵌在街区中。能否进场取决于当天活动或参观安排。若目标是看清完整圆环，从希布拉尔法罗观景台俯看更合适，但要另算上坡时间。"
+  },
+  "english-cemetery": {
+    "place": "cementerio-san-miguel",
+    "detail": "access",
+    "en": "Save the entrance on Avenida de Príes before leaving the seafront. Málaga also has a historic San Miguel cemetery farther north; a general cemetery search can take you away from the intended gate. Inside the English Cemetery allow time for the hillside paths and pause at a broad landing before stopping to read inscriptions.",
+    "es": "Guarda el acceso de avenida de Príes antes de dejar el paseo. Málaga cuenta también con el cementerio histórico de San Miguel, más al norte; una búsqueda genérica puede llevarte a otra puerta. Dentro del Cementerio Inglés, cuenta con los caminos en pendiente y busca un rellano amplio antes de detenerte a leer inscripciones.",
+    "zh": "从海边出发前存好普列斯大道上的墓园入口。城北另有圣米格尔历史墓园，只搜“马拉加墓园”可能导航到别处。英国人墓园内有坡路，阅读碑刻时可以先找宽些的平台停下，给其他参观者留路。"
+  },
+  "parque-de-malaga": {
+    "place": "jardines-pedro-luis-alonso",
+    "detail": "observation",
+    "en": "Walk the park as a passage between the port and City Hall, pausing beneath the planting rather than beside the traffic lanes. For a second, contrasting garden, cross on the marked route to Pedro Luis Alonso and compare its straight beds and pools. Leave the hillside Puerta Oscura terraces for a day when steps are welcome.",
+    "es": "Recorre el parque entre el puerto y el Ayuntamiento y haz las pausas bajo la vegetación, lejos de los carriles. Para contrastar diseños, cruza por un paso señalizado hacia Pedro Luis Alonso y observa sus parterres rectos y estanques. Deja las terrazas en pendiente de Puerta Oscura para un día en que te apetezcan escaleras.",
+    "zh": "把公园作为港口与市政厅之间的一段步行，停留时选植物遮蔽处，远离车道。想比较不同花园设计，可走标示的人行横道到佩德罗·路易斯·阿隆索花园，看笔直花坛和水池。暗门花园的坡地露台留给愿意爬阶梯的日子。"
+  },
+  "gibralfaro": {
+    "place": "mirador-gibralfaro",
+    "detail": "access",
+    "en": "Mark the public overlook and castle entrance separately on your map. A photograph over the bullring can be the turnaround point without a castle visit. If you intend to enter the fortifications, check the admission cut-off and allow extra time above the viewpoint. Return to the park before deciding whether you still want the beach walk.",
+    "es": "Marca por separado el mirador público y la entrada del castillo. La foto sobre la plaza de toros puede ser el punto de vuelta sin visitar el recinto. Si quieres entrar, revisa la última admisión y reserva tiempo adicional por encima del mirador. Al volver al parque decide si todavía quieres seguir hasta la playa.",
+    "zh": "把公共观景台和城堡入口分别标在地图上。若只想俯拍斗牛场，在观景台就可以折返；若要入堡，则查最晚入场时间，给观景台以上的行程另留时间。下山回到公园，再决定是否继续去海滩。"
+  },
+  "la-caleta": {
+    "place": "playa-banos-del-carmen",
+    "detail": "route",
+    "en": "Follow the paved coast east from Malagueta until you find a stretch of La Caleta that suits the group. Before settling, mark the promenade exit behind your towel. Baños del Carmen gives the walk a clear eastern objective; keep it as a separate extension if you still need to return on foot to the old town.",
+    "es": "Sigue el paseo pavimentado al este desde La Malagueta hasta encontrar el tramo de La Caleta que os convenga. Antes de instalarte, identifica el acceso detrás de la toalla. Los Baños del Carmen dan un objetivo claro hacia levante; déjalos como ampliación si aún debes volver andando al casco antiguo.",
+    "zh": "从马拉盖塔沿铺装海滨道向东，走到适合同行人的卡莱塔沙滩段。铺浴巾前认清背后返回步道的出口。向东可把卡门浴场作为明确终点；若还要步行回老城，这一段可留作体力允许时的加程。"
+  },
+  "pedregalejo": {
+    "place": "playa-el-palo",
+    "detail": "observation",
+    "en": "Start at one of the small coves and follow the promenade past several of them before picking a table. The dividing arms make each curve of the shoreline visible from a different angle. Continue east for El Palo if you want to compare two fishing neighbourhoods, or turn inland to find the city-bound bus after lunch.",
+    "es": "Empieza en una de las pequeñas ensenadas y recorre varias por el paseo antes de elegir mesa. Los brazos que las separan permiten ver cada curva de la orilla desde otro ángulo. Sigue al este hasta El Palo para comparar dos barrios pesqueros o busca hacia el interior el autobús de vuelta al centro después de comer.",
+    "zh": "从一处小海湾开始，沿步道看过几片湾岸再决定在哪里吃饭。分隔各海湾的堤臂让每段岸线都有不同观察角度。想比较两个渔业街区，可继续向东走到埃尔帕洛；午饭后想回城，就从海边向内街找市中心方向公交车站。"
+  }
+}
