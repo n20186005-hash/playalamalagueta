@@ -280,5 +280,309 @@ export const photos: Record<string, Photo> = {
     "height": 516,
     "artist": "Z thomas",
     "license": "CC BY 4.0"
+  },
+  "alcazaba-malaga": {
+    "file": "/nearby/alcazaba-malaga.webp",
+    "width": 960,
+    "height": 430,
+    "source": "https://commons.wikimedia.org/wiki/File:Malaga_Alcazaba_25-9-2007a.JPG",
+    "artist": "Hedwig Storch",
+    "license": "CC BY-SA 3.0"
+  },
+  "teatro-romano-malaga": {
+    "file": "/nearby/teatro-romano-malaga.webp",
+    "width": 960,
+    "height": 717,
+    "source": "https://commons.wikimedia.org/wiki/File:Roman_Malaga.jpg",
+    "artist": "andynash",
+    "license": "CC BY-SA 2.0"
+  },
+  "museo-malaga-aduana": {
+    "file": "/nearby/museo-malaga-aduana.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Aduana,_M%C3%A1laga_01.JPG",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "jardines-puerta-oscura": {
+    "file": "/nearby/jardines-puerta-oscura.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Jardines_de_Puerta_Oscura_01.JPG",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "jardines-pedro-luis-alonso": {
+    "file": "/nearby/jardines-pedro-luis-alonso.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_Jardines_01.jpg",
+    "artist": "Olaf Tausch",
+    "license": "CC BY 3.0"
+  },
+  "hospital-noble": {
+    "file": "/nearby/hospital-noble.webp",
+    "width": 700,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:H.Noble.jpg",
+    "artist": "Bogdan Migulski",
+    "license": "CC BY 2.0"
+  },
+  "fuente-tres-gracias": {
+    "file": "/nearby/fuente-tres-gracias.webp",
+    "width": 637,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:Fuente_de_las_tres_gracias.jpg",
+    "artist": "alf.melin",
+    "license": "CC BY-SA 2.0"
+  },
+  "calle-larios": {
+    "file": "/nearby/calle-larios.webp",
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Calle_Larios,_M%C3%A1laga_01.jpg",
+    "artist": "Gruban",
+    "license": "CC BY-SA 2.0"
+  },
+  "plaza-constitucion": {
+    "file": "/nearby/plaza-constitucion.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_Constituci%C3%B3n_M%C3%A1laga.jpg",
+    "artist": "Simon from United Kingdom",
+    "license": "CC BY 2.0"
+  },
+  "plaza-del-obispo": {
+    "file": "/nearby/plaza-del-obispo.webp",
+    "width": 960,
+    "height": 775,
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_del_Obispo_(M%C3%A1laga).jpg",
+    "artist": "JamesNarmer",
+    "license": "CC BY-SA 4.0"
+  },
+  "teatro-cervantes": {
+    "file": "/nearby/teatro-cervantes.webp",
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Teatro_Cervantes,_M%C3%A1laga_(14738055934).jpg",
+    "artist": "rey perezoso",
+    "license": "CC BY-SA 2.0"
+  },
+  "soho-malaga": {
+    "file": "/nearby/soho-malaga.webp",
+    "width": 637,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_Soho_graffiti_03.jpg",
+    "artist": "ESM",
+    "license": "CC BY-SA 4.0"
+  },
+  "cementerio-san-miguel": {
+    "file": "/nearby/cementerio-san-miguel.webp",
+    "width": 960,
+    "height": 723,
+    "source": "https://commons.wikimedia.org/wiki/File:Panteones_de_San_Miguel.jpg",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "museo-picasso-malaga": {
+    "file": "/nearby/museo-picasso-malaga.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:MuseoPicassoMalaga.jpg",
+    "artist": "Llecco",
+    "license": "CC BY-SA 3.0"
+  },
+  "museo-carmen-thyssen": {
+    "file": "/nearby/museo-carmen-thyssen.webp",
+    "width": 567,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Carmen_Thyssen_-_Palacio_de_Villal%C3%B3n.jpg",
+    "artist": "Emilio J. Rodríguez Posada",
+    "license": "CC BY-SA 2.0"
+  },
+  "museo-artes-costumbres": {
+    "file": "/nearby/museo-artes-costumbres.webp",
+    "width": 960,
+    "height": 718,
+    "source": "https://commons.wikimedia.org/wiki/File:Mes%C3%B3n_de_la_Victoria-rear.jpg",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "museo-revello-de-toro": {
+    "file": "/nearby/museo-revello-de-toro.webp",
+    "width": 640,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:Mueso_Revello_de_Toro.jpg",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "museo-jorge-rando": {
+    "file": "/nearby/museo-jorge-rando.webp",
+    "width": 565,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:Museumjorgerando.JPG",
+    "artist": "ArteNova21",
+    "license": "CC BY-SA 4.0"
+  },
+  "museo-interactivo-musica": {
+    "file": "/nearby/museo-interactivo-musica.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Interactivo_de_la_M%C3%BAsica_de_M%C3%A1laga.jpg",
+    "artist": "Mikey 111",
+    "license": "CC BY-SA 4.0"
+  },
+  "museo-automovil-moda": {
+    "file": "/nearby/museo-automovil-moda.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Malaga_museo.jpg",
+    "artist": "Ko Oleg",
+    "license": "CC BY-SA 3.0"
+  },
+  "playa-banos-del-carmen": {
+    "file": "/nearby/playa-banos-del-carmen.webp",
+    "width": 960,
+    "height": 643,
+    "source": "https://commons.wikimedia.org/wiki/File:Ba%C3%B1os_Del_Carmen_(192620501)_(cropped)2.jpeg",
+    "artist": "Manuel Martín Laguna",
+    "license": "CC BY 3.0"
+  },
+  "playa-el-palo": {
+    "file": "/nearby/playa-el-palo.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:El_Palo_Beach.jpg",
+    "artist": "Daniel Capilla",
+    "license": "CC BY-SA 4.0"
+  },
+  "playa-san-andres": {
+    "file": "/nearby/playa-san-andres.webp",
+    "width": 960,
+    "height": 723,
+    "source": "https://commons.wikimedia.org/wiki/File:Embarcaciones_playa_de_San_Andr%C3%A9s.jpg",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "playa-misericordia": {
+    "file": "/nearby/playa-misericordia.webp",
+    "width": 960,
+    "height": 723,
+    "source": "https://commons.wikimedia.org/wiki/File:Playa_de_la_Misericordia.jpg",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "muelle-uno": {
+    "file": "/nearby/muelle-uno.webp",
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Port_of_M%C3%A1laga_(22999244322).jpg",
+    "artist": "Adrian Scottow from London, England",
+    "license": "CC BY-SA 2.0"
+  },
+  "centre-pompidou": {
+    "file": "/nearby/centre-pompidou.webp",
+    "width": 960,
+    "height": 524,
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_Centre_Pompidou.20150418.jpg",
+    "artist": "Epizentrum",
+    "license": "CC BY-SA 3.0"
+  },
+  "malagueta-bullring": {
+    "file": "/nearby/malagueta-bullring.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_La_Malagueta_01.jpg",
+    "artist": "Olaf Tausch",
+    "license": "CC BY 3.0"
+  },
+  "gibralfaro": {
+    "file": "/nearby/gibralfaro.webp",
+    "width": 960,
+    "height": 477,
+    "source": "https://commons.wikimedia.org/wiki/File:Castillo_de_Gibralfaro,_OCT2015.jpg",
+    "artist": "Jwh",
+    "license": "CC BY-SA 3.0 lu"
+  },
+  "parque-de-malaga": {
+    "file": "/nearby/parque-de-malaga.webp",
+    "width": 960,
+    "height": 510,
+    "source": "https://commons.wikimedia.org/wiki/File:El_Parque_de_M%C3%A1laga.JPG",
+    "artist": "Frog17",
+    "license": "CC BY-SA 4.0"
+  },
+  "la-caleta": {
+    "file": "/nearby/la-caleta.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:Playa_de_la_Caleta,_M%C3%A1laga_13.JPG",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "pedregalejo": {
+    "file": "/nearby/pedregalejo.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:100_2261.JPG",
+    "artist": "Kaszana94",
+    "license": "CC BY-SA 4.0"
+  },
+  "palmeral-de-las-sorpresas": {
+    "file": "/nearby/palmeral-de-las-sorpresas.webp",
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Palmeral_de_las_Sorpresas,_Malaga_2023.jpg",
+    "artist": "Thomas Dahlstrøm Nielsen",
+    "license": "CC BY-SA 4.0"
+  },
+  "mercado-atarazanas": {
+    "file": "/nearby/mercado-atarazanas.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_-_Mercado_Central_de_Atarazanas_4.jpg",
+    "artist": "Zarateman",
+    "license": "CC0"
+  },
+  "santuario-victoria": {
+    "file": "/nearby/santuario-victoria.webp",
+    "width": 960,
+    "height": 640,
+    "source": "https://commons.wikimedia.org/wiki/File:Santuario_de_la_Victoria,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-20,_DD_08.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+  },
+  "museo-vidrio-cristal": {
+    "file": "/nearby/museo-vidrio-cristal.webp",
+    "width": 936,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_del_Vidrio_y_Cristal-front.jpg",
+    "artist": "Tyk",
+    "license": "CC BY-SA 3.0"
+  },
+  "english-cemetery": {
+    "file": "/nearby/english-cemetery.webp",
+    "width": 960,
+    "height": 720,
+    "source": "https://commons.wikimedia.org/wiki/File:English_Cemetery_in_Malaga_from_Gibralfaro.jpg",
+    "artist": "Daniel Capilla",
+    "license": "CC BY-SA 4.0"
+  },
+  "la-farola": {
+    "file": "/nearby/la-farola.webp",
+    "width": 567,
+    "height": 850,
+    "source": "https://commons.wikimedia.org/wiki/File:La_Farola,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-20,_DD_70.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0"
+  },
+  "mercado-de-la-merced": {
+    "file": "/nearby/mercado-de-la-merced.webp",
+    "width": 1100,
+    "height": 335,
+    "source": "https://mercadosmunicipalesyviapublica.malaga.eu/mercados-municipales/mercados-municipales/sgnoticia/Mercado-de-La-Merced/",
+    "artist": "Ayuntamiento de Málaga",
+    "license": ""
   }
 };

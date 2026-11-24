@@ -1,0 +1,642 @@
+{
+  "alcazaba-malaga": {
+    "address": "Calle Alcazabilla, acceso junto al Teatro Romano",
+    "minutes": "75–110",
+    "kind": "fort",
+    "walk": {
+      "en": "At the lower gate, follow the turns of the approach before heading for the palace terraces. From above, look back towards the theatre to see how a change of level protected the entrance. Leave enough time to descend the same hillside.",
+      "es": "Desde la puerta inferior sigue los giros del acceso antes de subir a las terrazas palaciegas. Desde arriba vuelve la vista hacia el teatro para entender cómo protegía la entrada el desnivel. Reserva tiempo para bajar la ladera.",
+      "zh": "从下部门楼沿转折的入口上行，再上宫殿台地。在高处向剧场回看，坡地怎样帮助守卫入口便清楚了。行程末段需留下原坡下行的时间。"
+    }
+  },
+  "teatro-romano-malaga": {
+    "address": "Calle Alcazabilla, s/n",
+    "minutes": "25–45",
+    "kind": "archaeology",
+    "walk": {
+      "en": "Stand on Calle Alcazabilla facing the curved seating. Move sideways until the rows and the stage are both legible, then compare that view with the hillside behind them. Visit the interpretation centre before climbing to the Alcazaba.",
+      "es": "Sitúate en Alcazabilla frente al graderío curvo. Desplázate hasta ver gradas y escena juntas y compara su orientación con la ladera. Visita el centro de interpretación antes de seguir hacia la Alcazaba.",
+      "zh": "在阿尔卡萨维利亚街面向弧形看台，横向移动，直到能同时看清座席与舞台，再与后方坡势对照。先看解说中心，再决定是否上坡参观宫堡。"
+    }
+  },
+  "catedral-malaga": {
+    "address": "Plaza del Obispo, acceso cultural indicado por la Catedral",
+    "minutes": "50–80",
+    "kind": "church",
+    "walk": {
+      "en": "Use the centre of the square for the full front. Near the door the columns and portals become easier to distinguish. Finish back in the square to see the unfinished tower in relation to the completed one.",
+      "es": "Desde el centro de la plaza se abarca la fachada. Acércate a la puerta para distinguir columnas y portadas. Vuelve a la plaza para comparar la torre terminada con la que quedó incompleta.",
+      "zh": "先从广场中央看完整立面，再到门廊前辨别柱式和入口。最后回到广场，将已完工与未完工的钟塔放在同一视野中比较。"
+    }
+  },
+  "museo-malaga-aduana": {
+    "address": "Plaza de la Aduana, s/n",
+    "minutes": "60–100",
+    "kind": "museum",
+    "walk": {
+      "en": "Approach the Customs Palace from the park side and start in the courtyard. Choose either archaeology or fine arts for a short visit. Return to the street along the old port side to put the building’s former role in context.",
+      "es": "Llega al Palacio de la Aduana desde el Parque y empieza en el patio. Si vas con poco tiempo, elige arqueología o bellas artes. Sal por el lado del antiguo puerto para situar el uso aduanero del edificio.",
+      "zh": "从公园一侧来到海关宫，在庭院里辨认各展区。时间有限可选考古或美术一个主题。出馆后沿旧港一侧走，更容易理解这座大楼原来的海关用途。"
+    }
+  },
+  "jardines-puerta-oscura": {
+    "address": "Calle Guillén Sotelo, jardines tras el Ayuntamiento",
+    "minutes": "25–45",
+    "kind": "garden",
+    "walk": {
+      "en": "Start below the terraces behind City Hall. Climb a short flight, turn at the landing and compare the planted levels with the flatter garden below. Retrace your steps if the ascent is enough for the day.",
+      "es": "Empieza bajo las terrazas tras el Ayuntamiento. Sube un tramo corto, gira en el rellano y compara los niveles plantados con el jardín llano de abajo. Regresa por el mismo acceso si prefieres evitar más subida.",
+      "zh": "从市政厅后方台地下缘出发，上一个短梯段，到平台转身，比较分层花园和下方平地的区别。不想继续爬坡时可从同一入口下行。"
+    }
+  },
+  "jardines-pedro-luis-alonso": {
+    "address": "Jardines de Pedro Luis Alonso, Calle Guillén Sotelo",
+    "minutes": "20–35",
+    "kind": "garden",
+    "walk": {
+      "en": "Enter on the City Hall side and follow the edge of a pool before choosing a flower-bed axis. At the far end turn towards the building; the long lines of the garden make sense from that direction as well.",
+      "es": "Entra por el lado del Ayuntamiento y bordea una alberca antes de seguir el eje de un parterre. Desde el extremo vuelve la vista hacia el edificio: desde allí se entienden también las líneas largas del jardín.",
+      "zh": "从市政厅一侧进入，先沿水池边走，再选一条花坛轴线。到轴线尽头回望建筑，园林的长线条和市政厅门面便联系起来。"
+    }
+  },
+  "palmeral-de-las-sorpresas": {
+    "address": "Muelle Dos, paseo del Palmeral",
+    "minutes": "25–40",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Enter beneath the canopy from the park side. Follow its ribs for several bays, then step towards the water and look back across them. End at the change from the sheltered Palmeral to the busier Muelle Uno.",
+      "es": "Entra bajo la pérgola desde el lado del Parque. Recorre varios tramos, sal al borde del agua y mira de vuelta a las costillas de la cubierta. Termina donde el Palmeral deja paso al ambiente del Muelle Uno.",
+      "zh": "从公园方向进入棚架下，沿顶棚的肋条走几跨，再移向水边侧看。走到遮阳长廊与一号码头商铺衔接处，便能分辨两个码头的用途。"
+    }
+  },
+  "hospital-noble": {
+    "address": "Plaza del General Torrijos, acera del Hospital Noble",
+    "minutes": "10–20",
+    "kind": "exterior",
+    "walk": {
+      "en": "Keep the junction on one side and trace the chapel and wings from the opposite pavement. Move only at a marked crossing. Returning along the garden edge gives a second view of how the former hospital faced the coast.",
+      "es": "Desde la acera opuesta identifica la capilla y las alas sin perder de vista el cruce. Cambia de lado solo por un paso señalizado. El regreso junto al jardín muestra cómo se orientaba el hospital hacia el litoral.",
+      "zh": "在路口对面的人行道上辨认小堂与侧翼，只经标线过街。返程改沿花园边缘看，能比较旧医院门面与海岸的朝向。"
+    }
+  },
+  "fuente-tres-gracias": {
+    "address": "Plaza del General Torrijos, pasos peatonales exteriores",
+    "minutes": "10–15",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Use the pavement beside the gardens first, then change angle via a crossing. Frame the three sculpted figures above the basin; the traffic island itself is outside the walking route.",
+      "es": "Empieza en la acera junto a los jardines y cambia de ángulo por un paso peatonal. Encuadra las tres figuras sobre la taza; la isleta queda fuera del recorrido a pie.",
+      "zh": "先站在花园附近的人行道，再经斑马线换一个方向，把三位雕像与下方水盆一起看。中央交通岛不属于步行游线。"
+    }
+  },
+  "calle-larios": {
+    "address": "Calle Marqués de Larios, extremo de Plaza de la Marina",
+    "minutes": "20–35",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Start at the southern mouth and compare the curved corners on successive blocks. Pause at a side street for an oblique view, then walk through to Plaza de la Constitución without losing the main axis.",
+      "es": "Entra por el extremo sur y compara las esquinas curvas de varias manzanas. Detente en una bocacalle para una vista oblicua y continúa por el eje principal hasta la Plaza de la Constitución.",
+      "zh": "从南端开始，看连续街区转角的弧线。在一处支巷口停下斜看主街，再沿主轴步行到宪法广场，便能把街道与老城布局串起来。"
+    }
+  },
+  "plaza-constitucion": {
+    "address": "Plaza de la Constitución, entrada desde Calle Larios",
+    "minutes": "15–30",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Arrive from Calle Larios and move to the edge to see how the street opens into the square. Compare the width of the Chinitas passage with the main approach before continuing towards Calle Compañía.",
+      "es": "Llega por Larios y sitúate en un borde para ver cómo la calle desemboca en la plaza. Compara la estrechez del pasaje de Chinitas con el acceso principal y continúa hacia Calle Compañía.",
+      "zh": "从拉里奥斯街进广场，在边缘观察街道突然展开的空间。比较奇尼塔斯小巷与主街入口的宽度，再往孔帕尼亚街继续。"
+    }
+  },
+  "plaza-del-obispo": {
+    "address": "Plaza del Obispo, entre Catedral y Palacio Episcopal",
+    "minutes": "15–25",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Use the open centre to compare the scale of the cathedral and the episcopal residence. Walk towards the palace side for a closer view of its colours, then return to the edge for both facades in one frame.",
+      "es": "En el centro compara la escala de la Catedral y la residencia episcopal. Acércate al palacio para apreciar sus colores y vuelve al borde para encuadrar ambas fachadas.",
+      "zh": "在广场中央先对比主教座堂与主教宫的体量，移向宫殿一侧看外墙配色，再回到广场边缘，两种立面可同框参照。"
+    }
+  },
+  "plaza-de-la-merced": {
+    "address": "Plaza de la Merced, monumento a Torrijos",
+    "minutes": "20–35",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Begin at the Torrijos memorial and read its base before walking towards the birthplace corner. Return around another side of the square to see how the monument sits within a lived-in residential setting.",
+      "es": "Empieza en el monumento a Torrijos y lee su base antes de dirigirte a la esquina de la Casa Natal. Regresa por otro lado para situar el monumento en su entorno de viviendas.",
+      "zh": "从托里霍斯纪念碑开始，先读基座铭文，再步行到毕加索出生故居所在的街角。沿广场另一侧返回，看看纪念碑与周边住宅的距离。"
+    }
+  },
+  "mercado-atarazanas": {
+    "address": "Calle Atarazanas, puerta monumental",
+    "minutes": "30–50",
+    "kind": "market",
+    "walk": {
+      "en": "Start outside the surviving gateway, then follow one market aisle through to the stained glass. Returning through a different aisle lets you compare the older stone entrance with the later market hall.",
+      "es": "Empieza ante la puerta histórica y recorre un pasillo hasta la vidriera. Regresa por otro pasillo para contrastar el antiguo acceso de piedra y la estructura posterior del mercado.",
+      "zh": "从留存的石门外出发，沿一条通道走到彩色玻璃窗，再从另一排摊位返回。进出时把旧石门和后来加建的市场大厅放在一起看。"
+    }
+  },
+  "mercado-de-la-merced": {
+    "address": "Calle Merced, mercado municipal junto al Teatro Cervantes",
+    "minutes": "15–30",
+    "kind": "market",
+    "walk": {
+      "en": "From Plaza de la Merced step into Calle Merced and locate the market frontage before heading towards the theatre. Ask which stalls are working that morning; the neighbourhood route also works as an exterior visit.",
+      "es": "Desde la plaza entra en Calle Merced y localiza la fachada antes de seguir hacia el teatro. Pregunta qué puestos trabajan esa mañana; el recorrido del barrio también puede hacerse por el exterior.",
+      "zh": "从梅尔塞德广场进同名街，先找到市场门面，再往剧院方向走。当天营业的摊位可向现场确认，即便不开门也能完成广场至剧院的外观步行。"
+    }
+  },
+  "teatro-cervantes": {
+    "address": "Calle Ramos Marín, acceso al Teatro Cervantes",
+    "minutes": "15–25",
+    "kind": "theatre",
+    "walk": {
+      "en": "Start facing the theatre across the open approach. Move closer to identify the entrance used for a performance, then leave by the streets towards the Merced to place the theatre in its surrounding neighbourhood.",
+      "es": "Empieza frente al teatro desde el espacio abierto. Acércate para reconocer la entrada de espectadores y vuelve por las calles hacia la Merced para situarlo dentro del barrio.",
+      "zh": "先在开阔处面向剧院，再靠近辨别观众入口。观演前不妨步行回梅尔塞德方向，对照剧场正面与周边街巷的尺度。"
+    }
+  },
+  "soho-malaga": {
+    "address": "Ensanche Heredia, calles entre Alameda Principal y puerto",
+    "minutes": "35–60",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Use the street grid rather than a single mural as your route. From Alameda enter one block, turn at its end and return along a parallel street. Large walls read best from the opposite pavement; smaller works reward a slower walk.",
+      "es": "Sigue la cuadrícula del barrio en vez de depender de un solo mural. Entra desde la Alameda, gira al final de una manzana y vuelve por una calle paralela. Observa las paredes grandes desde la acera opuesta y los detalles a pie.",
+      "zh": "以街区网格规划路线，从林荫大道进入一个街区，在尽头转弯，沿平行街返回。大幅壁画要隔街看，较小的作品则适合放慢脚步靠近观察。"
+    }
+  },
+  "santuario-victoria": {
+    "address": "Plaza del Santuario, acceso al Santuario de la Victoria",
+    "minutes": "30–60",
+    "kind": "church",
+    "walk": {
+      "en": "Arrive through the forecourt and distinguish the public worship space from the spaces visited on a cultural tour. Ask about the crypt before planning the rest of the visit and finish back at the square.",
+      "es": "Llega por el atrio y distingue la nave de culto de los espacios de visita cultural. Pregunta por la cripta antes de organizar el resto del recorrido y termina de nuevo en la plaza.",
+      "zh": "由前庭进入，先分清礼拜使用的中殿与文化参观区域。若想看地下墓室，宜先询问是否开放，再安排其余动线，最后回到广场。"
+    }
+  },
+  "cementerio-san-miguel": {
+    "address": "Acceso al Cementerio Histórico de San Miguel",
+    "minutes": "35–60",
+    "kind": "gated",
+    "walk": {
+      "en": "Start at the public entrance and follow a main aisle before turning towards the family monuments. Compare the shapes of two mausoleums from the paths and return along the main avenue without entering private enclosures.",
+      "es": "Desde la entrada pública sigue una calle principal y gira hacia los panteones familiares. Compara dos monumentos desde los senderos y regresa por el eje principal respetando los recintos privados.",
+      "zh": "从公共入口沿主道前进，再转向家族陵墓所在的小径。留在道路上比较两座陵墓的形制，随后回到主轴，不进入私人墓区围栏内。"
+    }
+  },
+  "museo-picasso-malaga": {
+    "address": "Palacio de Buenavista, Calle San Agustín",
+    "minutes": "75–120",
+    "kind": "museum",
+    "walk": {
+      "en": "Look at the Buenavista courtyard before following the gallery route. Choose a single subject across two works and compare how Picasso changed its outline. On leaving, find the palace again from the narrow street.",
+      "es": "Observa el patio de Buenavista antes de seguir las salas. Elige un tema presente en dos piezas y compara cómo cambia su contorno. Al salir, vuelve a situar el palacio desde la estrecha calle.",
+      "zh": "先看布埃纳维斯塔宫庭院，再按展厅动线前进。选两件题材相近的作品观察轮廓变化。出馆回到窄街，再看宫殿门面如何融入周围民居。"
+    }
+  },
+  "museo-casa-natal-picasso": {
+    "address": "Plaza de la Merced, Casa Natal de Picasso",
+    "minutes": "40–65",
+    "kind": "museum",
+    "walk": {
+      "en": "Identify the birthplace corner from the square before entering the rooms. Organise the visit around family life and the city of Picasso’s childhood. Return to the plaza to see the distance between the home and the public monument.",
+      "es": "Identifica la esquina de la Casa Natal desde la plaza. Dentro, lee el recorrido a partir de la vida familiar y la ciudad de infancia de Picasso. Al salir compara la posición de la vivienda y el monumento de la plaza.",
+      "zh": "先在广场辨认故居街角，再进展室从家庭生活与童年环境入手。出馆后站回广场，对照故居与中央纪念碑的位置。"
+    }
+  },
+  "museo-carmen-thyssen": {
+    "address": "Calle Compañía, Palacio de Villalón",
+    "minutes": "60–100",
+    "kind": "museum",
+    "walk": {
+      "en": "Take in the Villalón palace before moving on to the paintings. Choose a landscape and a genre scene, looking first at the setting and then at the figures. Return via the courtyard rather than rushing directly to the exit.",
+      "es": "Observa el Palacio de Villalón antes de pasar a la pintura. Elige un paisaje y una escena costumbrista; mira primero el entorno y después las figuras. Vuelve por el patio antes de llegar a la salida.",
+      "zh": "进馆先看维利亚隆宫，再进绘画展厅。各选一幅风景画和一幅风俗画，从场景看到人物；回程留几分钟经庭院再出馆。"
+    }
+  },
+  "museo-vidrio-cristal": {
+    "address": "Plazuela Santísimo Cristo de la Sangre, museo",
+    "minutes": "50–80",
+    "kind": "museum",
+    "walk": {
+      "en": "Locate the restored house beside the square and confirm the next tour before entering. Compare two pieces against their room furnishings: reflections, colour and transparency change with the background.",
+      "es": "Localiza la casa restaurada junto a la plazuela y confirma el siguiente recorrido antes de entrar. Compara dos piezas con el mobiliario de su sala: reflejos, color y transparencia cambian con el fondo.",
+      "zh": "先找小广场旁的修复老宅，入馆前确认下一场参观。用室内家具作背景比较两件玻璃器物，颜色、反光和透明度会随观察角度变化。"
+    }
+  },
+  "museo-vino-malaga": {
+    "address": "Plaza de los Viñeros, museo del vino",
+    "minutes": "40–65",
+    "kind": "museum",
+    "walk": {
+      "en": "Begin with the historical labels, then follow their references to producers and export markets. Ask whether a tasting is included that day before planning the rest of your afternoon.",
+      "es": "Empieza por las etiquetas históricas y sigue sus referencias a productores y destinos de exportación. Pregunta si la visita del día incluye cata antes de organizar la tarde.",
+      "zh": "先从历史酒标看起，辨认生产者与出口地，再了解地区葡萄酒贸易。是否包含品饮、如何接待，应在入馆时询问当日安排。"
+    }
+  },
+  "museo-artes-costumbres": {
+    "address": "Pasillo de Santa Isabel, antiguo Mesón de la Victoria",
+    "minutes": "45–75",
+    "kind": "museum",
+    "walk": {
+      "en": "Look at the courtyard of the former inn before entering the craft displays. Select two tools from one trade and work out the order in which they would have been used. Return to the riverside for a view back at the building.",
+      "es": "Mira el patio del antiguo mesón antes de entrar en las salas de oficios. Escoge dos herramientas de una misma actividad e imagina su orden de uso. Vuelve a la ribera para observar el edificio desde fuera.",
+      "zh": "先看老旅店庭院，再进地方手工业展厅。选同一行业的两件工具，推想使用先后。出馆回河边，重新观察这座建筑的外部尺度。"
+    }
+  },
+  "museo-revello-de-toro": {
+    "address": "Calle Afligidos, casa-taller de Pedro de Mena",
+    "minutes": "40–65",
+    "kind": "museum",
+    "walk": {
+      "en": "Locate the workshop house in the narrow lane first. Inside, compare the building’s domestic scale with the portraits by Revello de Toro. Pause outside again to distinguish the earlier sculptor’s house from the collection it now holds.",
+      "es": "Localiza primero la casa-taller en la calle estrecha. Compara la escala doméstica del edificio con los retratos de Revello de Toro y vuelve a mirar el exterior para distinguir la casa del escultor y su colección actual.",
+      "zh": "在窄街先认出旧工作室民宅，入内把家庭尺度的房间与雷韦略·德·托罗的肖像并看。出门再看立面，区分早期雕塑家住所与如今展示的绘画。"
+    }
+  },
+  "museo-jorge-rando": {
+    "address": "Calle Cruz del Molinillo, entrada al museo",
+    "minutes": "45–75",
+    "kind": "museum",
+    "walk": {
+      "en": "Start with one painting from a series and note its dominant colour or gesture. Move to a neighbouring canvas to see what changes and what repeats. Finish with a look at the museum’s connection to the convent setting.",
+      "es": "Empieza por una obra de una serie y observa su color o gesto dominante. Pasa al lienzo contiguo para ver qué se repite y qué cambia. Termina situando el museo en su entorno conventual.",
+      "zh": "先在一个系列中挑出一幅画，观察主色或笔势。再看相邻画作中哪些处理反复出现、哪些发生变化，最后看看博物馆与修道院建筑的关系。"
+    }
+  },
+  "museo-interactivo-musica": {
+    "address": "Calle Beatas, entrada al MIMMA",
+    "minutes": "50–80",
+    "kind": "museum",
+    "walk": {
+      "en": "Find the handling instructions before touching an instrument. Compare a playable example with a related instrument in a case: the way the sound is produced explains more than shape alone. Return objects as staff indicate.",
+      "es": "Localiza las indicaciones antes de tocar. Compara un instrumento autorizado para uso con otro de la vitrina: cómo se produce el sonido explica más que la forma. Devuelve todo según las instrucciones.",
+      "zh": "先看演奏标识，再尝试允许触摸的乐器。可与展柜里另一件同类乐器并看，比较它们如何发声；试奏后按工作人员要求放回。"
+    }
+  },
+  "museo-automovil-moda": {
+    "address": "Tabacalera, Avenida de Sor Teresa Prat",
+    "minutes": "75–110",
+    "kind": "museum",
+    "walk": {
+      "en": "Enter the former tobacco complex and identify the automobile museum entrance before choosing the first gallery. Compare a vehicle’s body line with the clothing displayed from its period, then return to the Tabacalera courtyard.",
+      "es": "Entra en el recinto de Tabacalera e identifica el acceso del museo antes de elegir sala. Compara la carrocería de un vehículo con las prendas de su época y regresa al patio del conjunto industrial.",
+      "zh": "先在旧烟草厂区内辨认汽车博物馆的专用入口。进展厅选一辆车，将车身线条与同时代服装的廓形对照，然后回到厂区庭院。"
+    }
+  },
+  "playa-banos-del-carmen": {
+    "address": "Acceso público al Balneario de los Baños del Carmen",
+    "minutes": "25–45",
+    "kind": "beach",
+    "walk": {
+      "en": "Approach from La Caleta and view the old bathing pavilion before stepping onto an open shore section. Turn back to see the relationship between the water and the building; use the promenade if waves reach the edge.",
+      "es": "Llega desde La Caleta y observa el antiguo pabellón antes de acercarte a una zona abierta de orilla. Vuelve la vista al edificio desde el borde y utiliza el paseo si el oleaje alcanza la playa estrecha.",
+      "zh": "从拉卡莱塔方向走来，先看旧浴场亭，再到开放岸段回望临水建筑。如果浪头已到狭窄岸边，应留在步行道上观看。"
+    }
+  },
+  "playa-el-palo": {
+    "address": "Paseo Marítimo de El Palo",
+    "minutes": "35–60",
+    "kind": "beach",
+    "walk": {
+      "en": "Choose one sheltered bay and follow its promenade before turning towards the low waterfront houses. Return by the same bay to compare the fishing neighbourhood’s landward and seaward edges.",
+      "es": "Elige una cala resguardada y sigue el paseo antes de girar hacia las casas bajas del litoral. Vuelve por la misma cala para comparar el barrio marinero visto desde tierra y desde el mar.",
+      "zh": "选一处较避风的小湾沿步道走，再转向沿街低矮民居。回到同一段海岸，比较渔业街区面向陆地与面向海洋的两侧。"
+    }
+  },
+  "playa-san-andres": {
+    "address": "Paseo Marítimo Antonio Machado, tramo de San Andrés",
+    "minutes": "30–50",
+    "kind": "beach",
+    "walk": {
+      "en": "Start on the Huelin side of the port and follow the public promenade west. At an open beach access look back towards the harbour, then continue along the promenade rather than through working port land.",
+      "es": "Empieza en el lado de Huelin y sigue el paseo público al oeste. Desde una entrada abierta mira de vuelta hacia el puerto y continúa por el paseo sin entrar en su zona de trabajo.",
+      "zh": "从港口的韦林一侧沿公共海滨步道往西。在开放的海滩入口回看港区，再沿步道继续，全程无需进入港口的作业区域。"
+    }
+  },
+  "playa-misericordia": {
+    "address": "Paseo Marítimo Antonio Banderas, Playa de la Misericordia",
+    "minutes": "35–60",
+    "kind": "beach",
+    "walk": {
+      "en": "Choose a promenade entrance and locate one industrial chimney before approaching the sand. On the return use that chimney as a landward landmark; several entrances along the long beach look alike from the water.",
+      "es": "Escoge un acceso al paseo y localiza una chimenea industrial antes de bajar a la arena. Al volver úsala como referencia hacia tierra: desde la orilla varios accesos se parecen.",
+      "zh": "选一处滨海步道入口，下沙滩前认准内陆的一根工业烟囱。长岸线上的多个出口从水边看很像，回程可用烟囱定位。"
+    }
+  },
+  "iglesia-cristo-salud": {
+    "address": "Calle Compañía",
+    "minutes": "15–30",
+    "kind": "church",
+    "walk": {
+      "en": "Start under the dome and choose one painted figure. Trace its line down to the altarpiece below, then back towards the circle of the room. If worship is under way, read the rounded volume from the street.",
+      "es": "Bajo la cúpula elige una figura pintada, sigue su línea hasta el retablo y vuelve a mirar el conjunto circular. Durante el culto, observa desde la calle el volumen de la rotonda.",
+      "zh": "从穹顶选一位彩绘人物，跟随画面线条看到下方祭坛，再环视圆厅。遇到礼拜时，从街边观察圆形建筑的外部体量。"
+    }
+  },
+  "capilla-del-puerto": {
+    "address": "Paseo de la Farola, Muelle Uno",
+    "minutes": "10–25",
+    "kind": "exterior",
+    "walk": {
+      "en": "Look at the stone entrance from the quay, then move towards the water until chapel and port can be seen together. On the return, compare its small scale with the shopping frontage of Muelle Uno.",
+      "es": "Observa la portada de piedra desde el muelle y desplázate hacia el agua hasta abarcar puerto y capilla. De vuelta, compara su escala con el frente comercial de Muelle Uno.",
+      "zh": "先在码头观察石质门廊，再往水边移动到能同时看到港口与小堂的位置。返回时比较小堂与一号码头商业建筑的尺度。"
+    }
+  },
+  "mirador-gibralfaro": {
+    "address": "Camino de Gibralfaro",
+    "minutes": "15–30",
+    "kind": "outdoor",
+    "walk": {
+      "en": "At the viewpoint identify the circular bullring before following the line of the port out to sea. With the beach and harbour established, trace the walking route back down towards Paseo del Parque.",
+      "es": "Desde el mirador localiza el círculo de la plaza de toros y sigue la línea del puerto hacia el mar. Identificados playa y muelles, reconoce la bajada de vuelta al Paseo del Parque.",
+      "zh": "到观景台先找圆形斗牛场，再顺港口线条望向大海。分清海滩与码头后，从高处辨认返回公园大道的下坡方向。"
+    }
+  },
+  "parque-huelin": {
+    "address": "Calle Princesa",
+    "minutes": "30–50",
+    "kind": "garden",
+    "walk": {
+      "en": "Choose an entrance on the neighbourhood side, circle the pond and leave towards the promenade. Comparing the water in the park with the open bay gives the short walk a clear beginning and end.",
+      "es": "Entra desde el barrio, rodea el estanque y sal hacia el paseo marítimo. El agua quieta del parque y la bahía abierta dan principio y fin a este recorrido corto.",
+      "zh": "从韦林街区一侧进园，沿池塘绕行，再从滨海步道方向出园。在同一次短途步行中比较园中静水与开阔海湾。"
+    }
+  },
+  "jardines-picasso": {
+    "address": "Avenida de Andalucía",
+    "minutes": "30–50",
+    "kind": "garden",
+    "walk": {
+      "en": "From the busy avenue step under the mature trees before turning towards the sculptures. Look back at the road from within the garden to see how deeply its planted canopy screens the traffic.",
+      "es": "Deja la avenida y entra bajo los árboles maduros antes de acercarte a las esculturas. Mira de vuelta a la calzada desde el jardín para apreciar la separación que crea la arboleda.",
+      "zh": "从繁忙大道走入成熟树冠下，再转向园内雕塑。从树荫里回望车道，可以比较绿化带如何隔开城市交通。"
+    }
+  },
+  "parque-del-oeste": {
+    "address": "Calle Realenga de San Luis",
+    "minutes": "30–50",
+    "kind": "garden",
+    "walk": {
+      "en": "Use the lakeside path as the spine of the visit. Turn onto one short branch to a sculpture, then return to the water before looking for the next work. This keeps a short visit from becoming a search across the whole park.",
+      "es": "Usa la orilla del lago como eje. Desvíate hasta una escultura y vuelve al agua antes de buscar la siguiente. Así una visita breve no se convierte en una búsqueda por todo el parque.",
+      "zh": "将湖畔小径当作主轴，每次只从湖边走到一件雕塑再返回。这样既能识别作品，也不必在有限时间内横穿整座公园。"
+    }
+  },
+  "parque-san-miguel": {
+    "address": "Calle Albéniz",
+    "minutes": "30–50",
+    "kind": "garden",
+    "walk": {
+      "en": "Identify the park entrance before approaching the cemetery. Follow the public garden path around the planted area and check the separate gate if you also plan to visit the monuments.",
+      "es": "Identifica primero la entrada del parque. Recorre el sendero público junto a la zona plantada y comprueba el acceso independiente si vas a visitar también el cementerio.",
+      "zh": "先辨认公园入口，再沿绿地旁公共小径走。如果还要看墓园纪念物，需另外确认墓园入口的位置与开放安排。"
+    }
+  },
+  "iglesia-santiago": {
+    "address": "Calle Granada",
+    "minutes": "15–30",
+    "kind": "church",
+    "walk": {
+      "en": "From Calle Granada look up at the tower before approaching the church door. Inside, focus on the baptismal connection with Picasso; outside, look down the lane to see how little space there is to view the entire tower at once.",
+      "es": "Desde Calle Granada mira la torre antes de llegar a la puerta. Dentro, busca la relación con el bautismo de Picasso; fuera, retrocede por la calle para entender por qué cuesta abarcar la torre entera.",
+      "zh": "从格拉纳达街先抬头看塔再到堂门。入内可了解与毕加索受洗的联系，出门后沿巷子退几步，比较狭窄街道中观看整塔的不同角度。"
+    }
+  },
+  "iglesia-san-juan": {
+    "address": "Calle San Juan",
+    "minutes": "15–30",
+    "kind": "church",
+    "walk": {
+      "en": "Locate the tower from the commercial streets, then approach the facade from the quieter side. After inspecting the painted exterior at close range, return to the square for the building’s full height.",
+      "es": "Localiza la torre desde las calles comerciales y acércate por el lado más despejado. Observa de cerca la fachada pintada y vuelve a la plaza para apreciar la altura completa.",
+      "zh": "先从商业街上辨认塔楼，再从较开阔一侧靠近，近看外墙彩饰。返回广场后重新观察教堂的整体高度。"
+    }
+  },
+  "iglesia-martires": {
+    "address": "Plaza de los Mártires",
+    "minutes": "15–30",
+    "kind": "church",
+    "walk": {
+      "en": "View the exterior from the square before entering the side of the nave open to visitors. Compare the restrained street frontage with the richness of the interior, then finish outside so that arriving worshippers can use the entrance.",
+      "es": "Mira la fachada desde la plaza antes de entrar por la zona abierta de la nave. Compara la sobriedad de la calle con la riqueza interior y termina fuera para dejar libre la entrada a los fieles.",
+      "zh": "在广场上先看外观，再进入向访客开放的中殿部分。比较朴素街面与华丽内饰，最后到室外停留，给前来礼拜的人留出门口。"
+    }
+  },
+  "iglesia-san-felipe-neri": {
+    "address": "Plaza de San Felipe Neri",
+    "minutes": "15–30",
+    "kind": "church",
+    "walk": {
+      "en": "Choose the far edge of the square to see the towers together. Approach slowly for the surface decoration, then return via the streets towards the glass museum to compare church and domestic architecture.",
+      "es": "Desde el borde opuesto de la plaza observa juntas las torres. Acércate para ver la decoración de los muros y vuelve por las calles hacia el museo del vidrio para comparar iglesia y arquitectura doméstica.",
+      "zh": "站在广场对边看双塔整体，再缓步靠近看墙面装饰。可从前往玻璃博物馆的街巷折返，比较宗教建筑与民居。"
+    }
+  },
+  "iglesia-sagrado-corazon": {
+    "address": "Plaza de San Ignacio",
+    "minutes": "15–30",
+    "kind": "church",
+    "walk": {
+      "en": "Enter Plaza de San Ignacio through the narrow approach. Wait until the plaza opens before framing the full pointed facade, then step closer to compare its vertical details with the tight street behind you.",
+      "es": "Entra en la plaza de San Ignacio por el paso estrecho. Espera a que se abra la plaza para ver la fachada apuntada y acércate después para comparar sus líneas verticales con la calle de acceso.",
+      "zh": "经窄巷进入圣伊格纳西奥广场，待视野开阔再拍完整尖顶立面。随后靠近看竖向构件，并回望刚才的狭窄入口。"
+    }
+  },
+  "iglesia-san-lazaro": {
+    "address": "Plaza de la Victoria",
+    "minutes": "15–30",
+    "kind": "church",
+    "walk": {
+      "en": "Locate the church beside Plaza de la Victoria before following the uphill route to the sanctuary. Pause at the parish door for its own scale and programme; continuing uphill is a second stop.",
+      "es": "Localiza la iglesia junto a la plaza de la Victoria antes de subir al santuario. Detente en la puerta parroquial para apreciar su escala y consultar el culto; la subida pertenece a otra visita.",
+      "zh": "在胜利广场边先找到圣拉萨罗堂，在堂门前看建筑尺度及礼拜告示。继续上坡的胜利圣殿是另一处参观点。"
+    }
+  },
+  "palacio-episcopal": {
+    "address": "Plaza del Obispo",
+    "minutes": "50–85",
+    "kind": "museum",
+    "walk": {
+      "en": "Start beside the fountain for the full elevation. Near the entrance compare the ornamental doorway with the flatter side bays. Finish towards the cathedral so that both church and residence are in view.",
+      "es": "Desde la fuente observa todo el alzado. Acércate al portal para compararlo con los paños laterales y termina hacia la Catedral para ver juntos el templo y la residencia.",
+      "zh": "从喷泉旁看完整立面，再到入口比较装饰门廊与较平整的侧面墙段。最后朝大教堂方向退几步，将教堂与主教宫放进同一视野。"
+    }
+  },
+  "pasaje-chinitas": {
+    "address": "Plaza de la Constitución",
+    "minutes": "15–30",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Turn from the broad Plaza de la Constitución into the narrow covered entrance. Follow one branch to the crossing and return by another to feel the change in scale between the passage and the open square.",
+      "es": "Pasa de la amplia plaza de la Constitución al estrecho acceso cubierto. Sigue un ramal hasta el cruce y vuelve por otro para apreciar el cambio de escala entre pasaje y plaza.",
+      "zh": "从宽阔的宪法广场转入狭窄的覆顶入口，沿一个分支走到交叉处，再由另一个方向返回，感受小巷与开放广场的尺度转换。"
+    }
+  },
+  "plaza-felix-saenz": {
+    "address": "Plaza de Félix Sáenz",
+    "minutes": "15–30",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Find the rounded corner of the old department store before crossing the square. From the opposite side compare the upper facade with the modern shopfronts at street level.",
+      "es": "Localiza la esquina de los antiguos almacenes antes de cruzar la plaza. Desde enfrente compara la parte alta de la fachada con los escaparates actuales a pie de calle.",
+      "zh": "先找到旧百货商场的弧形街角，再穿过广场，从对面区分上层旧立面与街面当代商铺橱窗。"
+    }
+  },
+  "alameda-principal": {
+    "address": "Alameda Principal",
+    "minutes": "15–30",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Follow one shaded pavement until the next crossing. Stop beside a tree to read the line of facades opposite, then cross on the green signal to look back down the avenue towards the port junction.",
+      "es": "Sigue una acera arbolada hasta el próximo paso. Junto a un árbol observa las fachadas de enfrente y cruza con el semáforo para mirar por la avenida hacia el enlace del puerto.",
+      "zh": "沿一侧林荫人行道走到下一个路口，在树旁观看对街立面。绿灯过街后沿大道回望港口方向，不必走进公交车道。"
+    }
+  },
+  "plaza-de-la-marina": {
+    "address": "Plaza de la Marina",
+    "minutes": "15–30",
+    "kind": "outdoor",
+    "walk": {
+      "en": "Stand on the city side to place Calle Larios, the Alameda and the port on three sides of the square. Move to a signed crossing before pursuing any one of these routes.",
+      "es": "Desde el lado urbano sitúa Larios, la Alameda y el puerto en tres direcciones. Antes de elegir la continuación, busca el paso señalizado que corresponde a ese borde.",
+      "zh": "在城市一侧辨认拉里奥斯街、林荫大道与港口三个方向。选定下一段路线后，先找到对应一侧的人行横道。"
+    }
+  },
+  "mercado-salamanca": {
+    "address": "Calle San Bartolomé",
+    "minutes": "25–40",
+    "kind": "market",
+    "walk": {
+      "en": "From the opposite pavement look for the decorative arch on the market front. Approach the entrance for the ceramic detail and, if the hall is trading, make one circuit that leaves the traders’ working spaces clear.",
+      "es": "Desde la acera opuesta localiza el arco decorativo. Acércate para ver la cerámica y, si los puestos están abiertos, da una vuelta que deje libres sus zonas de trabajo.",
+      "zh": "从街对面找到市场正面的装饰拱，再到近处看陶瓷细节。若摊位营业，可沿通道绕行一圈，避开商贩的工作区域。"
+    }
+  },
+  "museo-semana-santa": {
+    "address": "Calle Muro de San Julián",
+    "minutes": "50–85",
+    "kind": "museum",
+    "walk": {
+      "en": "At San Julián begin with the building and courtyard before moving on to processional objects. Compare the scale of an object displayed indoors with the narrow streets through which processions pass.",
+      "es": "En San Julián empieza por el edificio y el patio antes de ver los objetos procesionales. Compara su escala en el interior con la de las calles estrechas por las que pasan los cortejos.",
+      "zh": "在圣胡利安先看建筑和庭院，再看宗教游行用品。比较物件在展室中的体量与外面游行队伍经过的窄街尺度。"
+    }
+  },
+  "oxo-museo": {
+    "address": "Plaza del Siglo",
+    "minutes": "50–85",
+    "kind": "museum",
+    "walk": {
+      "en": "Ask at reception how the visit progresses through the floors. Choose one early game and a later one to compare the controls and screen experience before returning to Plaza del Siglo.",
+      "es": "Pregunta en recepción cómo se recorren las plantas. Escoge un juego antiguo y otro posterior para comparar mandos y pantallas antes de volver a la plaza del Siglo.",
+      "zh": "先问清楼层参观顺序，再各选一个较早和较晚的游戏，对比操作器与屏幕体验，最后回到世纪广场。"
+    }
+  },
+  "museo-imaginacion": {
+    "address": "Calle Martínez Campos",
+    "minutes": "50–85",
+    "kind": "museum",
+    "walk": {
+      "en": "Before taking a photograph, move between the viewing marks and watch the illusion assemble. Swap camera and subject with a companion to compare the image on screen with the room around you.",
+      "es": "Antes de tomar una foto muévete entre los puntos de observación y mira cómo se forma la ilusión. Intercambia cámara y posición para comparar lo que muestra la pantalla con la sala.",
+      "zh": "拍照前先在提示的观察点之间移动，看错觉如何形成。与同行者交换相机和站位，再比较屏幕呈现的效果与实际房间。"
+    }
+  },
+  "coleccion-museo-ruso": {
+    "address": "Avenida de Sor Teresa Prat, 15",
+    "minutes": "50–85",
+    "kind": "museum",
+    "walk": {
+      "en": "From the Tabacalera courtyard check the name on the entrance, since the automobile museum shares the wider complex. Read the current exhibition title before choosing the first room and return across the courtyard.",
+      "es": "En el patio de Tabacalera comprueba el nombre de la entrada: el museo del automóvil ocupa el mismo conjunto. Lee el título de la exposición actual antes de elegir sala y regresa por el patio.",
+      "zh": "进入烟草厂区先核对入口名称，汽车博物馆也在同一厂区。先看当期展览主题，再选第一间展厅，回程穿过庭院。"
+    }
+  },
+  "la-termica": {
+    "address": "Avenida de los Guindos, 48",
+    "minutes": "50–85",
+    "kind": "museum",
+    "walk": {
+      "en": "Start with the public programme at the entrance. Follow the courtyard or corridor to the advertised room and return the same way; on days without an exhibition, plan the adjacent west-coast promenade as the main walk.",
+      "es": "Empieza por la programación de la entrada. Sigue el patio o pasillo hasta la sala anunciada y vuelve por el mismo recorrido; si no hay exposición, dedica el paseo principal al litoral oeste.",
+      "zh": "先看入口活动表，经庭院或走廊到当日开放的展室，再原路返回。如果没有展览，可将西岸滨海步道作为主要行程。"
+    }
+  },
+  "jardin-botanico-concepcion": {
+    "address": "Camino del Jardín Botánico, 3",
+    "minutes": "90–150",
+    "kind": "botanic",
+    "walk": {
+      "en": "At the entrance choose a garden loop that leaves time for the return transfer. Walk from the shaded historic planting to a more open viewpoint, then retrace the marked paths rather than taking a hillside shortcut.",
+      "es": "En la entrada elige una vuelta que deje tiempo para el transporte de regreso. Pasa de la zona histórica sombreada a una vista abierta y vuelve por senderos señalizados sin atajar por la ladera.",
+      "zh": "在入口选一条能赶上返程接驳的环线，从有树荫的历史园区走到开放观景处，再沿标明的步道返回，不走山坡捷径。"
+    }
+  },
+  "playa-el-dedo": {
+    "address": "Paseo Marítimo del Chanquete",
+    "minutes": "30–60",
+    "kind": "beach",
+    "walk": {
+      "en": "At Paseo del Chanquete locate the change from El Palo’s bays to the El Dedo stretch. Turn back at a named access point after viewing the boats from the public promenade.",
+      "es": "En el Paseo del Chanquete observa el paso de las calas de El Palo al tramo de El Dedo. Contempla las barcas desde el paseo y regresa por un acceso que puedas reconocer.",
+      "zh": "在昌克特滨海步道辨认埃尔帕洛各小湾与埃尔德多岸段的交界。从公共步道看船只，记住一处有名称的入口作为回程标志。"
+    }
+  },
+  "playa-el-candado": {
+    "address": "Paseo Marítimo El Candado",
+    "minutes": "30–60",
+    "kind": "beach",
+    "walk": {
+      "en": "Follow the public approach beside the marina and look at the breakwater from the beach side. The club gate and the shoreline are separate destinations; turn back from the public side.",
+      "es": "Sigue el acceso público junto al puerto deportivo y observa el dique desde el lado de la playa. La puerta del club y la orilla son destinos distintos; regresa por la zona pública.",
+      "zh": "沿游艇码头旁公共通道走，从海滩一侧观察防波堤。俱乐部大门与公共岸线是不同目的地，可在公共区域折返。"
+    }
+  },
+  "playa-penon-cuervo": {
+    "address": "Paseo Litoral, Peñón del Cuervo",
+    "minutes": "30–60",
+    "kind": "beach",
+    "walk": {
+      "en": "From the coastal path locate the offshore rock before descending to an open beach access. Turn along the promenade for a second angle on the rock; keep scrambling and swimming out of the walking route.",
+      "es": "Desde la senda litoral identifica el peñón antes de bajar por un acceso abierto. Gira por el paseo para verlo desde otro ángulo; la ruta a pie no requiere trepar ni nadar.",
+      "zh": "从海岸步道先找到近海礁石，再从开放入口走到沙滩。沿步道换个角度看礁石，整条步行路线不需攀爬或游泳。"
+    }
+  },
+  "playa-la-arana": {
+    "address": "Calle Escritor Aguirre García",
+    "minutes": "30–60",
+    "kind": "beach",
+    "walk": {
+      "en": "Enter from the settlement side using the signed pedestrian approach. Observe how the beach sits between the road corridor and the sea, then return to the same access instead of continuing along road shoulders.",
+      "es": "Entra desde el núcleo por el acceso peatonal señalizado. Fíjate en la franja entre la vía y el mar y vuelve al mismo punto sin seguir por los arcenes.",
+      "zh": "从居民点方向走有标识的人行入口，观察公路走廊与海面之间的窄岸带。回程使用同一通道，不沿公路路肩走。"
+    }
+  },
+  "playa-sacaba": {
+    "address": "Paseo Marítimo Antonio Banderas",
+    "minutes": "30–60",
+    "kind": "beach",
+    "walk": {
+      "en": "Walk west along the promenade and identify the transition from Misericordia to the Sacaba end. Before returning, note the line of buildings behind the beach as a reference for the access you used.",
+      "es": "Avanza al oeste por el paseo y reconoce el paso de Misericordia al extremo de Sacaba. Antes de volver fíjate en la línea edificada tras la playa para reconocer el acceso utilizado.",
+      "zh": "沿滨海步道向西，辨认从米塞里科迪亚进入萨卡瓦尽头的岸段。折返前记下海滩后方建筑轮廓，用来辨认来时的入口。"
+    }
+  },
+  "puente-tetuan": {
+    "address": "Puente de Tetuán",
+    "minutes": "15–30",
+    "kind": "outdoor",
+    "walk": {
+      "en": "From the Alameda end look down the river channel before crossing. Pause on the far pavement for a reverse view of the avenue, then choose between the west-bank streets and a return to the old centre.",
+      "es": "Desde la Alameda mira por el cauce antes de cruzar. Detente en la acera opuesta para ver la avenida en sentido inverso y elige entre continuar por la margen oeste o volver al casco antiguo.",
+      "zh": "从林荫大道一端先望向河道再过桥，到对岸人行道回看大道轴线。下一段可继续走西岸街巷，或返回老城。"
+    }
+  }
+}

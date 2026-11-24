@@ -3,7 +3,8 @@ import { useTranslations, useLocale } from 'next-intl';
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
+  const nav = useTranslations('header');
 
   return (
     <footer
@@ -15,7 +16,7 @@ export default function Footer() {
           <div className="max-w-md">
             <div className="mb-6">
               <h2 className="font-display text-2xl font-bold mb-1" style={{ color: 'var(--text-primary)' }}>
-                {t('brandName')}
+                <a href={prefix}>{t('brandName')}</a>
               </h2>
               <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
                 {t('brandSubtitle')}
@@ -45,6 +46,11 @@ export default function Footer() {
               </a>
             </div>
           </div>
+          <nav className="flex flex-col gap-3 text-sm">
+            <a className="hover:underline" href={prefix+'/nearby'}>{nav('nearby')}</a>
+            <a className="hover:underline" href={prefix+'#gallery'}>{nav('gallery')}</a>
+            <a className="hover:underline" href={prefix+'#map'}>{nav('map')}</a>
+          </nav>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}

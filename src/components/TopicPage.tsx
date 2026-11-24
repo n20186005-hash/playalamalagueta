@@ -2,6 +2,9 @@ import { BASE_URL, CATEGORY_LABELS, type Locale, type TopicEntry, type TopicLoca
 import { getTopic, topicContent } from '@/lib/topics';
 import { nearbyText } from '@/lib/nearby/directory';
 import TopicFaq from './TopicFaq';
+import TravelHero from './TravelHero';
+import { photos } from '@/lib/nearby/photos';
+import { mapsFor } from '@/lib/nearby/directory';
 
 type Props = {
   locale: Locale;
@@ -18,6 +21,17 @@ export default function TopicPage({ locale, slug, entry, content }: Props) {
   const homeUrl = `${BASE_URL}/${locale}`;
   const topicUrl = `${BASE_URL}/${locale}/${slug}`;
 
+  const localNames:Record<string,string>={
+    'muelle-uno':'Muelle Uno','centre-pompidou':'Centre Pompidou Málaga','la-farola':'La Farola de Málaga',
+    'malagueta-bullring':'Plaza de Toros de La Malagueta','english-cemetery':'Cementerio Inglés de Málaga',
+    'parque-de-malaga':'Parque de Málaga','la-caleta':'Playa de La Caleta','gibralfaro':'Castillo de Gibralfaro','pedregalejo':'Playa de Pedregalejo'
+  };
+  const subject=localNames[slug];
+  const image=subject?photos[slug]:undefined;
+  const map=mapsFor(subject??'Playa de La Malagueta');
+  const caption=subject??'Playa de La Malagueta';
+  const mapLabel={en:'Open location on Google Maps',es:'Ver ubicación en Google Maps',zh:'在 Google 地图查看地点'}[locale];
+  const reviewLabel={en:'Latest visitor reviews',es:'Opiniones recientes',zh:'查看最新游客评价'}[locale];
   const related = (entry.related || [])
     .map((relSlug) => {
       const relEntry = getTopic(relSlug);
@@ -109,48 +123,13 @@ export default function TopicPage({ locale, slug, entry, content }: Props) {
       />
 
       <main>
-        {/* Breadcrumb */}
-        <nav
-          aria-label="Breadcrumb"
-          className="max-w-4xl mx-auto px-4 sm:px-6 pt-24 pb-2"
-        >
-          <ol className="flex flex-wrap items-center gap-2 text-sm" style={{ color: 'var(--text-muted)' }}>
-            <li>
-              <a href={homeUrl} className="hover:underline" style={{ color: 'var(--accent)' }}>
-                {SITE_NAME}
-              </a>
-            </li>
-            <li aria-hidden="true">/</li>
-            <li><a className="underline" href={`/${locale}/nearby`}>{nearbyText[locale].directory}</a></li>
-            <li aria-hidden="true">/</li>
-            <li style={{ color: 'var(--text-secondary)' }}>{content.title}</li>
-          </ol>
-        </nav>
-
-        {/* Hero */}
-        <section className="section-padding pt-6">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6">
-            <span
-              className="inline-block px-3 py-1 rounded-full text-xs font-semibold mb-4"
-              style={{ background: 'var(--bg-tertiary)', color: 'var(--accent)' }}
-            >
-              {categoryLabel}
-            </span>
-            <h1
-              className="font-display text-3xl sm:text-4xl lg:text-5xl font-bold mb-4"
-              style={{ color: 'var(--text-primary)' }}
-            >
-              {content.title}
-            </h1>
-            <p className="text-base sm:text-lg leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-              {content.description}
-            </p>
-            <p className="text-xs mt-4" style={{ color: 'var(--text-muted)' }}>
-              {content.updated}
-            </p>
-          </div>
-        </section>
-
+        <TravelHero title={content.title} subtitle={content.description}
+          photo={image?.file??'/gallery/playa-la-malagueta (1).jpg'} alt={caption}
+          breadcrumb={<nav className="mb-4 flex flex-wrap gap-3 text-sm"><a className="underline" href={homeUrl}>{SITE_NAME}</a><a className="underline" href={`/${locale}/nearby`}>{nearbyText[locale].directory}</a><span>{categoryLabel}</span></nav>}>
+          <a className="rounded-full bg-white/15 px-4 py-2 underline" href={map}>{mapLabel}</a>
+          <a className="underline" href={map}>{reviewLabel}</a>
+        </TravelHero>
+        {image&&<p className="mx-auto mt-3 max-w-4xl px-4 text-xs text-[var(--text-muted)]">{caption} · <a className="underline" href={image.source}>{image.artist}</a> {image.license}</p>}
         {/* Intro */}
         <section className="section-padding pt-0">
           <div className="max-w-4xl mx-auto px-4 sm:px-6">

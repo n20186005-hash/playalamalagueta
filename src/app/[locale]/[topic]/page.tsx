@@ -86,7 +86,7 @@ export default async function TopicPageRoute({
 
   return (
     <>
-      <Header solid />
+      <Header />
       <TopicPage locale={localeKey} slug={topic} entry={entry} content={content} />
       <Footer />
     </>

@@ -10,7 +10,7 @@ import type { Area } from './types';
 export const places = [...landmarks, ...streets, ...museums, ...coast, ...secondRound];
 export const getPlace = (slug: string) => places.find((place) => place.slug === slug);
 
-export const checkedOn = '2026-11-23';
+export const checkedOn = '2026-11-24';
 export const cityBeach = 'https://www.malaga.eu/la-ciudad/playas/la-malagueta/index.html';
 export const cityBus = 'https://emtsam.org/blog/';
 export const beachMaps = 'https://maps.app.goo.gl/hLbRvdwVPo37TgFq8';

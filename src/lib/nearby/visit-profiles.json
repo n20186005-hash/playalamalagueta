@@ -1,0 +1,206 @@
+{
+  "fort": {
+    "en": {
+      "type": "Fortified palace",
+      "hours": "From November to March the city lists 09:00–18:00; from April to October, 09:00–20:00. Last entry is an hour before closing.",
+      "fee": "Standard admission €7; combined ticket with Gibralfaro €10. The city lists free entry on Sundays after 14:00. Bring identification for concessions."
+    },
+    "es": {
+      "type": "Palacio fortificado",
+      "hours": "De noviembre a marzo el Ayuntamiento indica 09:00–18:00 y de abril a octubre 09:00–20:00. Última entrada una hora antes del cierre.",
+      "fee": "General 7 €, conjunta con Gibralfaro 10 €. El Ayuntamiento anuncia acceso gratuito los domingos desde las 14:00. Lleva acreditación para las reducciones."
+    },
+    "zh": {
+      "type": "设防宫堡",
+      "hours": "市政府公布11月至3月09:00至18:00，4月至10月09:00至20:00，闭馆前一小时停止入场。",
+      "fee": "普通票7欧元，宫堡与希布拉尔法罗城堡联票10欧元。市政府列周日14:00起免费，申请折扣须携带证明。"
+    }
+  },
+  "archaeology": {
+    "en": {
+      "type": "Archaeological site",
+      "hours": "The regional directory lists Tue–Sat 10:00–18:00 and Sun/public holidays 10:00–16:00. Check holiday closures with the site.",
+      "fee": "Independent visits do not require a booking. Contact the interpretation centre for guided visits."
+    },
+    "es": {
+      "type": "Enclave arqueológico",
+      "hours": "La Junta indica martes a sábado 10:00–18:00 y domingos y festivos 10:00–16:00. Consulta los cierres de fechas señaladas.",
+      "fee": "La visita libre no requiere reserva. Para el recorrido guiado consulta al centro de interpretación."
+    },
+    "zh": {
+      "type": "考古遗址",
+      "hours": "自治区公布周二至周六10:00至18:00，周日及节假日10:00至16:00，特殊节日可能闭馆。",
+      "fee": "自行参观不须预约，导览请直接联系解说中心确认安排。"
+    }
+  },
+  "church": {
+    "en": {
+      "type": "Church and place of worship",
+      "hours": "Consult the parish or the posted service times before entering. During worship, start with the exterior and return after the service.",
+      "fee": "The public approach can be viewed freely. Cultural tours, rooftops, crypts and concerts may have separate admission; check what the booking includes."
+    },
+    "es": {
+      "type": "Templo y lugar de culto",
+      "hours": "Consulta el horario del templo o los oficios anunciados en la puerta. Durante el culto empieza por el exterior y vuelve después.",
+      "fee": "Se puede contemplar el exterior desde la vía pública. Visitas culturales, cubiertas, criptas o conciertos pueden tener entrada propia; comprueba qué incluye la reserva."
+    },
+    "zh": {
+      "type": "宗教建筑与礼拜场所",
+      "hours": "入堂前查询堂区安排或门口的礼拜告示。仪式期间，可先看外观，结束后再回来。",
+      "fee": "从公共道路看外观免费。屋顶、墓室、文化导览或音乐会可能另有票务，购票前确认包含的区域。"
+    }
+  },
+  "museum": {
+    "en": {
+      "type": "Museum or exhibition space",
+      "hours": "Check the venue’s current calendar before travelling, including any closure between visits or exhibitions and the last entry to the galleries.",
+      "fee": "Consult the venue for the current ticket, discounts and any separate guided visit. Do not include shop purchases or refreshments in the admission budget."
+    },
+    "es": {
+      "type": "Museo o sala de exposiciones",
+      "hours": "Comprueba el calendario del recinto, los posibles cierres entre visitas o exposiciones y la última admisión a las salas.",
+      "fee": "Consulta al recinto la tarifa vigente, reducciones y posibles visitas guiadas. Compras y consumiciones se pagan aparte."
+    },
+    "zh": {
+      "type": "博物馆或展览空间",
+      "hours": "出发前查看场馆日历，确认换展、分场接待及最后进馆时间。",
+      "fee": "向场馆核对当期票价、优惠资格与讲解是否另收费。购物和餐饮不计入参观票价。"
+    }
+  },
+  "garden": {
+    "en": {
+      "type": "Municipal park or garden",
+      "hours": "Plan a daylight visit. For gated sections check the entrance board before committing to a full loop; maintenance can change the return route.",
+      "fee": "A walk through the ordinary public garden does not need an attraction ticket. Events and nearby visitor facilities can have separate conditions."
+    },
+    "es": {
+      "type": "Parque o jardín municipal",
+      "hours": "Haz el recorrido con luz. En los sectores con verja consulta el cartel de entrada antes de completar la vuelta; el mantenimiento puede desviar el regreso.",
+      "fee": "No se necesita billete turístico para el paseo ordinario por el jardín público. Eventos y recintos vecinos pueden tener condiciones propias."
+    },
+    "zh": {
+      "type": "市政公园或园林",
+      "hours": "建议白天游览。围栏区应先看入口公告再决定环线，养护可能改变回程走法。",
+      "fee": "在公共园林内普通步行不需景点门票。活动或邻近场馆可能各有参观条件。"
+    }
+  },
+  "botanic": {
+    "en": {
+      "type": "Historic botanical garden",
+      "hours": "Check the garden’s seasonal calendar and final entry before arranging the return transfer. The closing time limits long walks on the grounds.",
+      "fee": "Consult the botanical garden ticket office for current admission, concessions and tours before travelling from central Málaga."
+    },
+    "es": {
+      "type": "Jardín botánico histórico",
+      "hours": "Consulta el calendario estacional y la última entrada antes de organizar el transporte de vuelta. El cierre limita los recorridos largos.",
+      "fee": "Consulta a la taquilla del Jardín Botánico la tarifa vigente, reducciones y visitas guiadas antes de salir del centro."
+    },
+    "zh": {
+      "type": "历史植物园",
+      "hours": "先看植物园季节日历与最晚入园时间，再安排回程接驳。长线步行须给闭园前返回留足时间。",
+      "fee": "从市中心出发前查询植物园售票处的现行票价、优惠与导览服务。"
+    }
+  },
+  "outdoor": {
+    "en": {
+      "type": "Public urban space",
+      "hours": "The outdoor route works best in daylight. Markets, performances, traffic diversions or street maintenance may occupy part of the space.",
+      "fee": "Walking on public pavements does not require a ticket. Pay separately for performances, transport, shopping and meals."
+    },
+    "es": {
+      "type": "Espacio público urbano",
+      "hours": "El recorrido exterior se disfruta con luz. Un acto, desvío de tráfico u obra puede ocupar parte del espacio público.",
+      "fee": "El paseo por la vía pública no requiere entrada. Espectáculos, transporte, compras y comidas se contratan aparte."
+    },
+    "zh": {
+      "type": "城市公共空间",
+      "hours": "白天便于辨认细节，活动、临时交通调整或养护可能占用部分公共空间。",
+      "fee": "公共道路步行不需购票，演出、交通、购物与餐饮另付。"
+    }
+  },
+  "exterior": {
+    "en": {
+      "type": "Historic building, exterior visit",
+      "hours": "The dependable visit is from the public pavement in daylight. Enter only for a published activity or with the permission of the current host.",
+      "fee": "There is no ticket for viewing from public ground. Access to a hall or event is arranged separately with its host."
+    },
+    "es": {
+      "type": "Edificio histórico, visita exterior",
+      "hours": "La opción regular es ver el edificio desde la acera y con luz. Entra solo para una actividad anunciada o con permiso de quien lo recibe.",
+      "fee": "Contemplar el edificio desde la calle no requiere entrada. El acceso a un salón o acto se consulta con su organizador."
+    },
+    "zh": {
+      "type": "历史建筑外观",
+      "hours": "白天从公共人行道观看最稳妥。入内须有公布的活动安排或接待方许可。",
+      "fee": "公共道路观看不需收费，进入厅室或参加活动应与主办方单独确认。"
+    }
+  },
+  "market": {
+    "en": {
+      "type": "Neighbourhood market",
+      "hours": "Morning is the practical time to find traders working. Check the market notice for the day and allow for different hours at individual stalls.",
+      "fee": "There is no attraction ticket for shopping at an open municipal market. Confirm prices and portions with the individual trader."
+    },
+    "es": {
+      "type": "Mercado de barrio",
+      "hours": "La mañana suele ser el momento práctico para encontrar actividad. Comprueba el aviso del mercado y los distintos horarios de los puestos.",
+      "fee": "No se necesita entrada turística para comprar en un mercado municipal abierto. Comprueba precios y raciones con cada puesto."
+    },
+    "zh": {
+      "type": "街区市场",
+      "hours": "上午通常更容易遇到营业摊位，应同时看市场公告及各摊位的实际营业时间。",
+      "fee": "开放的市政市场购物不需景点门票，商品、份量和价格与各摊位确认。"
+    }
+  },
+  "gated": {
+    "en": {
+      "type": "Historic cemetery",
+      "hours": "Use the public visitor gate and confirm its closing time on arrival. Funeral services or maintenance can limit access to individual aisles.",
+      "fee": "Confirm with the cemetery whether the visit or any guided walk has a charge. A tour reservation does not grant access to family enclosures."
+    },
+    "es": {
+      "type": "Cementerio histórico",
+      "hours": "Entra por la puerta de visitantes y confirma el cierre al llegar. Ceremonias o trabajos pueden limitar el paso por calles interiores.",
+      "fee": "Consulta al cementerio si hay importe de acceso o de visita guiada. La reserva no permite entrar en los panteones familiares."
+    },
+    "zh": {
+      "type": "历史墓园",
+      "hours": "从公共访客入口进入，到场时先确认关门时间。仪式或养护可能限制个别通道。",
+      "fee": "入园或导览是否收费可向墓园确认。预约导览不包含进入私人家族陵墓。"
+    }
+  },
+  "theatre": {
+    "en": {
+      "type": "Performance venue",
+      "hours": "The public square and the auditorium have different arrangements. For an interior visit, use the theatre’s programme and the time printed on your ticket.",
+      "fee": "Viewing the facade from the square is free. Seat prices depend on the production, date and part of the auditorium."
+    },
+    "es": {
+      "type": "Teatro de espectáculos",
+      "hours": "La plaza y el auditorio tienen accesos distintos. Para entrar comprueba la programación y la hora indicada en la entrada.",
+      "fee": "La fachada se ve gratis desde la plaza. El precio de la localidad depende del espectáculo, la fecha y la zona de la sala."
+    },
+    "zh": {
+      "type": "剧院",
+      "hours": "外部广场与观众厅各有开放安排。入内观演应查节目日历和票面场次。",
+      "fee": "广场看外观免费，观演票价依剧目、日期及座位区域而定。"
+    }
+  },
+  "beach": {
+    "en": {
+      "type": "Coastal beach and promenade",
+      "hours": "Daylight makes the access points easier to recognise. Lifeguards and beach services work seasonal hours. Check flags and local notices before going near the water.",
+      "fee": "The public shore and promenade do not require a ticket. Loungers, clubs, boats and beach restaurants charge separately."
+    },
+    "es": {
+      "type": "Playa y paseo litoral",
+      "hours": "Con luz se distinguen mejor los accesos. Socorrismo y servicios tienen temporada y horario propios. Consulta banderas y avisos antes de acercarte al agua.",
+      "fee": "La playa y el paseo públicos no requieren entrada. Hamacas, clubes, embarcaciones y restaurantes se abonan aparte."
+    },
+    "zh": {
+      "type": "海滩与滨海步道",
+      "hours": "白天更容易认出入口。救生与海滩服务按季节及时段运行，靠近水域前请留意旗帜和现场公告。",
+      "fee": "公共海岸与步道不需门票，躺椅、俱乐部、船只和餐馆分别收费。"
+    }
+  }
+}
