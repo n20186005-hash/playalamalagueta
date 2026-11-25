@@ -20,6 +20,7 @@ export default function TopicPage({ locale, slug, entry, content }: Props) {
   const localeKey = locale;
   const note = fieldNotes[slug as keyof typeof fieldNotes];
   const stop = note && getPlace(note.place);
+  const routeOverride = note && 'routeOverride' in note ? note.routeOverride[locale] : undefined;
   const stopLabels = {
     en: { plan: 'Planning this visit', stop: 'A nearby stop', guide: 'Walking directions and visitor information', map: 'Map of this stop' },
     es: { plan: 'Cómo organizar la visita', stop: 'Una parada cercana', guide: 'Recorrido a pie e información de visita', map: 'Mapa de esta parada' },
@@ -183,7 +184,7 @@ export default function TopicPage({ locale, slug, entry, content }: Props) {
               <p className="leading-relaxed mb-8">{note[locale]}</p>
               <aside aria-label={stopLabels.stop} className="rounded-xl border border-[var(--border-color)] bg-[var(--bg-secondary)] p-5">
                 <h3 className="font-display text-xl font-semibold">{stopLabels.stop} · {stop.title[locale]}</h3>
-                <p className="leading-relaxed my-3">{stop[note.detail as 'route' | 'observation' | 'access'][locale]}</p>
+                <p className="leading-relaxed my-3">{routeOverride ?? stop[note.detail as 'route' | 'observation' | 'access'][locale]}</p>
                 <div className="flex flex-wrap gap-x-6 gap-y-2 text-sm underline">
                   <a href={`/${locale}/nearby/${stop.slug}`}>{stopLabels.guide}</a>
                   <a href={mapsFor(stop.mapName ?? stop.name)}>{stopLabels.map}</a>

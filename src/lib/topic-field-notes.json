@@ -86,6 +86,11 @@
   "airport-to-malagueta": {
     "place": "alameda-principal",
     "detail": "route",
+    "routeOverride": {
+      "en": "From Málaga Centro-Alameda, walk east along Alameda Principal to Plaza de la Marina. Continue east along Paseo del Parque, then follow the signs to La Malagueta Beach.",
+      "es": "Desde Málaga Centro-Alameda, camina hacia el este por la Alameda Principal hasta la Plaza de la Marina. Continúa hacia el este por el Paseo del Parque y sigue las indicaciones hacia la playa de La Malagueta.",
+      "zh": "从马拉加市中心阿拉梅达站（Málaga Centro-Alameda）出发，沿 Alameda Principal 向东步行至滨海广场（Plaza de la Marina）。继续沿公园大道（Paseo del Parque）向东，再按路标步行至马拉盖塔海滩（La Malagueta）。"
+    },
     "en": "The airport train does not deposit you on the beach. At Málaga Centro-Alameda, decide whether to continue through Alameda Principal and Paseo del Parque on foot or change to surface transport. With luggage, save the hotel entrance rather than a pin in the sand. For the return, allow a separate margin to locate the platform.",
     "es": "El tren del aeropuerto no llega a la arena. En Málaga Centro-Alameda decide si continuar a pie por Alameda Principal y el Paseo del Parque o pasar al transporte de superficie. Con equipaje, guarda la entrada del alojamiento. Para la vuelta, deja margen para localizar el andén.",
     "zh": "机场列车不能直达沙滩。在市中心阿拉梅达站下车后，决定沿林荫主干道、公园大道步行，还是改乘地面交通。有行李时把住宿大门存为目的地，不要把图钉放在沙上。返程要另留找站台的时间。"
